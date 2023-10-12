@@ -4,7 +4,21 @@ A template repo for the standard Haniffa Lab project
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin ante at eleifend eleifend. Sed non vestibulum nisi. Aliquam vel condimentum quam. Donec fringilla et purus at auctor. Praesent euismod vitae metus non consectetur. Sed interdum aliquet nisl at efficitur. Nulla urna quam, gravida eget elementum eget, mattis nec tortor. Fusce ut neque tellus. Integer at magna feugiat lacus porta posuere eget vitae metus.
+We want to learn about the development of different bones (skull/femur/hipbone/shoulder/spine) as sites of haematopoesis. 
+
+How will we study this? 
+
+As a first step, look at the distribution of the progenitors binned by gestation and by organ. Compare with the bone marrow, liver, yolk sac cell composition by gestation. 
+
+Hypothesis:   haematopoeisis in the skull begins before it begins at the other bone sites.  The skull is an independent site of haematopoesis. 
+
+In the lymphoid organs (liver, BM), the macrophages and mast cells populate the haematopoetic organ, and interact with the microenvironment (stromal cells) to prepare the organ to start the production of progenitors. So, we’ll expect the infiltration and hence abundance of mast cells + macrophages at an earlier time-point, and an increase in the progenitors at later time points. Will we observe this in the skull? What’s our negative control? Knee as we don’t expect haematopoeisis there. 
+
+How will the transcriptional profile/abundance of the immune cells+ its microenvironment change across time? What does this tell about the change in the function of these cells across gestation. Can answer these questions by looking at the change in the ratio of the cell types. 
+
+
+Primary lymphoid organs:  bone marrow, liver and  thymus
+Secondary lymphoid organs: lymph nodes, the spleen, mucosa-associated lymphoid tissue (MALT) 
 
 ### Project Team
 
