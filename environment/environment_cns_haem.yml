@@ -1,0 +1,5 @@
+name: myenv
+channels:
+  - conda-forge
+  - bioconda
+prefix: /home/jovyan/my-conda-envs/myenv
