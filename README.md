@@ -10,11 +10,18 @@ This repository contains the full computational analysis pipeline used to constr
 
 Human haematopoiesis arises in successive developmental waves across distinct anatomical sites, transitioning from extra-embryonic tissues (yolk sac) to intra-embryonic organs (AGM, liver), before the bone marrow becomes the dominant site of immune cell production. While prenatal bone marrow haematopoiesis has been studied primarily in long bones, the contribution of other marrow sites such as the spine and skull remains poorly characterised.
 
-To address this, this project integrates single-cell RNA sequencing, single-nucleus RNA sequencing, and spatial transcriptomics (Visium) data spanning post conception weeks (PCW) 5–17. The resulting Bone Atlas comprises samples from 54 human embryos, profiled across 203 libraries, and captures the emergence, diversification, and spatial organisation of haematopoietic cell types across distinct bone marrow environments.
+To address this, this project integrates single-cell RNA sequencing, single-nucleus RNA sequencing, and spatial transcriptomics (Visium) data spanning post conception weeks (PCW) 5-19. The resulting Bone Atlas comprises samples from 59 human embryos, profiled across 203 libraries, and captures the emergence, diversification, and spatial organisation of haematopoietic cell types across distinct bone marrow environments.
 
 This repository provides all code required to reproduce the data processing, integration, annotation, and downstream analyses presented in this project, including cross-organ comparisons and spatial analyses.
 
 ---
+
+## Overview figure
+
+[![Bone Atlas overview](reports/figures/embryo_overview.png)](reports/figures/embryo_overview.png)
+
+**Figure:** Overview of the prenatal human bone marrow atlas across skull, spine, and long bones.
+
 
 ## Project Team
 
