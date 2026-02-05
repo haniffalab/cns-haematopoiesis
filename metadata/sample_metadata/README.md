@@ -1,85 +1,75 @@
-Metadata overview
+# Metadata directory
 
-This directory contains curated metadata tables describing samples used in the Bone Atlas and in cross-organ developmental comparison datasets. These metadata files provide harmonised information on sample origin, technology, age, and data access, and are used throughout downstream analyses.
+This directory contains metadata tables used to describe samples included in the Bone Atlas and in cross-organ developmental comparison datasets.  
+Files are organised by scope (combined, bone-specific, cross-organ, and legacy/reference metadata).
 
-Core combined metadata
-sample_metadata/COMBINED_BONE_CROSS_ORGAN_METADATA_FINAL.csv
+---
 
-This file contains harmonised metadata for:
+## `sample_metadata/`
 
-Bone Atlas samples
+Metadata tables that are actively used for analysis and harmonisation.
 
-Developmental organ datasets used for cross-organ comparison
+### `COMBINED_BONE_CROSS_ORGAN_METADATA_FINAL.csv`
 
-Each row corresponds to a single 10X library.
+Harmonised metadata for all samples included in the Bone Atlas and in developmental datasets used for cross-organ comparison.
 
-Key columns
+- Each row corresponds to a single 10X library.
+- This is the **primary metadata file** used throughout the project.
+- Includes information on sample origin, anatomical site, age, technology, and raw data accessions.
 
-Sample_ID
-10X sequencing lane or library identifier
+Key fields include:
+- Sample ID / 10X library ID  
+- Organ and anatomical site  
+- Developmental age  
+- Sequencing chemistry and method  
+- Cellular vs nuclear RNA  
+- Associated study and accession ID  
+- Multiplexing and FACS sorting status  
 
-Organ
-Broad organ or tissue category (e.g. bone, brain, liver)
+---
 
-Anatomical_Site
-More specific anatomical sampling location
+## `CROSS_ORGAN_METADATA.csv`
 
-10X_Chemistry
-10X Genomics chemistry version used
+Metadata for **developmental organ datasets only**, excluding Bone Atlas samples.
 
-Method
-Library preparation method (5′, 3′, or multiome)
+- Used for analyses restricted to non-bone organs.
+- Subset of the combined metadata with bone-specific samples removed.
 
-Technology
-Cellular or nuclear RNA sequencing
+---
 
-Age
-Developmental age of the sample
+## `BONE_ATLAS_METADATA.csv`
 
-Multiplexed
-Whether samples were multiplexed (Yes / No)
+Metadata for **Bone Atlas samples only**.
 
-Study
-Name of the publication or study associated with the dataset
+- Includes all bone-derived organs and anatomical sites.
+- Used for bone-restricted analyses and figure generation.
 
-Accession_ID
-Raw data accession or storage location (e.g. GEO, EGA, ArrayExpress)
+---
 
-FACS_Sorting
-Whether the sample was FACS-sorted prior to sequencing (Yes / No)
+## Study-specific metadata files
 
-Organ-specific metadata files
-CROSS_ORGAN_METADATA.csv
+### `Linnarson_EGAD00001006049.csv`
 
-Metadata for developmental organ datasets only, excluding Bone Atlas samples.
+Metadata for the brain dataset from **Braun et al., 2022**.
 
-Linnarson_EGAD00001006049.csv
+- EGA accession: `EGAD00001006049`
+- Contains study-specific annotations provided with the original publication.
 
-Metadata for the brain dataset from
-Braun et al., 2022
-(EGA accession: EGAD00001006049)
+---
 
-BONE_ATLAS_METADATA.csv
+## `cross_organ_comparison_EMAT_metadata/`
 
-Metadata for Bone Atlas samples only, covering bone-derived organs and anatomical sites.
+Original metadata files for **developmental organ datasets** obtained from BioStudies / ArrayExpress.
 
-ArrayExpress / BioStudies metadata
-cross_organ_comparison_EMAT_metadata/
+e.g.; 
+- https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-14385
 
-This directory contains metadata files for developmental organ datasets used in cross-organ comparisons. These were obtained from BioStudies / ArrayExpress:
+These files reflect the metadata as deposited in public repositories and are retained for reference and traceability.
 
-Study accession: E-MTAB-14385
+---
 
-Link: https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-14385
+## `bone_atlas_EMAT_metadata/`
 
-Files correspond to original E-MTAB metadata tables.
+Original metadata files for **Bone Atlas datasets** obtained from BioStudies / ArrayExpress.
 
-bone_atlas_EMAT_metadata/
-
-This directory contains metadata files for Bone Atlas datasets obtained from BioStudies / ArrayExpress:
-
-Study accession: E-MTAB-14385
-
-Link: https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-14385
-
-These files represent the original submitted metadata for Bone Atlas samples.
+--
