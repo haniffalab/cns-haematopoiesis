@@ -1,0 +1,348 @@
+{
+        "lymphoid progenitor": [
+            "CD34",
+            "SPINK2",
+            "IL7R",
+            "KIT"
+        ],
+        "PRE PRO B": [
+            "FLT3",
+            "CD19",
+            "VPREB1"
+        ],
+        "PRO B": [
+            "MME",
+            "CDC45",
+            "DHFR",
+            "MKI67"
+        ],
+        "LATE PRO B": [
+            "CD27",
+            "RAG1",
+            "DNTT",
+            "VPREB3"
+        ],
+        "PRO -> PRE": [
+            "CD24",
+            "TNFRSF17"
+        ],
+        "PRE -> IMMATURE": [
+            "MME",
+            "IDH2",
+            "SPIB",
+            "IL4R",
+            "IGHM"
+        ],
+        "MATURE": [
+            "IGHD",
+            "MS4A1",
+            "CD40",
+            "FCER2"
+        ],
+        "B1": [
+            "CD27",
+            "SPN",
+            "CCR10"
+        ],
+        "PLASMA B": [
+            "JCHAIN",
+            "SDC1",
+            "CD38"
+        ],
+        "CYCLING_B": [
+            "MKI67"
+        ],
+    
+        "Myeloid Early Progenitor": [
+            "CD34",
+            "SPINK2",
+            "MLLT3"
+        ],
+        "Myeloid_progenitor": [
+            "PRSS57",
+            "PRTN3",
+            "AZU1"
+        ],
+        "Neutrophil lineage": [
+            "ELANE",
+            "DEFA4",
+            "LCN2",
+            "LTF",
+            "ORM1"
+        ],
+        "Monocyte_lineage": [
+            "CD52",
+            "S100A8",
+            "MS4A6A",
+            "CD14",
+            "CXCR4",
+            "CCR2",
+            "IL1B",
+            "CD300E"
+        ],
+        "DC_progenitor": [
+            "ACY3",
+            "TIFAB",
+            "KIF17"
+        ],
+        "pDC": [
+            "CLEC4C",
+            "JCHAIN",
+            "IRF7"
+        ],
+        "ASDC": [
+            "SIGLEC6",
+            "AXL"
+        ],
+        "DC2": [
+            "CLEC10A",
+            "CD1C"
+        ],
+        "DC1": [
+            "CLEC9A",
+            "BATF3"
+        ],
+        "MIGRATORY_DC": [
+            "CCR7",
+            "LAMP3"
+        ],
+        "LANGERHANS_CELLS": [
+            "IDO1",
+            "CD207",
+            "CD1A"
+        ],
+        "EO_BASO_MAST": [
+            "CLC",
+            "KIT",
+            "TPSAB1"
+        ],
+        "MAC_LYVE1_HIGH": [
+            "F13A1",
+            "LYVE1",
+            "SPP1"
+        ],
+        "MAC_IRON_RECYCLING": [
+            "CD5L",
+            "APOE",
+            "VCAM1"
+        ],
+        "MAC_PROLIFERATING": [
+            "TOP2A",
+            "MKI67"
+        ],
+        "MAC_MHCII_HIGH": [
+            "HLA-DRA",
+            "HLA-DPA1",
+            "CLEC7A"
+        ],
+        "MAC_KUPFFER_LIKE": [
+            "ENG",
+            "KDR",
+            "CAV1"
+        ],
+        "MAC_TREM2": [
+            "TREM2",
+            "P2RY12"
+        ],
+        "MAC_TLF+": [
+            "TIMD4",
+            "FOLR2",
+            "LYVE1"
+        ],
+        "OSTEOCLAST": [
+            "MMP9",
+            "ACP5"
+        ],
+        "Megakaryocyte Erythroid Precursors": [
+            "TESPA1",
+            "GATA2",
+            "FCER1A"
+        ],
+        "Early_ERY": [
+            "KLF1",
+            "APOE",
+            "FAM178B"
+        ],
+        "Mid_ERY": [
+            "BLVRB",
+            "CD36",
+            "OAT"
+        ],
+        "Late_ERY": [
+            "GYPA",
+            "GYPB",
+            "SLC4A1"
+        ],
+        "YS_ERY": [
+            "HBZ",
+            "HBE1"
+        ],
+        "Early_MK": [
+            "HBD",
+            "PF4"
+        ],
+        "late_MK": [
+            "ITGA2B",
+            "ITGB3",
+            "CLK1"
+        ],
+        "VSMC_PERICYTE_III": [
+            "PDGFRA",
+            "TAGLN",
+            "RGS5"
+        ],
+        "MACROPHAGE_ERY": [
+            "C1QA",
+            "CD163"
+        ],
+        "Proliferating": [
+            "TOP2A",
+            "MKI67"
+        ],
+        "HSC_MPP": [
+            "CLEC9A",
+            "HLF",
+            "CD34",
+            "SPINK2"
+        ],
+        "MLP": [
+            "BCL11A",
+            "IL7R",
+            "IL2RG"
+        ],
+        "B lineage": [
+            "CD19",
+            "VPREB1",
+            "PAX5"
+        ],
+        "T lineage": [
+            "CD3D",
+            "BCL11B"
+        ],
+        "MEMP": [
+            "GATA2"
+        ],
+        "MEP": [
+            "KLF1",
+            "ITGA2B"
+        ],
+        "Ery lineage": [
+            "HBB",
+            "HBG1"
+        ],
+        "Myeloid lineage": [
+            "MPO",
+            "CSF1R",
+            "CEBPA"
+        ],
+        "FIBROBLAST": [
+            "PDGFRA"
+        ],
+        "SPLENIC FIBRO": [
+            "NKX2-5"
+        ],
+        "MYOFIBROBLAST": [
+            "ACTA2"
+        ],
+        "MYSENCHYMAL LYMPHOID TISSUE ORGANISER": [
+            "CCL19",
+            "CCL21",
+            "CXCL13"
+        ],
+        "MUSCLE SATELLITE CELLS": [
+            "PAX7",
+            "MYOD1",
+            "MYF5"
+        ],
+        "SKELETAL MUSCLE": [
+            "MYL1",
+            "ACTA1",
+            "TNNT3"
+        ],
+        "SMOOTH MUSCLE": [
+            "MYH11",
+            "TAGLN",
+            "ACTA2",
+            "DES"
+        ],
+        "MESOTHELIUM": [
+            "UPK3B",
+            "LRRN4"
+        ],
+        "OSTEOBLAST": [
+            "IBSP",
+            "PHOSPHO1",
+            "IFITM5"
+        ],
+        "CHONDROCYTE": [
+            "CSPG4",
+            "COL9A1",
+            "HAPLN1"
+        ],
+        "GLIAL CELL": [
+            "SOX10",
+            "SOX2"
+        ],
+        "NEURON": [
+            "TUBB2B",
+            "STMN4",
+            "ELAVL3"
+        ],
+        "MELANOCYTE": [
+            "PMEL",
+            "TYR",
+            "TYRP1",
+            "MLANA"
+        ],
+        "KERATINOCYTE": [
+            "KRT14",
+            "KRT5",
+            "GATA3"
+        ],
+        "HEPATOCYTE": [
+            "APOA1",
+            "ALB",
+            "AFP"
+        ],
+        "DEVELOPING NEPHRON": [
+            "PAX2"
+        ],
+        "EPITHELIUM": [
+            "EPCAM",
+            "CDH1",
+            "KRT19"
+        ],
+        "INTERSTITIAL CELLS OF CAJAL": [
+            "ETV1",
+            "KIT"
+        ],
+        "ENTEROENDOCRINE CELL": [
+            "CHGA",
+            "NEUROD1",
+            "NEUROG3"
+        ],
+        "ENDOTHELIUM": [
+            "CDH5",
+            "PECAM1",
+            "CD34"
+        ],
+        "VSMC/PERICYTE": [
+            "ACTA2",
+            "TAGLN",
+            "RGS5"
+        ],
+        "PERIVASCULAR MACROPHAGE": [
+            "C1QA",
+            "RNASE1",
+            "LYVE1"
+        ],
+        "CYCLING": [
+            "MKI67"
+        ],
+        "ERY": [
+            "HBB"
+        ],
+        "IMMUNE": [
+            "PTPRC"
+        ]
+    }

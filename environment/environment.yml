@@ -1,0 +1,17 @@
+name: boneatlas
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.9
+  - pandas
+  - scanpy
+  - anndata
+  - scipy
+  - numpy
+  - scvi-tools
+  - h5py
+  - scrublet
+  - celltypist
+  - cellrank
+  - pip

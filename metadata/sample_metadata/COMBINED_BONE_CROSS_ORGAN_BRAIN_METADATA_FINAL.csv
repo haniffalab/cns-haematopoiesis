@@ -1,0 +1,931 @@
+,FACS_Sorting,Age,Method,Multiplexed,Dataset,Anatomical_Site,Organ,10X_Chemistry,Donor_ID,Accession_ID,Organism,Sample_ID,Sex,Expected_Donors,Study,Technology,Age(PCW)
+0,Total,6.0,3GEX,No,Linnarson,Spinal_cord_lumbar,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X147_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+1,Total,10.0,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X101_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+2,Total,10.0,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X101_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+3,Total,10.0,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X101_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+4,Total,10.0,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X101_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+5,Total,10.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X101_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+6,Total,10.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X101_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+7,Total,10.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X101_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+8,Total,10.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X101_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+9,Total,6.0,3GEX,No,Linnarson,Spinal_cord_cervical,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X147_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+10,Total,6.0,3GEX,No,Linnarson,Spinal_cord_thoracic,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X147_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+11,Total,6.0,3GEX,No,Linnarson,Spinal_cord_lumbar,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X147_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+12,Total,6.0,3GEX,No,Linnarson,Spinal_cord_thoracic,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X147_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+13,Total,6.0,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X148_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+14,Total,6.0,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X148_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+15,Total,6.0,3GEX,No,Linnarson,Spinal_cord_cervical,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X148_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+16,Total,6.0,3GEX,No,Linnarson,Spinal_cord_cervical,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X148_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+17,Total,6.0,3GEX,No,Linnarson,Spinal_cord_lumbar,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X148_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+18,Total,6.0,3GEX,No,Linnarson,Spinal_cord_lumbar,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X148_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+19,Total,6.0,3GEX,No,Linnarson,Spinal_cord_thoracic,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X148_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+20,Total,6.0,3GEX,No,Linnarson,Spinal_cord_thoracic,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X148_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+21,Total,6.0,3GEX,No,Linnarson,Lung,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X151_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+22,Total,6.0,3GEX,No,Linnarson,Heart,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X151_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+23,Total,6.7,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X152_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+24,Total,6.7,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X152_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+25,Total,6.7,3GEX,No,Linnarson,Diencephalon,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X152_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+26,Total,6.7,3GEX,No,Linnarson,Diencephalon,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X152_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+27,Total,8.0,3GEX,No,Linnarson,Thalamus,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X99_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+28,Total,8.0,3GEX,No,Linnarson,Thalamus,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X99_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+29,Total,8.0,3GEX,No,Linnarson,Pons,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X99_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+30,Total,8.0,3GEX,No,Linnarson,Pons,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X99_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+31,Total,8.0,3GEX,No,Linnarson,MGE_(striatum),Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X99_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+32,Total,8.0,3GEX,No,Linnarson,MGE_(striatum),Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X99_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+33,Total,8.0,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X98_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+34,Total,8.0,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X98_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+35,Total,8.0,3GEX,No,Linnarson,LGE_(striatum),Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X98_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+36,Total,8.0,3GEX,No,Linnarson,LGE_(striatum),Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X98_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+37,Total,8.0,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X98_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+38,Total,8.0,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X98_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+39,Total,8.0,3GEX,No,Linnarson,Ventral_midbrain,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X97_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+40,Total,8.0,3GEX,No,Linnarson,Ventral_midbrain,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X97_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+41,Total,8.0,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X97_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+42,Total,8.0,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X97_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+43,Total,8.0,3GEX,No,Linnarson,Dorsal_midbrain,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X96_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+44,Total,8.0,3GEX,No,Linnarson,Dorsal_midbrain,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X96_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+45,Total,8.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X96_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+46,Total,8.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X96_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+47,Total,8.0,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X96_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+48,Total,8.0,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X96_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+49,Total,8.0,3GEX,No,Linnarson,Amygdala,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X96_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+50,Total,8.0,3GEX,No,Linnarson,Amygdala,Brain,10x3'v2,BRC2021,EGAD00001006049,Human,10X96_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+51,Total,9.5,3GEX,No,Linnarson,Subcortical_forebrain,Brain,10x3'v2,XHU:292,EGAD00001006049,Human,10X92_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.5
+52,Total,9.5,3GEX,No,Linnarson,Subcortical_forebrain,Brain,10x3'v2,XHU:292,EGAD00001006049,Human,10X92_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.5
+53,Total,9.5,3GEX,No,Linnarson,Forebrain_cortex,Brain,10x3'v2,XHU:292,EGAD00001006049,Human,10X92_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.5
+54,Total,9.5,3GEX,No,Linnarson,Forebrain_cortex,Brain,10x3'v2,XHU:292,EGAD00001006049,Human,10X92_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.5
+55,Total,8.0,3GEX,No,Linnarson,Ventral_midbrain,Brain,10x3'v2,BRC2006,EGAD00001006049,Human,10X89_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+56,Total,8.0,3GEX,No,Linnarson,Ventral_midbrain,Brain,10x3'v2,BRC2006,EGAD00001006049,Human,10X89_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+57,Total,8.0,3GEX,No,Linnarson,Thalamus,Brain,10x3'v2,BRC2006,EGAD00001006049,Human,10X89_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+58,Total,8.0,3GEX,No,Linnarson,Thalamus,Brain,10x3'v2,BRC2006,EGAD00001006049,Human,10X89_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+59,Total,8.0,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v2,BRC2006,EGAD00001006049,Human,10X89_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+60,Total,8.0,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v2,BRC2006,EGAD00001006049,Human,10X89_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+61,Total,8.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,BRC2006,EGAD00001006049,Human,10X89_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+62,Total,8.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,BRC2006,EGAD00001006049,Human,10X89_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+63,Total,12.9,3GEX,No,Linnarson,Lung,Brain,10x3'v2,XDD:359,EGAD00001006049,Human,10X214_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.9
+64,Total,12.9,3GEX,No,Linnarson,Lung,Brain,10x3'v2,XDD:359,EGAD00001006049,Human,10X214_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.9
+65,Total,12.9,3GEX,No,Linnarson,Occipital_cortex,Brain,10x3'v3,XDD:359,EGAD00001006049,Human,10X213_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.9
+66,Total,12.9,3GEX,No,Linnarson,Occipital_cortex,Brain,10x3'v3,XDD:359,EGAD00001006049,Human,10X213_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.9
+67,Total,12.9,3GEX,No,Linnarson,Pons,Brain,10x3'v3,XDD:359,EGAD00001006049,Human,10X213_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.9
+68,Total,12.9,3GEX,No,Linnarson,Medulla,Brain,10x3'v3,XDD:359,EGAD00001006049,Human,10X213_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.9
+69,Total,12.9,3GEX,No,Linnarson,Lower_cortex,Brain,10x3'v3,XDD:359,EGAD00001006049,Human,10X212_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.9
+70,Total,12.9,3GEX,No,Linnarson,Lower_cortex,Brain,10x3'v3,XDD:359,EGAD00001006049,Human,10X212_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.9
+71,Total,12.9,3GEX,No,Linnarson,Frontotemporal_cortex,Brain,10x3'v3,XDD:359,EGAD00001006049,Human,10X212_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.9
+72,Total,12.9,3GEX,No,Linnarson,Frontotemporal_cortex,Brain,10x3'v3,XDD:359,EGAD00001006049,Human,10X212_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.9
+73,Total,12.9,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v3,XDD:359,EGAD00001006049,Human,10X212_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.9
+74,Total,12.9,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v3,XDD:359,EGAD00001006049,Human,10X212_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.9
+75,Total,11.5,3GEX,No,Linnarson,Subcortical_forebrain,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X211_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+76,Total,11.5,3GEX,No,Linnarson,Subcortical_forebrain,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X211_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+77,Total,11.5,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X211_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+78,Total,11.5,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X211_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+79,Total,11.5,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X211_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+80,Total,11.5,3GEX,No,Linnarson,Subcortical_forebrain,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X210_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+81,Total,11.5,3GEX,No,Linnarson,Subcortical_forebrain,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X210_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+82,Total,11.5,3GEX,No,Linnarson,Pons,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X210_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+83,Total,11.5,3GEX,No,Linnarson,Pons,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X210_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+84,Total,11.5,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X210_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+85,Total,11.5,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X210_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+86,Total,11.5,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X210_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+87,Total,11.5,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X210_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+88,Total,11.5,3GEX,No,Linnarson,Frontotemporal_cortex,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X208_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+89,Total,11.5,3GEX,No,Linnarson,Upper_cortex,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X209_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+90,Total,11.5,3GEX,No,Linnarson,Lower_cortex,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X209_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+91,Total,11.5,3GEX,No,Linnarson,Frontotemporal_cortex,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X209_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+92,Total,11.5,3GEX,No,Linnarson,Upper_cortex,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X208_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+93,Total,11.5,3GEX,No,Linnarson,Upper_cortex,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X208_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+94,Total,11.5,3GEX,No,Linnarson,Occipital_cortex,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X208_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+95,Total,11.5,3GEX,No,Linnarson,Occipital_cortex,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X208_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+96,Total,11.5,3GEX,No,Linnarson,Lower_cortex,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X208_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+97,Total,11.5,3GEX,No,Linnarson,Lower_cortex,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X208_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+98,Total,11.5,3GEX,No,Linnarson,Frontotemporal_cortex,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X208_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+99,Total,11.5,3GEX,No,Linnarson,Spinal_cord_lumbar,Brain,10x3'v2,XDD:358,EGAD00001006049,Human,10X207_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+100,Total,5.3,3GEX,No,Linnarson,Heart,Brain,10x3'v2,XHU:355,EGAD00001006049,Human,10X202_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.3
+101,Total,11.5,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X207_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+102,Total,11.5,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X207_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+103,Total,5.3,3GEX,No,Linnarson,Spinal_cord,Brain,10x3'v2,XHU:355,EGAD00001006049,Human,10X201_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.3
+104,Total,5.3,3GEX,No,Linnarson,Heart,Brain,10x3'v2,XHU:355,EGAD00001006049,Human,10X202_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.3
+105,Total,5.3,3GEX,No,Linnarson,Spinal_cord,Brain,10x3'v2,XHU:355,EGAD00001006049,Human,10X201_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.3
+106,Total,6.9,3GEX,No,Linnarson,Cortical_hem,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X200_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+107,Total,11.5,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,XDD:358,EGAD00001006049,Human,10X207_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,11.5
+108,Total,6.9,3GEX,No,Linnarson,Medulla,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X200_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+109,Total,6.9,3GEX,No,Linnarson,Cortex,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X200_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+110,Total,6.9,3GEX,No,Linnarson,Thalamus,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X199_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+111,Total,6.9,3GEX,No,Linnarson,Thalamus,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X199_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+112,Total,6.9,3GEX,No,Linnarson,Thalamus,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X199_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+113,Total,6.9,3GEX,No,Linnarson,Pons,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X199_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+114,Total,6.9,3GEX,No,Linnarson,Pons,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X199_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+115,Total,6.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X199_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+116,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X197_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+117,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X197_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+118,Total,6.9,3GEX,No,Linnarson,Dorsal_midbrain,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X198_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+119,Total,6.9,3GEX,No,Linnarson,Dorsal_midbrain,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X198_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+120,Total,6.9,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X198_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+121,Total,6.9,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X198_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+122,Total,6.9,3GEX,No,Linnarson,Thalamus,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X199_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+123,Total,6.9,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X197_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+124,Total,6.9,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X197_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+125,Total,6.9,3GEX,No,Linnarson,Dorsal_midbrain,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X197_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+126,Total,6.9,3GEX,No,Linnarson,Dorsal_midbrain,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X197_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+127,Total,13.9,3GEX,No,Linnarson,Lung,Brain,10x3'v2,XDD:351,EGAD00001006049,Human,10X189_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+128,Total,6.9,3GEX,No,Linnarson,Dorsal_midbrain,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X196_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+129,Total,6.9,3GEX,No,Linnarson,Dorsal_midbrain,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X196_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+130,Total,6.9,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X196_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+131,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X196_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+132,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X196_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+133,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X198_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+134,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X198_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+135,Total,6.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,BRC2191,EGAD00001006049,Human,10X199_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+136,Total,13.9,3GEX,No,Linnarson,Lung,Brain,10x3'v2,XDD:351,EGAD00001006049,Human,10X189_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+137,Total,13.9,3GEX,No,Linnarson,Subcortex,Brain,10x3'v3,XDD:351,EGAD00001006049,Human,10X187_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+138,Total,13.9,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v3,XDD:351,EGAD00001006049,Human,10X187_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+139,Total,13.9,3GEX,No,Linnarson,Pons,Brain,10x3'v3,XDD:351,EGAD00001006049,Human,10X186_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+140,Total,13.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,XDD:351,EGAD00001006049,Human,10X186_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+141,Total,13.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,XDD:351,EGAD00001006049,Human,10X185_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+142,Total,13.9,3GEX,No,Linnarson,Pons,Brain,10x3'v3,XDD:351,EGAD00001006049,Human,10X185_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+143,Total,13.9,3GEX,No,Linnarson,Pons,Brain,10x3'v3,XDD:351,EGAD00001006049,Human,10X185_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+144,Total,13.9,3GEX,No,Linnarson,Subcortex,Brain,10x3'v3,XDD:351,EGAD00001006049,Human,10X185_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+145,Total,13.9,3GEX,No,Linnarson,Subcortex,Brain,10x3'v3,XDD:351,EGAD00001006049,Human,10X185_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+146,Total,5.0,3GEX,No,Linnarson,Lung,Brain,10x3'v2,XDD:348,EGAD00001006049,Human,10X180_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+147,Total,5.0,3GEX,No,Linnarson,Face,Brain,10x3'v2,XDD:348,EGAD00001006049,Human,10X181_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+148,Total,5.0,3GEX,No,Linnarson,Head,Brain,10x3'v3,XDD:348,EGAD00001006049,Human,10X181_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+149,Total,13.9,3GEX,No,Linnarson,Spinal_cord_cervical,Brain,10x3'v2,XDD:351,EGAD00001006049,Human,10X183_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+150,Total,13.9,3GEX,No,Linnarson,Spinal_cord_lumbar,Brain,10x3'v2,XDD:351,EGAD00001006049,Human,10X183_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+151,Total,13.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,XDD:351,EGAD00001006049,Human,10X185_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+152,Total,13.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,XDD:351,EGAD00001006049,Human,10X185_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+153,Total,13.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,XDD:351,EGAD00001006049,Human,10X185_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+154,Total,13.9,3GEX,No,Linnarson,Meninges,Brain,10x3'v2,XDD:351,EGAD00001006049,Human,10X184_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+155,Total,13.9,3GEX,No,Linnarson,Spinal_cord_thoracic,Brain,10x3'v2,XDD:351,EGAD00001006049,Human,10X183_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,13.9
+156,Total,5.0,3GEX,No,Linnarson,Forebrain,Brain,10x3'v3,XDD:348,EGAD00001006049,Human,10X177_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+157,Total,5.0,3GEX,No,Linnarson,Forebrain,Brain,10x3'v3,XDD:348,EGAD00001006049,Human,10X177_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+158,Total,5.0,3GEX,No,Linnarson,Forebrain,Brain,10x3'v3,XDD:348,EGAD00001006049,Human,10X177_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+159,Total,5.0,3GEX,No,Linnarson,Forebrain,Brain,10x3'v3,XDD:348,EGAD00001006049,Human,10X178_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+160,Total,5.0,3GEX,No,Linnarson,Hindbrain,Brain,10x3'v3,XDD:348,EGAD00001006049,Human,10X179_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+161,Total,5.0,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XDD:348,EGAD00001006049,Human,10X179_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+162,Total,5.0,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,XDD:348,EGAD00001006049,Human,10X178_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+163,Total,5.0,3GEX,No,Linnarson,Hindbrain,Brain,10x3'v3,XDD:348,EGAD00001006049,Human,10X178_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+164,Total,5.0,3GEX,No,Linnarson,Hindbrain,Brain,10x3'v3,XDD:348,EGAD00001006049,Human,10X178_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+165,Total,6.9,3GEX,No,Linnarson,Medulla,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X169_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+166,Total,6.9,3GEX,No,Linnarson,Medulla,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X169_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+167,Total,6.9,3GEX,No,Linnarson,Pons,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X169_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+168,Total,6.9,3GEX,No,Linnarson,Pons,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X169_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+169,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X169_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+170,Total,6.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X170_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+171,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X169_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+172,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X170_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+173,Total,6.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X170_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+174,Total,6.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X169_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+175,Total,6.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X169_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+176,Total,6.9,3GEX,No,Linnarson,Thalamus,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X168_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+177,Total,6.9,3GEX,No,Linnarson,Thalamus,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X168_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+178,Total,6.9,3GEX,No,Linnarson,Thalamus,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X168_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+179,Total,6.9,3GEX,No,Linnarson,Thalamus,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X167_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+180,Total,6.9,3GEX,No,Linnarson,Thalamus,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X167_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+181,Total,6.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X168_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+182,Total,6.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X168_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+183,Total,6.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X168_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+184,Total,8.5,3GEX,No,Linnarson,Pons,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X165_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+185,Total,8.5,3GEX,No,Linnarson,Pons,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X165_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+186,Total,8.5,3GEX,No,Linnarson,Medulla,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X165_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+187,Total,8.5,3GEX,No,Linnarson,Medulla,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X165_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+188,Total,8.5,3GEX,No,Linnarson,Heart,Brain,10x3'v2,XDD:342,EGAD00001006049,Human,10X166_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+189,Total,6.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X167_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+190,Total,6.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X167_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+191,Total,6.9,3GEX,No,Linnarson,Cortex,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X167_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+192,Total,6.9,3GEX,No,Linnarson,Cortex,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X167_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+193,Total,8.5,3GEX,No,Linnarson,Lung,Brain,10x3'v2,XDD:342,EGAD00001006049,Human,10X166_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+194,Total,6.6,3GEX,No,Linnarson,Pons/Cereb,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X119_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+195,Total,6.6,3GEX,No,Linnarson,Pons/Cereb,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X119_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+196,Total,6.6,3GEX,No,Linnarson,Pons/Cereb,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X119_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+197,Total,6.9,3GEX,No,Linnarson,Diencephalon,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X122_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+198,Total,6.6,3GEX,No,Linnarson,Pons/Cereb,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X119_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+199,Total,6.9,3GEX,No,Linnarson,Diencephalon,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X122_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+200,Total,6.9,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X122_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+201,Total,6.9,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X122_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+202,Total,6.9,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X122_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+203,Total,6.9,3GEX,No,Linnarson,Diencephalon,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X122_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+204,Total,6.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X122_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+205,Total,6.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X122_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+206,Total,6.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X123_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+207,Total,6.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X123_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+208,Total,6.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X123_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+209,Total,6.9,3GEX,No,Linnarson,Pons,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X123_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+210,Total,6.9,3GEX,No,Linnarson,Pons,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X123_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+211,Total,6.9,3GEX,No,Linnarson,Pons,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X123_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+212,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X123_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+213,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v2,BRC2110,EGAD00001006049,Human,10X123_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+214,Total,6.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X124_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+215,Total,6.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X124_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+216,Total,5.0,3GEX,No,Linnarson,Hindbrain,Brain,10x3'v3,XDD:348,EGAD00001006049,Human,10X178_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+217,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v3,BRC2061,EGAD00001006049,Human,10X170_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+218,Total,8.5,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X164_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+219,Total,8.5,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X164_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+220,Total,8.5,3GEX,No,Linnarson,Subcortical_forebrain,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X164_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+221,Total,8.5,3GEX,No,Linnarson,Subcortical_forebrain,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X164_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+222,Total,8.5,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X164_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+223,Total,8.5,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X163_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+224,Total,8.5,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X163_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+225,Total,8.5,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X164_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+226,Total,8.5,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X163_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+227,Total,8.5,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X163_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+228,Total,8.5,3GEX,No,Linnarson,Subcortical_forebrain,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X163_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+229,Total,8.0,3GEX,No,Linnarson,Heart,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X158_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+230,Total,8.0,3GEX,No,Linnarson,Lung,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X158_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+231,Total,8.0,3GEX,No,Linnarson,Lung,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X158_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+232,Total,8.5,3GEX,No,Linnarson,Spinal_cord_cervical,Brain,10x3'v2,XDD:342,EGAD00001006049,Human,10X162_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+233,Total,8.5,3GEX,No,Linnarson,Spinal_cord_lumbar,Brain,10x3'v2,XDD:342,EGAD00001006049,Human,10X162_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+234,Total,8.5,3GEX,No,Linnarson,Spinal_cord_thoracic,Brain,10x3'v2,XDD:342,EGAD00001006049,Human,10X162_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+235,Total,8.5,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X163_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+236,Total,8.5,3GEX,No,Linnarson,Subcortical_forebrain,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X163_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+237,Total,8.0,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X156_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+238,Total,8.0,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X156_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+239,Total,8.0,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X156_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+240,Total,8.0,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X156_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+241,Total,8.0,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X156_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+242,Total,8.0,3GEX,No,Linnarson,Subcortical_forebrain,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X156_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+243,Total,8.0,3GEX,No,Linnarson,Pons,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X157_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+244,Total,8.0,3GEX,No,Linnarson,Heart,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X158_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+245,Total,8.0,3GEX,No,Linnarson,Subcortical_forebrain,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X156_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+246,Total,8.0,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X157_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+247,Total,6.7,3GEX,No,Linnarson,Telencephalon,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X154_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+248,Total,6.7,3GEX,No,Linnarson,Pons,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X154_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+249,Total,6.7,3GEX,No,Linnarson,Pons,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X154_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+250,Total,6.7,3GEX,No,Linnarson,Pons,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X154_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+251,Total,8.0,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X156_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+252,Total,8.0,3GEX,No,Linnarson,Spinal_cord_thoracic,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X155_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+253,Total,8.0,3GEX,No,Linnarson,Spinal_cord_lumbar,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X155_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+254,Total,8.0,3GEX,No,Linnarson,Spinal_cord_cervical,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X155_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+255,Total,8.5,3GEX,No,Linnarson,Subcortical_forebrain,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X164_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+256,Total,8.5,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,XDD:342,EGAD00001006049,Human,10X163_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+257,Total,8.0,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X155_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+258,Total,8.0,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v2,XDD:334,EGAD00001006049,Human,10X155_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.0
+259,Total,6.7,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X154_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+260,Total,6.7,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X152_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+261,Total,6.7,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X152_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+262,Total,6.7,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X152_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+263,Total,6.0,3GEX,No,Linnarson,Spinal_cord_cervical,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X147_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+264,Total,8.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XDD:313,EGAD00001006049,Human,10X143_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+265,Total,6.0,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,XDD:326,EGAD00001006049,Human,10X147_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+266,Total,8.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XDD:313,EGAD00001006049,Human,10X143_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+267,Total,8.5,3GEX,No,Linnarson,Heart,Brain,10x3'v2,XDD:318,EGAD00001006049,Human,10X142_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+268,Total,8.5,3GEX,No,Linnarson,Spinal_cord_thoracic,Brain,10x3'v2,XDD:318,EGAD00001006049,Human,10X141_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+269,Total,8.5,3GEX,No,Linnarson,Spinal_cord_thoracic,Brain,10x3'v2,XDD:318,EGAD00001006049,Human,10X141_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+270,Total,8.5,3GEX,No,Linnarson,Spinal_cord_lumbar,Brain,10x3'v2,XDD:318,EGAD00001006049,Human,10X141_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+271,Total,8.5,3GEX,No,Linnarson,Spinal_cord_cervical,Brain,10x3'v2,XDD:318,EGAD00001006049,Human,10X141_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+272,Total,8.5,3GEX,No,Linnarson,Spinal_cord_cervical,Brain,10x3'v2,XDD:318,EGAD00001006049,Human,10X141_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+273,Total,8.5,3GEX,No,Linnarson,Lung,Brain,10x3'v2,XDD:318,EGAD00001006049,Human,10X140_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+274,Total,8.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XDD:313,EGAD00001006049,Human,10X132_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+275,Total,8.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XDD:313,EGAD00001006049,Human,10X132_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+276,Total,8.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XDD:313,EGAD00001006049,Human,10X132_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+277,Total,8.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XDD:313,EGAD00001006049,Human,10X132_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+278,Total,8.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XDD:313,EGAD00001006049,Human,10X132_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+279,Total,8.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XDD:313,EGAD00001006049,Human,10X132_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+280,Total,8.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XDD:313,EGAD00001006049,Human,10X132_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+281,Total,8.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XDD:313,EGAD00001006049,Human,10X132_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+282,Total,9.0,3GEX,No,Linnarson,Heart,Brain,10x3'v2,XHU:310,EGAD00001006049,Human,10X127_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.0
+283,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X126_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+284,Total,6.9,3GEX,No,Linnarson,Striatum,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X126_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+285,Total,6.9,3GEX,No,Linnarson,Pons,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X126_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+286,Total,6.7,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X154_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+287,Total,6.7,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X154_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+288,Total,6.7,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2147,EGAD00001006049,Human,10X152_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.7
+289,Total,8.5,3GEX,No,Linnarson,Spinal_cord_lumbar,Brain,10x3'v2,XDD:318,EGAD00001006049,Human,10X141_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.5
+290,Total,6.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X125_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+291,Total,6.9,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X125_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+292,Total,6.9,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X125_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+293,Total,6.9,3GEX,No,Linnarson,Diencephalon,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X125_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+294,Total,6.9,3GEX,No,Linnarson,Diencephalon,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X125_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+295,Total,6.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X126_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+296,Total,6.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X126_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+297,Total,6.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X126_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+298,Total,6.9,3GEX,No,Linnarson,Pons,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X126_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+299,Total,6.9,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X126_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+300,Total,6.9,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X124_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+301,Total,6.9,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X124_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+302,Total,6.9,3GEX,No,Linnarson,Diencephalon,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X124_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+303,Total,6.9,3GEX,No,Linnarson,Diencephalon,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X124_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+304,Total,6.9,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X124_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+305,Total,6.9,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X125_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+306,Total,6.9,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2114,EGAD00001006049,Human,10X124_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.9
+307,Total,6.6,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X119_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+308,Total,6.6,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X119_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+309,Total,6.6,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X119_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+310,Total,6.6,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X119_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+311,Total,6.6,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X118_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+312,Total,10.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X102_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+313,Total,10.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X102_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+314,Total,10.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X102_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+315,Total,10.0,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X102_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+316,Total,10.0,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X102_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+317,Total,10.0,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X102_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+318,Total,10.0,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X102_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+319,Total,10.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,XHU:297,EGAD00001006049,Human,10X102_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,10.0
+320,Total,8.1,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X104_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+321,Total,8.1,3GEX,No,Linnarson,Ventral_midbrain,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X103_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+322,Total,8.1,3GEX,No,Linnarson,Amygdala,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X103_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+323,Total,8.1,3GEX,No,Linnarson,Amygdala,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X103_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+324,Total,8.1,3GEX,No,Linnarson,Cortex_anterior,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X105_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+325,Total,8.1,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X104_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+326,Total,8.1,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X104_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+327,Total,8.1,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X104_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+328,Total,8.1,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X104_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+329,Total,8.1,3GEX,No,Linnarson,Thalamus,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X104_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+330,Total,8.1,3GEX,No,Linnarson,Cortex_anterior,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X105_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+331,Total,8.1,3GEX,No,Linnarson,Cortex_middle,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X105_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+332,Total,6.6,3GEX,No,Linnarson,Thalamus,Brain,10x3'v2,BRC2073,EGAD00001006049,Human,10X110_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+333,Total,6.6,3GEX,No,Linnarson,Thalamus,Brain,10x3'v2,BRC2073,EGAD00001006049,Human,10X110_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+334,Total,6.6,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2073,EGAD00001006049,Human,10X109_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+335,Total,6.6,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2073,EGAD00001006049,Human,10X109_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+336,Total,6.6,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2073,EGAD00001006049,Human,10X109_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+337,Total,6.6,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v2,BRC2073,EGAD00001006049,Human,10X109_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+338,Total,6.6,3GEX,No,Linnarson,Dorsal_midbrain,Brain,10x3'v2,BRC2073,EGAD00001006049,Human,10X109_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+339,Total,6.6,3GEX,No,Linnarson,Dorsal_midbrain,Brain,10x3'v2,BRC2073,EGAD00001006049,Human,10X109_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+340,Total,6.6,3GEX,No,Linnarson,Thalamus,Brain,10x3'v2,BRC2073,EGAD00001006049,Human,10X110_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+341,Total,8.1,3GEX,No,Linnarson,Thalamus,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X104_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+342,Total,8.1,3GEX,No,Linnarson,Thalamus,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X104_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+343,Total,8.1,3GEX,No,Linnarson,Cortex_anterior,Brain,10x3'v2,BRC2057,EGAD00001006049,Human,10X105_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,8.1
+344,Total,7.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:305,EGAD00001006049,Human,10X111_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,7.5
+345,Total,7.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:305,EGAD00001006049,Human,10X111_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,7.5
+346,Total,7.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:305,EGAD00001006049,Human,10X112_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,7.5
+347,Total,7.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:305,EGAD00001006049,Human,10X112_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,7.5
+348,Total,9.2,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X114_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+349,Total,9.2,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X114_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+350,Total,9.2,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X114_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+351,Total,9.2,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X114_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+352,Total,9.2,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X114_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+353,Total,9.2,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X114_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+354,Total,9.2,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X114_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+355,Total,9.2,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X114_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+356,Total,9.2,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X115_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+357,Total,9.2,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X115_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+358,Total,9.2,3GEX,No,Linnarson,Cortex,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X115_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+359,Total,9.2,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X115_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+360,Total,9.2,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X115_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+361,Total,9.2,3GEX,No,Linnarson,Forebrain,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X115_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+362,Total,9.2,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X115_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+363,Total,9.2,3GEX,No,Linnarson,Mesencephalon,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X115_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+364,Total,9.2,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X116_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+365,Total,9.2,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X116_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+366,Total,9.2,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X116_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+367,Total,9.2,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X116_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+368,Total,9.2,3GEX,No,Linnarson,Pons/Cereb,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X116_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+369,Total,9.2,3GEX,No,Linnarson,Pons/Cereb,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X116_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+370,Total,9.2,3GEX,No,Linnarson,Pons/Cereb,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X116_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+371,Total,9.2,3GEX,No,Linnarson,Pons/Cereb,Brain,10x3'v2,XHU:307,EGAD00001006049,Human,10X116_8,unknown,1,Braun_et_al_2023,10X_scRNA-seq,9.2
+372,Total,6.6,3GEX,No,Linnarson,Tel/diencephalon,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X118_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+373,Total,6.6,3GEX,No,Linnarson,Tel/diencephalon,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X118_2,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+374,Total,6.6,3GEX,No,Linnarson,Tel/diencephalon,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X118_3,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+375,Total,6.6,3GEX,No,Linnarson,Tel/diencephalon,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X118_4,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+376,Total,6.6,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X118_5,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+377,Total,6.6,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X118_6,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+378,Total,6.6,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,BRC2106A,EGAD00001006049,Human,10X118_7,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.6
+379,Total,12.0,3GEX,No,Linnarson,Subctx (forebrain),Brain,10x3'v3,XDD:351,EGAD50000001295,Human,10X188_4_ABC_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.0
+380,Total,7.0,3GEX,No,Linnarson,Hindbrain,Brain,10x3'v3,XDD:398,EGAD50000001295,Human,10X302_1_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,7.0
+381,Total,14.0,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X252_4_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+382,Total,12.0,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,XDD:351,EGAD50000001295,Human,10X186_1_ABC_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.0
+383,Total,6.0,3GEX,No,Linnarson,Brain,Brain,10x3'v3,XDD:395,EGAD50000001295,Human,10X287_7_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+384,Total,14.0,3GEX,No,Linnarson,Caudate-Putamen,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X255_2_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+385,Total,12.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v3,XDD:351,EGAD50000001295,Human,10X188_1_ABC_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.0
+386,Total,14.0,3GEX,No,Linnarson,Dorsal midbrain,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X252_1_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+387,Total,14.0,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X254_6_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+388,Total,12.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v3,XDD:351,EGAD50000001295,Human,10X187_2_ABC_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.0
+389,Total,14.0,3GEX,No,Linnarson,Caudate-Putamen,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X255_3_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+390,Total,5.5,3GEX,No,Linnarson,Midbrain,Brain,10x3'v3,XDD:400,EGAD50000001295,Human,10X298_7_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+391,Total,6.0,3GEX,No,Linnarson,Medulla,Brain,10x3'v2,XDD:326,EGAD50000001295,Human,10X147_1_ABC_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+392,Total,12.0,3GEX,No,Linnarson,Subctx (forebrain),Brain,10x3'v3,XDD:351,EGAD50000001295,Human,10X186_4_ABC_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.0
+393,Total,5.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v3,XDD:400,EGAD50000001295,Human,10X298_1_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+394,Total,6.0,3GEX,No,Linnarson,Brain,Brain,10x3'v3,XDD:395,EGAD50000001295,Human,10X288_3_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+395,Total,5.5,3GEX,No,Linnarson,Midbrain,Brain,10x3'v3,XDD:400,EGAD50000001295,Human,10X298_8_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+396,Total,6.0,3GEX,No,Linnarson,Brain,Brain,10x3'v3,XDD:395,EGAD50000001295,Human,10X288_2_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+397,Total,6.0,3GEX,No,Linnarson,Brain,Brain,10x3'v3,XDD:395,EGAD50000001295,Human,10X288_4_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+398,Total,14.0,3GEX,No,Linnarson,Caudate-Putamen,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X254_2_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+399,Total,12.0,3GEX,No,Linnarson,Hippocamp,Brain,10x3'v3,XDD:351,EGAD50000001295,Human,10X187_6_ABC_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.0
+400,Total,14.0,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X252_2_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+401,Total,14.0,3GEX,No,Linnarson,Dorsal midbrain,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X251_7_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+402,Total,6.0,3GEX,No,Linnarson,Brain,Brain,10x3'v3,XDD:395,EGAD50000001295,Human,10X287_5_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+403,Total,14.0,3GEX,No,Linnarson,Cortex (first half),Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X257_2_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+404,Total,6.0,3GEX,No,Linnarson,Brain,Brain,10x3'v3,XDD:395,EGAD50000001295,Human,10X288_6_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+405,Total,5.5,3GEX,No,Linnarson,Forebrain,Brain,10x3'v3,XDD:400,EGAD50000001295,Human,10X298_2_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+406,Total,14.0,3GEX,No,Linnarson,Hippocampus,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X252_3_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+407,Total,5.5,3GEX,No,Linnarson,Hindbrain,Brain,10x3'v3,XDD:400,EGAD50000001295,Human,10X298_3_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+408,Total,12.0,3GEX,No,Linnarson,Enthorinal cortex,Brain,10x3'v3,XDD:351,EGAD50000001295,Human,10X187_3_ABC_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.0
+409,Total,14.0,3GEX,No,Linnarson,Thalamus,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X254_7_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+410,Total,14.0,3GEX,No,Linnarson,Caudate-Putamen,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X255_1_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+411,Total,7.0,3GEX,No,Linnarson,Hindbrain,Brain,10x3'v3,XDD:398,EGAD50000001295,Human,10X302_3_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,7.0
+412,Total,14.0,3GEX,No,Linnarson,Ventral midbrain,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X252_5_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+413,Total,12.0,3GEX,No,Linnarson,Enthorinal cortex,Brain,10x3'v3,XDD:351,EGAD50000001295,Human,10X188_2_ABC_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.0
+414,Total,5.5,3GEX,No,Linnarson,Midbrain,Brain,10x3'v3,XDD:400,EGAD50000001295,Human,10X298_6_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+415,Total,7.0,3GEX,No,Linnarson,Midbrain,Brain,10x3'v3,XDD:398,EGAD50000001295,Human,10X302_7_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,7.0
+416,Total,6.0,3GEX,No,Linnarson,Brain,Brain,10x3'v3,XDD:395,EGAD50000001295,Human,10X287_6_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+417,Total,14.0,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X254_3_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+418,Total,12.0,3GEX,No,Linnarson,Hippocamp,Brain,10x3'v3,XDD:351,EGAD50000001295,Human,10X188_3_ABC_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.0
+419,Total,14.0,3GEX,No,Linnarson,Ventral midbrain,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X252_6_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+420,Total,12.0,3GEX,No,Linnarson,Enthorinal cortex,Brain,10x3'v3,XDD:351,EGAD50000001295,Human,10X187_4_ABC_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.0
+421,Total,14.0,3GEX,No,Linnarson,Cortex (second half),Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X257_5_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+422,Total,7.0,3GEX,No,Linnarson,Midbrain,Brain,10x3'v3,XDD:398,EGAD50000001295,Human,10X302_6_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,7.0
+423,Total,6.0,3GEX,No,Linnarson,Brain,Brain,10x3'v3,XDD:395,EGAD50000001295,Human,10X287_8_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+424,Total,7.0,3GEX,No,Linnarson,Hindbrain,Brain,10x3'v3,XDD:398,EGAD50000001295,Human,10X302_4_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,7.0
+425,Total,6.0,3GEX,No,Linnarson,Brain,Brain,10x3'v3,XDD:395,EGAD50000001295,Human,10X287_4_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+426,Total,6.0,3GEX,No,Linnarson,Brain,Brain,10x3'v3,XDD:395,EGAD50000001295,Human,10X288_5_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+427,Total,7.0,3GEX,No,Linnarson,Midbrain,Brain,10x3'v3,XDD:398,EGAD50000001295,Human,10X302_8_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,7.0
+428,Total,14.0,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X255_4_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+429,Total,6.0,3GEX,No,Linnarson,Brain,Brain,10x3'v3,XDD:395,EGAD50000001295,Human,10X288_7_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+430,Total,14.0,3GEX,No,Linnarson,Thalamus,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X255_7_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+431,Total,14.0,3GEX,No,Linnarson,Cortex (second half),Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X257_6_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+432,Total,5.5,3GEX,No,Linnarson,Hindbrain,Brain,10x3'v3,XDD:400,EGAD50000001295,Human,10X298_5_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+433,Total,14.0,3GEX,No,Linnarson,Ventral midbrain,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X252_7_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+434,Total,12.0,3GEX,No,Linnarson,Subctx (forebrain),Brain,10x3'v3,XDD:351,EGAD50000001295,Human,10X187_8_ABC_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.0
+435,Total,7.0,3GEX,No,Linnarson,Midbrain,Brain,10x3'v3,XDD:398,EGAD50000001295,Human,10X302_5_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,7.0
+436,Total,6.0,3GEX,No,Linnarson,Brain,Brain,10x3'v3,XDD:395,EGAD50000001295,Human,10X288_8_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+437,Total,14.0,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X255_6_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+438,Total,14.0,3GEX,No,Linnarson,Cortex (first half),Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X257_1_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+439,Total,14.0,3GEX,No,Linnarson,Cortex (second half),Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X257_4_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+440,Total,14.0,3GEX,No,Linnarson,Hypothalamus,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X254_5_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+441,Total,14.0,3GEX,No,Linnarson,Dorsal midbrain,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X251_8_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+442,Total,6.0,3GEX,No,Linnarson,Brain,Brain,10x3'v3,XDD:395,EGAD50000001295,Human,10X288_1_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,6.0
+443,Total,14.0,3GEX,No,Linnarson,Thalamus,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X254_8_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+444,Total,14.0,3GEX,No,Linnarson,Cerebellum,Brain,10x3'v3,XDD:385,EGAD50000001295,Human,10X254_4_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,14.0
+445,Total,7.0,3GEX,No,Linnarson,Hindbrain,Brain,10x3'v3,XDD:398,EGAD50000001295,Human,10X302_2_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,7.0
+446,Total,5.5,3GEX,No,Linnarson,Hindbrain,Brain,10x3'v3,XDD:400,EGAD50000001295,Human,10X298_4_AB_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,5.0
+447,Total,12.0,3GEX,No,Linnarson,Cortex,Brain,10x3'v3,XDD:351,EGAD50000001295,Human,10X187_1_ABC_1,unknown,1,Braun_et_al_2023,10X_scRNA-seq,12.0
+448,Total,8.5,10X_multiome,No,Bone_Atlas,calvaria,Calvaria ,10x_multiome,2361,E-MTAB-14385,Homo sapiens,HCA_BN_F12482363,,1,To_et_al_2024,10X_multiome,8.5
+449,Total,8.5,10X_multiome,No,Bone_Atlas,calvaria,Calvaria ,10x_multiome,2361,E-MTAB-14385,Homo sapiens,HCA_BN_F12482364,,1,To_et_al_2024,10X_multiome,8.5
+450,Total,8.5,10X_multiome,No,Bone_Atlas,calvaria,Calvaria ,10x_multiome,2361,E-MTAB-14385,Homo sapiens,HCA_BN_F12482365,,1,To_et_al_2024,10X_multiome,8.5
+451,Total,8.5,10X_multiome,No,Bone_Atlas,calvaria,Calvaria ,10x_multiome,2361,E-MTAB-14385,Homo sapiens,HCA_BN_F12482366,,1,To_et_al_2024,10X_multiome,8.5
+452,Total,9.4,10X_multiome,No,Bone_Atlas,calvaria,Calvaria ,10x_multiome,2384,E-MTAB-14385,Homo sapiens,HCA_BN_F12966455,,1,To_et_al_2024,10X_multiome,9.4
+453,Total,9.4,10X_multiome,No,Bone_Atlas,calvaria,Calvaria ,10x_multiome,2384,E-MTAB-14385,Homo sapiens,HCA_BN_F12966457,,1,To_et_al_2024,10X_multiome,9.4
+454,Total,9.4,10X_multiome,No,Bone_Atlas,calvaria,Calvaria ,10x_multiome,2384,E-MTAB-14385,Homo sapiens,HCA_BN_F12966458,,1,To_et_al_2024,10X_multiome,9.4
+455,Total,12,10X_multiome,No,Bone_Atlas,calvaria,Calvaria ,10x_multiome,HDBRXXX,E-MTAB-14385,Homo sapiens,HCA_BN_F13109710,,1,To_et_al_2024,10X_multiome,12
+456,Total,12,10X_multiome,No,Bone_Atlas,calvaria,Calvaria ,10x_multiome,HDBRXXX,E-MTAB-14385,Homo sapiens,HCA_BN_F13109711,,1,To_et_al_2024,10X_multiome,12
+457,Total,12,10X_multiome,No,Bone_Atlas,calvaria,Calvaria ,10x_multiome,HDBRXXX,E-MTAB-14385,Homo sapiens,HCA_BN_F13109712,,1,To_et_al_2024,10X_multiome,12
+458,Total,12,10X_multiome,No,Bone_Atlas,calvaria,Calvaria ,10x_multiome,HDBRXXX,E-MTAB-14385,Homo sapiens,HCA_BN_F13109713,,1,To_et_al_2024,10X_multiome,12
+459,Total,"10.3,11.2",10X_multiome,Yes,Bone_Atlas,calvaria,Calvaria ,10x_multiome,2356/2372,E-MTAB-14385,Homo sapiens,HCA_BN_F13177434,,2,To_et_al_2024,10X_multiome,"10.3,11.2"
+460,Total,"10.3,11.2",10X_multiome,Yes,Bone_Atlas,calvaria,Calvaria ,10x_multiome,2356/2372,E-MTAB-14385,Homo sapiens,HCA_BN_F13177435,,2,To_et_al_2024,10X_multiome,"10.3,11.2"
+461,Total,"10.3,11.2",10X_multiome,Yes,Bone_Atlas,calvaria,Calvaria ,10x_multiome,2356/2372,E-MTAB-14385,Homo sapiens,HCA_BN_F13177436,,2,To_et_al_2024,10X_multiome,"10.3,11.2"
+462,Total,5.8/7.6,10X_multiome,Yes,Bone_Atlas,calvaria,Calvaria ,10x_multiome,2370/2369,E-MTAB-14385,Homo sapiens,HCA_BN_F12808058,,2,To_et_al_2024,10X_multiome,5.8/7.6
+463,Total,5.8/7.6,10X_multiome,Yes,Bone_Atlas,calvaria,Calvaria ,10x_multiome,2370/2369,E-MTAB-14385,Homo sapiens,HCA_BN_F12808059,,2,To_et_al_2024,10X_multiome,5.8/7.6
+464,Total,5.8/7.6,10X_multiome,Yes,Bone_Atlas,skullbase,Calvaria ,10x_multiome,2370/2369,E-MTAB-14385,Homo sapiens,HCA_BN_F12808060,,2,To_et_al_2024,10X_multiome,5.8/7.6
+465,Total,5.7,10X_multiome,No,Bone_Atlas,hip,Hip ,10x_multiome,2393,E-MTAB-14385,Homo sapiens,HCA_BN_F12922481,,1,To_et_al_2024,10X_multiome,5.7
+466,Total,8.6,10X_multiome,No,Bone_Atlas,hip,Hip ,10x_multiome,2394,E-MTAB-14385,Homo sapiens,HCA_BN_F12922486,,1,To_et_al_2024,10X_multiome,8.6
+467,Total,9.4,10X_multiome,No,Bone_Atlas,hip,Hip ,10x_multiome,2384,E-MTAB-14385,Homo sapiens,HCA_BN_F12874040,,1,To_et_al_2024,10X_multiome,9.4
+468,Total,10,10X_multiome,No,Bone_Atlas,hip,Hip ,10x_multiome,2382,E-MTAB-14385,Homo sapiens,HCA_BN_F12863837,,1,To_et_al_2024,10X_multiome,10
+469,Total,11.2,10X_multiome,No,Bone_Atlas,hip,Hip ,10x_multiome,2372,E-MTAB-14385,Homo sapiens,HCA_BN_F12874043,,1,To_et_al_2024,10X_multiome,11.2
+470,Total,"7.6, 8.3",10X_multiome,Yes,Bone_Atlas,hip,Hip ,10x_multiome,multiplexed,E-MTAB-14385,Homo sapiens,HCA_BN_F12627471,,2,To_et_al_2024,10X_multiome,"7.6, 8.3"
+471,Total,7.3/8.6,10X_multiome,Yes,Bone_Atlas,hip/knee,Hip/Knee,10x_multiome,2392/2394,E-MTAB-14385,Homo sapiens,HCA_BN_F12922485,,2,To_et_al_2024,10X_multiome,7.3/8.6
+472,Total,"5.8, 8.3",10X_multiome,Yes,Bone_Atlas,hip/shoulder,Hip/Shoulder,10x_multiome,multiplexed,E-MTAB-14385,Homo sapiens,HCA_BN_F12627472,,2,To_et_al_2024,10X_multiome,"5.8, 8.3"
+473,Total,5.7,10X_multiome,No,Bone_Atlas,knee,Knee,10x_multiome,2393,E-MTAB-14385,Homo sapiens,HCA_BN_F12922482,,1,To_et_al_2024,10X_multiome,5.7
+474,Total,7.3,10X_multiome,No,Bone_Atlas,knee,Knee,10x_multiome,2392,E-MTAB-14385,Homo sapiens,HCA_BN_F12922484,,1,To_et_al_2024,10X_multiome,7.3
+475,Total,8,10X_multiome,No,Bone_Atlas,knee,Knee,10x_multiome,2358,E-MTAB-14385,Homo sapiens,HCA_BN_F12874047,,1,To_et_al_2024,10X_multiome,8
+476,Total,9.4,10X_multiome,No,Bone_Atlas,knee,Knee,10x_multiome,2384,E-MTAB-14385,Homo sapiens,HCA_BN_F12874041,,1,To_et_al_2024,10X_multiome,9.4
+477,Total,10,10X_multiome,No,Bone_Atlas,knee,Knee,10x_multiome,2382,E-MTAB-14385,Homo sapiens,HCA_BN_F12874046,,1,To_et_al_2024,10X_multiome,10
+478,Total,10,10X_multiome,No,Bone_Atlas,knee,Knee,10x_multiome,2382,E-MTAB-14385,Homo sapiens,HCA_BN_F12863835,,1,To_et_al_2024,10X_multiome,10
+479,Total,11.2,10X_multiome,No,Bone_Atlas,knee,Knee,10x_multiome,2372,E-MTAB-14385,Homo sapiens,HCA_BN_F12874044,,1,To_et_al_2024,10X_multiome,11.2
+480,Total,"5.8, 7.6, 8.3",10X_multiome,Yes,Bone_Atlas,knee,Knee,10x_multiome,multiplexed,E-MTAB-14385,Homo sapiens,HCA_BN_F12627470,,3,To_et_al_2024,10X_multiome,"5.8, 7.6, 8.3"
+481,Total,5.7,10X_multiome,No,Bone_Atlas,shoulder,Shoulder ,10x_multiome,2393,E-MTAB-14385,Homo sapiens,HCA_BN_F12922483,,1,To_et_al_2024,10X_multiome,5.7
+482,Total,9.4,10X_multiome,No,Bone_Atlas,shoulder,Shoulder ,10x_multiome,2384,E-MTAB-14385,Homo sapiens,HCA_BN_F12874042,,1,To_et_al_2024,10X_multiome,9.4
+483,Total,10,10X_multiome,No,Bone_Atlas,shoulder,Shoulder ,10x_multiome,2382,E-MTAB-14385,Homo sapiens,HCA_BN_F12863836,,1,To_et_al_2024,10X_multiome,10
+484,Total,11.2,10X_multiome,No,Bone_Atlas,shoulder,Shoulder ,10x_multiome,2372,E-MTAB-14385,Homo sapiens,HCA_BN_F12874045,,1,To_et_al_2024,10X_multiome,11.2
+485,Total,7.3/8.6,10X_multiome,Yes,Bone_Atlas,shoulder,Shoulder ,10x_multiome,2392/2394,E-MTAB-14385,Homo sapiens,HCA_BN_F12922487,,2,To_et_al_2024,10X_multiome,7.3/8.6
+486,Total,"7.6, 8.3",10X_multiome,Yes,Bone_Atlas,shoulder,Shoulder ,10x_multiome,multiplexed,E-MTAB-14385,Homo sapiens,HCA_BN_F12627473,,2,To_et_al_2024,10X_multiome,"7.6, 8.3"
+487,Total,5.8,10X_multiome,No,Bone_Atlas,skullbase,Skull base,10x_multiome,2370,E-MTAB-14385,Homo sapiens,HCA_BN_F12808062,,1,To_et_al_2024,10X_multiome,5.8
+488,Total,7.6,10X_multiome,No,Bone_Atlas,skullbase,Skull base,10x_multiome,2369,E-MTAB-14385,Homo sapiens,HCA_BN_F12808061,,1,To_et_al_2024,10X_multiome,7.6
+489,Total,8.5,10X_multiome,No,Bone_Atlas,skullbase,Skull base,10x_multiome,2361,E-MTAB-14385,Homo sapiens,HCA_BN_F12482359,,1,To_et_al_2024,10X_multiome,8.5
+490,Total,9.4,10X_multiome,No,Bone_Atlas,skullbase,Skull base,10x_multiome,2384,E-MTAB-14385,Homo sapiens,HCA_BN_F12966456,,1,To_et_al_2024,10X_multiome,9.4
+491,Total,9.4,10X_multiome,No,Bone_Atlas,skullbase,Skull base,10x_multiome,2384,E-MTAB-14385,Homo sapiens,HCA_BN_F12966460,,1,To_et_al_2024,10X_multiome,9.4
+492,Total,9.4,10X_multiome,No,Bone_Atlas,skullbase,Skull base,10x_multiome,2384,E-MTAB-14385,Homo sapiens,HCA_BN_F12966461,,1,To_et_al_2024,10X_multiome,9.4
+493,Total,10.3,10X_multiome,No,Bone_Atlas,skullbase,Skull base,10x_multiome,2365,E-MTAB-14385,Homo sapiens,HCA_BN_F13177437,,1,To_et_al_2024,10X_multiome,10.3
+494,Total,8.5,10X_multiome,No,Bone_Atlas,skullbase,Skull base ,10x_multiome,2361,E-MTAB-14385,Homo sapiens,HCA_BN_F12482360,,1,To_et_al_2024,10X_multiome,8.5
+495,Total,8.5,10X_multiome,No,Bone_Atlas,skullbase,Skull base ,10x_multiome,2361,E-MTAB-14385,Homo sapiens,HCA_BN_F12482361,,1,To_et_al_2024,10X_multiome,8.5
+496,Total,8.5,10X_multiome,No,Bone_Atlas,skullbase,Skull base ,10x_multiome,2361,E-MTAB-14385,Homo sapiens,HCA_BN_F12482362,,1,To_et_al_2024,10X_multiome,8.5
+497,Total,9.4,10X_multiome,No,Bone_Atlas,skullbase,Skull base ,10x_multiome,2384,E-MTAB-14385,Homo sapiens,HCA_BN_F12966459,,1,To_et_al_2024,10X_multiome,9.4
+498,Total,"11.2,13",10X_multiome,Yes,Bone_Atlas,calvaria/skullbase,Skull base ,10x_multiome,2372/16403,E-MTAB-14385,Homo sapiens,HCA_BN_F13109714,,2,To_et_al_2024,10X_multiome,"11.2,13"
+499,Total,"11.2,13",10X_multiome,Yes,Bone_Atlas,calvaria/skullbase,Skull base/Calvaria,10x_multiome,2372/16403,E-MTAB-14385,Homo sapiens,HCA_BN_F13109715,,2,To_et_al_2024,10X_multiome,"11.2,13"
+500,Total,"11.2,13",10X_multiome,Yes,Bone_Atlas,calvaria/skullbase,Skull base/Calvaria,10x_multiome,2372/16403,E-MTAB-14385,Homo sapiens,HCA_BN_F13109718,,2,To_et_al_2024,10X_multiome,"11.2,13"
+501,Total,"11.2,13",10X_multiome,Yes,Bone_Atlas,calvaria/skullbase,Skull base/Calvaria,10x_multiome,2372/16403,E-MTAB-14385,Homo sapiens,HCA_BN_F13109719,,2,To_et_al_2024,10X_multiome,"11.2,13"
+502,Total,7,3GEX,No,Bone_Atlas,lumbar ,Spine,10x3'v2,HDBR15918,EGAD00001009801,Homo sapiens,SB_200532_10841321,,1,Lawrence_et_al_2024,10X_scRNA-seq,7
+503,Total,5,3GEX,No,Bone_Atlas,cervical ,Spine ,10x3'v2,HDBR15868,EGAD00001009801,Homo sapiens,SB_200532_10621989,,1,Lawrence_et_al_2024,10X_scRNA-seq,5
+504,Total,5,3GEX,No,Bone_Atlas,cervical ,Spine ,10x3'v2,HDBR15868,EGAD00001009801,Homo sapiens,SB_200532_10621992,,1,Lawrence_et_al_2024,10X_scRNA-seq,5
+505,Total,5,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15868,EGAD00001009801,Homo sapiens,SB_200532_10621990,,1,Lawrence_et_al_2024,10X_scRNA-seq,5
+506,Total,5,3GEX,No,Bone_Atlas,lumbar ,Spine ,10x3'v2,HDBR15868,EGAD00001009801,Homo sapiens,SB_200532_10621991,,1,Lawrence_et_al_2024,10X_scRNA-seq,5
+507,Total,7,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15918,EGAD00001009801,Homo sapiens,SB_200532_10841322,,1,Lawrence_et_al_2024,10X_scRNA-seq,7
+508,Total,7,3GEX,No,Bone_Atlas,lumbar ,Spine ,10x3'v2,HDBR15918,EGAD00001009801,Homo sapiens,SB_200532_10841323,,1,Lawrence_et_al_2024,10X_scRNA-seq,7
+509,Total,9,3GEX,No,Bone_Atlas,lumbar ,Spine ,10x3'v2,HDBR15961,EGAD00001009801,Homo sapiens,SB_200532_10032965,,1,Lawrence_et_al_2024,10X_scRNA-seq,9
+510,Total,9,3GEX,No,Bone_Atlas,lumbar ,Spine ,10x3'v2,HDBR15961,EGAD00001009801,Homo sapiens,SB_200532_10032967,,1,Lawrence_et_al_2024,10X_scRNA-seq,9
+511,Total,9,3GEX,No,Bone_Atlas,sacral,Spine ,10x3'v2,HDBR15961,EGAD00001009801,Homo sapiens,SB_200532_10032966,,1,Lawrence_et_al_2024,10X_scRNA-seq,9
+512,Total,9,3GEX,No,Bone_Atlas,sacral ,Spine ,10x3'v2,HDBR15961,EGAD00001009801,Homo sapiens,SB_200532_10032968,,1,Lawrence_et_al_2024,10X_scRNA-seq,9
+513,Total,9,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15961,EGAD00001009801,Homo sapiens,SB_200532_10032964,,1,Lawrence_et_al_2024,10X_scRNA-seq,9
+514,Total,9,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15961,EGAD00001009801,Homo sapiens,SB_200532_10032969,,1,Lawrence_et_al_2024,10X_scRNA-seq,9
+515,Total,9,3GEX,No,Bone_Atlas,cervical ,Spine ,10x3'v2,HDBR15916,EGAD00001009801,Homo sapiens,SB_200532_10841316,,1,Lawrence_et_al_2024,10X_scRNA-seq,9
+516,Total,9,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15916,EGAD00001009801,Homo sapiens,SB_200532_10841317,,1,Lawrence_et_al_2024,10X_scRNA-seq,9
+517,Total,9,3GEX,No,Bone_Atlas,lumbar ,Spine ,10x3'v2,HDBR15916,EGAD00001009801,Homo sapiens,SB_200532_10841318,,1,Lawrence_et_al_2024,10X_scRNA-seq,9
+518,Total,9,3GEX,No,Bone_Atlas,sacral,Spine ,10x3'v2,HDBR15916,EGAD00001009801,Homo sapiens,SB_200532_10841319,,1,Lawrence_et_al_2024,10X_scRNA-seq,9
+519,Total,9,3GEX,No,Bone_Atlas,rib,Spine ,10x3'v2,HDBR15916,EGAD00001009801,Homo sapiens,SB_200532_10841320,,1,Lawrence_et_al_2024,10X_scRNA-seq,9
+520,Total,10,3GEX,No,Bone_Atlas,disc,Spine ,10x3'v2,HDBR15837,EGAD00001009801,Homo sapiens,SB_200532_10297927,,1,Lawrence_et_al_2024,10X_scRNA-seq,10
+521,Total,10,3GEX,No,Bone_Atlas,disc,Spine ,10x3'v2,HDBR15837,EGAD00001009801,Homo sapiens,SB_200532_10297933,,1,Lawrence_et_al_2024,10X_scRNA-seq,10
+522,Total,10,3GEX,No,Bone_Atlas,cervical ,Spine ,10x3'v2,HDBR15837,EGAD00001009801,Homo sapiens,SB_200532_10297922,,1,Lawrence_et_al_2024,10X_scRNA-seq,10
+523,Total,10,3GEX,No,Bone_Atlas,cervical ,Spine ,10x3'v2,HDBR15837,EGAD00001009801,Homo sapiens,SB_200532_10297928,,1,Lawrence_et_al_2024,10X_scRNA-seq,10
+524,Total,10,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15837,EGAD00001009801,Homo sapiens,SB_200532_10297923,,1,Lawrence_et_al_2024,10X_scRNA-seq,10
+525,Total,10,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15837,EGAD00001009801,Homo sapiens,SB_200532_10297929,,1,Lawrence_et_al_2024,10X_scRNA-seq,10
+526,Total,10,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15837,EGAD00001009801,Homo sapiens,SB_200532_10297924,,1,Lawrence_et_al_2024,10X_scRNA-seq,10
+527,Total,10,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15837,EGAD00001009801,Homo sapiens,SB_200532_10297930,,1,Lawrence_et_al_2024,10X_scRNA-seq,10
+528,Total,10,3GEX,No,Bone_Atlas,lumbar ,Spine ,10x3'v2,HDBR15837,EGAD00001009801,Homo sapiens,SB_200532_10297925,,1,Lawrence_et_al_2024,10X_scRNA-seq,10
+529,Total,10,3GEX,No,Bone_Atlas,lumbar ,Spine ,10x3'v2,HDBR15837,EGAD00001009801,Homo sapiens,SB_200532_10297931,,1,Lawrence_et_al_2024,10X_scRNA-seq,10
+530,Total,10,3GEX,No,Bone_Atlas,sacral,Spine ,10x3'v2,HDBR15837,EGAD00001009801,Homo sapiens,SB_200532_10297926,,1,Lawrence_et_al_2024,10X_scRNA-seq,10
+531,Total,10,3GEX,No,Bone_Atlas,sacral,Spine ,10x3'v2,HDBR15837,EGAD00001009801,Homo sapiens,SB_200532_10297932,,1,Lawrence_et_al_2024,10X_scRNA-seq,10
+532,Total,12,3GEX,No,Bone_Atlas,cervical ,Spine ,10x3'v2,HDBR15982,EGAD00001009801,Homo sapiens,SB_200532_11254458,,1,Lawrence_et_al_2024,10X_scRNA-seq,12
+533,Total,12,3GEX,No,Bone_Atlas,cervical ,Spine ,10x3'v2,HDBR15982,EGAD00001009801,Homo sapiens,SB_200532_11254463,,1,Lawrence_et_al_2024,10X_scRNA-seq,12
+534,Total,12,3GEX,No,Bone_Atlas,lumbar ,Spine ,10x3'v2,HDBR15982,EGAD00001009801,Homo sapiens,SB_200532_11254461,,1,Lawrence_et_al_2024,10X_scRNA-seq,12
+535,Total,12,3GEX,No,Bone_Atlas,lumbar ,Spine ,10x3'v2,HDBR15982,EGAD00001009801,Homo sapiens,SB_200532_11254466,,1,Lawrence_et_al_2024,10X_scRNA-seq,12
+536,Total,12,3GEX,No,Bone_Atlas,sacral,Spine ,10x3'v2,HDBR15982,EGAD00001009801,Homo sapiens,SB_200532_11254462,,1,Lawrence_et_al_2024,10X_scRNA-seq,12
+537,Total,12,3GEX,No,Bone_Atlas,sacral,Spine ,10x3'v2,HDBR15982,EGAD00001009801,Homo sapiens,SB_200532_11254467,,1,Lawrence_et_al_2024,10X_scRNA-seq,12
+538,Total,12,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15982,EGAD00001009801,Homo sapiens,SB_200532_11254459,,1,Lawrence_et_al_2024,10X_scRNA-seq,12
+539,Total,12,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15982,EGAD00001009801,Homo sapiens,SB_200532_11254464,,1,Lawrence_et_al_2024,10X_scRNA-seq,12
+540,Total,12,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15982,EGAD00001009801,Homo sapiens,SB_200532_11254460,,1,Lawrence_et_al_2024,10X_scRNA-seq,12
+541,Total,12,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15982,EGAD00001009801,Homo sapiens,SB_200532_11254465,,1,Lawrence_et_al_2024,10X_scRNA-seq,12
+542,Total,13,3GEX,No,Bone_Atlas,cervical ,Spine ,10x3'v2,HDBR15927,EGAD00001009801,Homo sapiens,SB_200532_10863985,,1,Lawrence_et_al_2024,10X_scRNA-seq,13
+543,Total,13,3GEX,No,Bone_Atlas,cervical ,Spine ,10x3'v2,HDBR15927,EGAD00001009801,Homo sapiens,SB_200532_10863991,,1,Lawrence_et_al_2024,10X_scRNA-seq,13
+544,Total,13,3GEX,No,Bone_Atlas,lumbar ,Spine ,10x3'v2,HDBR15927,EGAD00001009801,Homo sapiens,SB_200532_10863988,,1,Lawrence_et_al_2024,10X_scRNA-seq,13
+545,Total,13,3GEX,No,Bone_Atlas,lumbar ,Spine ,10x3'v2,HDBR15927,EGAD00001009801,Homo sapiens,SB_200532_10863994,,1,Lawrence_et_al_2024,10X_scRNA-seq,13
+546,Total,13,3GEX,No,Bone_Atlas,sacral ,Spine ,10x3'v2,HDBR15927,EGAD00001009801,Homo sapiens,SB_200532_10863989,,1,Lawrence_et_al_2024,10X_scRNA-seq,13
+547,Total,13,3GEX,No,Bone_Atlas,sacral ,Spine ,10x3'v2,HDBR15927,EGAD00001009801,Homo sapiens,SB_200532_10863995,,1,Lawrence_et_al_2024,10X_scRNA-seq,13
+548,Total,13,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15927,EGAD00001009801,Homo sapiens,SB_200532_10863986,,1,Lawrence_et_al_2024,10X_scRNA-seq,13
+549,Total,13,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15927,EGAD00001009801,Homo sapiens,SB_200532_10863992,,1,Lawrence_et_al_2024,10X_scRNA-seq,13
+550,Total,13,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15927,EGAD00001009801,Homo sapiens,SB_200532_10863987,,1,Lawrence_et_al_2024,10X_scRNA-seq,13
+551,Total,13,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15927,EGAD00001009801,Homo sapiens,SB_200532_10863993,,1,Lawrence_et_al_2024,10X_scRNA-seq,13
+552,Total,17,3GEX,No,Bone_Atlas,cervical ,Spine ,10x3'v2,HDBR15948,EGAD00001009801,Homo sapiens,SB_200532_11018313,,1,Lawrence_et_al_2024,10X_scRNA-seq,17
+553,Total,17,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15948,EGAD00001009801,Homo sapiens,SB_200532_11018314,,1,Lawrence_et_al_2024,10X_scRNA-seq,17
+554,Total,17,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15948,EGAD00001009801,Homo sapiens,SB_200532_11018315,,1,Lawrence_et_al_2024,10X_scRNA-seq,17
+555,Total,17,3GEX,No,Bone_Atlas,lumbar ,Spine ,10x3'v2,HDBR15948,EGAD00001009801,Homo sapiens,SB_200532_11018316,,1,Lawrence_et_al_2024,10X_scRNA-seq,17
+556,Total,17,3GEX,No,Bone_Atlas,sacral ,Spine ,10x3'v2,HDBR15948,EGAD00001009801,Homo sapiens,SB_200532_11018317,,1,Lawrence_et_al_2024,10X_scRNA-seq,17
+557,Total,17,3GEX,No,Bone_Atlas,DRG,Spine ,10x3'v2,HDBR15948,EGAD00001009801,Homo sapiens,SB_200532_11018318,,1,Lawrence_et_al_2024,10X_scRNA-seq,17
+558,Total,17,3GEX,No,Bone_Atlas,cord ,Spine ,10x3'v2,HDBR15948,EGAD00001009801,Homo sapiens,SB_200532_11018319,,1,Lawrence_et_al_2024,10X_scRNA-seq,17
+559,Total,17,3GEX,No,Bone_Atlas,cervical ,Spine ,10x3'v2,HDBR15948,EGAD00001009801,Homo sapiens,SB_200532_11018320,,1,Lawrence_et_al_2024,10X_scRNA-seq,17
+560,Total,17,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15948,EGAD00001009801,Homo sapiens,SB_200532_11018321,,1,Lawrence_et_al_2024,10X_scRNA-seq,17
+561,Total,17,3GEX,No,Bone_Atlas,thoracic ,Spine ,10x3'v2,HDBR15948,EGAD00001009801,Homo sapiens,SB_200532_11018322,,1,Lawrence_et_al_2024,10X_scRNA-seq,17
+562,Total,17,3GEX,No,Bone_Atlas,lumbar ,Spine ,10x3'v2,HDBR15948,EGAD00001009801,Homo sapiens,SB_200532_11018323,,1,Lawrence_et_al_2024,10X_scRNA-seq,17
+563,Total,17,3GEX,No,Bone_Atlas,sacral,Spine ,10x3'v2,HDBR15948,EGAD00001009801,Homo sapiens,SB_200532_11018324,,1,Lawrence_et_al_2024,10X_scRNA-seq,17
+564,Total,5,3GEX,No,Bone_Atlas,Limb bud,Limb,10x3'v2,GSM4274188,GSE143753,Homo sapiens,GSM4274188,,1,He_et_al_2021,10X_scRNA-seq,5
+565,Total,5,3GEX,No,Bone_Atlas,Limb bud,Limb,10x3'v2,GSM4274189,GSE143754,Homo sapiens,GSM4274189,,1,He_et_al_2021,10X_scRNA-seq,5
+566,Total,5,3GEX,No,Bone_Atlas,Limb bud,Long bone,10x3'v2,GSM4274190,GSE143755,Homo sapiens,GSM4274190,,1,He_et_al_2021,10X_scRNA-seq,5
+567,Total,8,3GEX,No,Bone_Atlas,Long bone,Long bone,10x3'v2,GSM4274191,GSE143756,Homo sapiens,GSM4274191,,1,He_et_al_2021,10X_scRNA-seq,8
+568,Total,8,3GEX,No,Bone_Atlas,Long bone,Long bone,10x3'v2,GSM4274192,GSE143757,Homo sapiens,GSM4274192,,1,He_et_al_2021,10X_scRNA-seq,8
+569,Total,8,3GEX,No,Bone_Atlas,Long bone,Long bone,10x3'v2,GSM4274193,GSE143761,Homo sapiens,GSM4274193,,1,He_et_al_2021,10X_scRNA-seq,8
+570,Total,8,3GEX,No,Bone_Atlas,Calvarial bone,Calvaria ,10x3'v2,GSM4274194,GSE143762,Homo sapiens,GSM4274194,,1,He_et_al_2021,10X_scRNA-seq,8
+571,Total,8,3GEX,No,Bone_Atlas,Calvarial bone,Calvaria ,10x3'v2,GSM4609136,GSE143763,Homo sapiens,GSM4609136,,1,He_et_al_2021,10X_scRNA-seq,8
+572,Total,5.1,3GEX,No,Bone_Atlas,Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2078.00,E-MTAB-8813,Homo sapiens,5386STDY7537944,,1,Zhang_et_al_2023,10X_scRNA-seq,5.1
+573,Total,5.4,3GEX,No,Bone_Atlas,Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2131.00,E-MTAB-8813,Homo sapiens,5478STDY7717491,,1,Zhang_et_al_2023,10X_scRNA-seq,5.4
+574,Total,5.4,3GEX,No,Bone_Atlas,Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2131.00,E-MTAB-8813,Homo sapiens,5478STDY7717492,,1,Zhang_et_al_2023,10X_scRNA-seq,5.4
+575,Total,6.5,3GEX,No,Bone_Atlas,Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2114.00,E-MTAB-8813,Homo sapiens,5478STDY7652318,,1,Zhang_et_al_2023,10X_scRNA-seq,6.5
+576,Total,7.2,3GEX,No,Bone_Atlas,Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2092.00,E-MTAB-8813,Homo sapiens,5386STDY7557336,,1,Zhang_et_al_2023,10X_scRNA-seq,7.2
+577,Total,7.2,3GEX,No,Bone_Atlas,Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2092.00,E-MTAB-8813,Homo sapiens,5386STDY7557337,,1,Zhang_et_al_2023,10X_scRNA-seq,7.2
+578,Total,8,3GEX,No,Bone_Atlas,Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2091.00,E-MTAB-8813,Homo sapiens,5386STDY7557335,,1,Zhang_et_al_2023,10X_scRNA-seq,8
+579,Total,8.4,3GEX,No,Bone_Atlas,Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2083.00,E-MTAB-8813,Homo sapiens,FCAImmP7536758,,1,Zhang_et_al_2023,10X_scRNA-seq,8.4
+580,Total,8.4,3GEX,No,Bone_Atlas,Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2083.00,E-MTAB-8813,Homo sapiens,FCAImmP7536759,,1,Zhang_et_al_2023,10X_scRNA-seq,8.4
+581,Total,9,3GEX,No,Bone_Atlas,Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2181.00,E-MTAB-8813,Homo sapiens,5478STDY7980348,,1,Zhang_et_al_2023,10X_scRNA-seq,9
+582,Total,9,3GEX,No,Bone_Atlas,Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2181.00,E-MTAB-8813,Homo sapiens,5478STDY7980349,,1,Zhang_et_al_2023,10X_scRNA-seq,9
+583,Total,9.3,3GEX,No,Bone_Atlas,Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2172.00,E-MTAB-8813,Homo sapiens,5478STDY7935101,,1,Zhang_et_al_2023,10X_scRNA-seq,9.3
+584,Total,9.3,3GEX,No,Bone_Atlas,Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2173.00,E-MTAB-8813,Homo sapiens,5478STDY7935102,,1,Zhang_et_al_2023,10X_scRNA-seq,9.3
+585,Total,5.6,3GEX,No,Bone_Atlas,Distal_Forelimb,Forelimb,10x5'v1,BRC¬¨‚Ä†2254.00,E-MTAB-8813,Homo sapiens,WSSS_THYst9384953,,1,Zhang_et_al_2023,10X_scRNA-seq,5.6
+586,Total,5.6,3GEX,No,Bone_Atlas,Middle_Forelimb,Forelimb,10x5'v1,BRC¬¨‚Ä†2254.00,E-MTAB-8813,Homo sapiens,WSSS_THYst9384954,,1,Zhang_et_al_2023,10X_scRNA-seq,5.6
+587,Total,5.6,3GEX,No,Bone_Atlas,Proximal_Forelimb,Forelimb,10x5'v1,BRC¬¨‚Ä†2254.00,E-MTAB-8813,Homo sapiens,WSSS_THYst9384955,,1,Zhang_et_al_2023,10X_scRNA-seq,5.6
+588,Total,5.6,3GEX,No,Bone_Atlas,Distal_Hindlimb,Femur ,10x5'v1,BRC¬¨‚Ä†2254.00,E-MTAB-8813,Homo sapiens,WSSS_THYst9384956,,1,Zhang_et_al_2023,10X_scRNA-seq,5.6
+589,Total,5.6,3GEX,No,Bone_Atlas,Middle_Hindlimb,Femur ,10x5'v1,BRC¬¨‚Ä†2254.00,E-MTAB-8813,Homo sapiens,WSSS_THYst9384957,,1,Zhang_et_al_2023,10X_scRNA-seq,5.6
+590,Total,5.6,3GEX,No,Bone_Atlas,Proximal_Hindlimb,Femur ,10x5'v1,BRC¬¨‚Ä†2254.00,E-MTAB-8813,Homo sapiens,WSSS_THYst9384958,,1,Zhang_et_al_2023,10X_scRNA-seq,5.6
+591,Total,6.1,3GEX,No,Bone_Atlas,Proximal_Forelimb,Femur ,10x3'v2,BRC¬¨‚Ä†2243.00,E-MTAB-8813,Homo sapiens,WSSS_THYst8796437,,1,Zhang_et_al_2023,10X_scRNA-seq,6.1
+592,Total,6.1,3GEX,No,Bone_Atlas,Middle_Forelimb,Forelimb,10x3'v2,BRC¬¨‚Ä†2243.00,E-MTAB-8813,Homo sapiens,WSSS_THYst8796438,,1,Zhang_et_al_2023,10X_scRNA-seq,6.1
+593,Total,6.1,3GEX,No,Bone_Atlas,Distal_Forelimb,Forelimb,10x3'v2,BRC¬¨‚Ä†2243.00,E-MTAB-8813,Homo sapiens,WSSS_THYst8796439,,1,Zhang_et_al_2023,10X_scRNA-seq,6.1
+594,Total,6.1,3GEX,No,Bone_Atlas,Proximal_Hindlimb,Forelimb,10x3'v2,BRC¬¨‚Ä†2243.00,E-MTAB-8813,Homo sapiens,WSSS_THYst8796440,,1,Zhang_et_al_2023,10X_scRNA-seq,6.1
+595,Total,6.1,3GEX,No,Bone_Atlas,Middle_Forelimb,Forelimb,10x3'v2,BRC¬¨‚Ä†2243.00,E-MTAB-8813,Homo sapiens,WSSS_THYst8796441,,1,Zhang_et_al_2023,10X_scRNA-seq,6.1
+596,Total,6.1,3GEX,No,Bone_Atlas,Distal_Hindlimb,Femur ,10x3'v2,BRC¬¨‚Ä†2243.00,E-MTAB-8813,Homo sapiens,WSSS_THYst8796442,,1,Zhang_et_al_2023,10X_scRNA-seq,6.1
+597,Total,19,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,SB19PCW,ERP125305,Homo sapiens,WSSS_F_BON8710636,,1,Jardine_Webb_2021,10X_scRNA-seq,19
+598,Total,19,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,SB19PCW,ERP125305,Homo sapiens,WSSS_F_BON8710637,,1,Jardine_Webb_2021,10X_scRNA-seq,19
+599,Total,19,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,SB19PCW,ERP125305,Homo sapiens,WSSS_F_BON8710638,,1,Jardine_Webb_2021,10X_scRNA-seq,19
+600,Total,19,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,SB19PCW,ERP125305,Homo sapiens,WSSS_F_BON8710639,,1,Jardine_Webb_2021,10X_scRNA-seq,19
+601,Total,19,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,SB19PCW,ERP125305,Homo sapiens,WSSS_F_BON8710640,,1,Jardine_Webb_2021,10X_scRNA-seq,19
+602,Total,19,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,SB19PCW,ERP125305,Homo sapiens,WSSS_F_BON8710641,,1,Jardine_Webb_2021,10X_scRNA-seq,19
+603,Total,19,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,SB19PCW,ERP125305,Homo sapiens,WSSS_F_BON8710642,,1,Jardine_Webb_2021,10X_scRNA-seq,19
+604,Total,19,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,SB19PCW,ERP125305,Homo sapiens,WSSS_F_BON8710643,,1,Jardine_Webb_2021,10X_scRNA-seq,19
+605,CD45+,15,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F51,E-MTAB-9389,Homo sapiens,FCAImmP7803028,,1,Jardine_Webb_2021,10X_scRNA-seq,15
+606,CD45+,15,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F51,E-MTAB-9389,Homo sapiens,FCAImmP7803029,,1,Jardine_Webb_2021,10X_scRNA-seq,15
+607,CD45+,15,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F51,E-MTAB-9389,Homo sapiens,FCAImmP7803030,,1,Jardine_Webb_2021,10X_scRNA-seq,15
+608,CD45-,15,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F51,E-MTAB-9389,Homo sapiens,FCAImmP7803031,,1,Jardine_Webb_2021,10X_scRNA-seq,15
+609,CD45-,15,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F51,E-MTAB-9389,Homo sapiens,FCAImmP7803032,,1,Jardine_Webb_2021,10X_scRNA-seq,15
+610,CD45-,15,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F51,E-MTAB-9389,Homo sapiens,FCAImmP7803033,,1,Jardine_Webb_2021,10X_scRNA-seq,15
+611,CD45+,15,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F50,E-MTAB-9389,Homo sapiens,FCAImmP7803016,,1,Jardine_Webb_2021,10X_scRNA-seq,15
+612,CD45+,15,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F50,E-MTAB-9389,Homo sapiens,FCAImmP7803017,,1,Jardine_Webb_2021,10X_scRNA-seq,15
+613,CD45-,15,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F50,E-MTAB-9389,Homo sapiens,FCAImmP7803018,,1,Jardine_Webb_2021,10X_scRNA-seq,15
+614,CD45-,15,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F50,E-MTAB-9389,Homo sapiens,FCAImmP7803019,,1,Jardine_Webb_2021,10X_scRNA-seq,15
+615,CD45+,12,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,F45,E-MTAB-9389,Homo sapiens,FCAImmP7579220,,1,Jardine_Webb_2021,10X_scRNA-seq,12
+616,CD45-,12,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,F45,E-MTAB-9389,Homo sapiens,FCAImmP7579221,,1,Jardine_Webb_2021,10X_scRNA-seq,12
+617,CD45+,12,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F45,E-MTAB-9389,Homo sapiens,FCAImmP7579232,,1,Jardine_Webb_2021,10X_scRNA-seq,12
+618,CD45-,12,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F45,E-MTAB-9389,Homo sapiens,FCAImmP7579233,,1,Jardine_Webb_2021,10X_scRNA-seq,12
+619,CD45+,16,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,F41,E-MTAB-9389,Homo sapiens,FCAImmP7555853,,1,Jardine_Webb_2021,10X_scRNA-seq,16
+620,CD45-,16,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,F41,E-MTAB-9389,Homo sapiens,FCAImmP7555854,,1,Jardine_Webb_2021,10X_scRNA-seq,16
+621,CD45+,16,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F41,E-MTAB-9389,Homo sapiens,FCAImmP7555862,,1,Jardine_Webb_2021,10X_scRNA-seq,16
+622,CD45-,16,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F41,E-MTAB-9389,Homo sapiens,FCAImmP7555855,,1,Jardine_Webb_2021,10X_scRNA-seq,16
+623,CD45+,13,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,F38,E-MTAB-9389,Homo sapiens,FCAImmP7528281,,1,Jardine_Webb_2021,10X_scRNA-seq,13
+624,CD45-,13,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,F38,E-MTAB-9389,Homo sapiens,FCAImmP7528282,,1,Jardine_Webb_2021,10X_scRNA-seq,13
+625,CD45+,14,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,F30,E-MTAB-9389,Homo sapiens,FCAImmP7277566,,1,Jardine_Webb_2021,10X_scRNA-seq,14
+626,CD45-,14,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,F30,E-MTAB-9389,Homo sapiens,FCAImmP7277567,,1,Jardine_Webb_2021,10X_scRNA-seq,14
+627,Total,14,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F30,E-MTAB-9389,Homo sapiens,FCAImmP7292035,,1,Jardine_Webb_2021,10X_scRNA-seq,14
+628,CD45+,17,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,F29,E-MTAB-9389,Homo sapiens,FCAImmP7277558,,1,Jardine_Webb_2021,10X_scRNA-seq,17
+629,CD45-,17,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,F29,E-MTAB-9389,Homo sapiens,FCAImmP7277559,,1,Jardine_Webb_2021,10X_scRNA-seq,17
+630,Total,17,5GEX,No,Bone_Atlas,Femur,Femur,10x5'v1,F29,E-MTAB-9389,Homo sapiens,FCAImmP7292031,,1,Jardine_Webb_2021,10X_scRNA-seq,17
+631,CD45+,16,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,F21,E-MTAB-9389,Homo sapiens,FCAImmP7179367,,1,Jardine_Webb_2021,10X_scRNA-seq,16
+632,CD45-,16,3GEX,No,Bone_Atlas,Femur,Femur,10x3'v2,F21,E-MTAB-9389,Homo sapiens,FCAImmP7179368,,1,Jardine_Webb_2021,10X_scRNA-seq,16
+633,Total,7,3GEX,No,Bone_Atlas,left proximal femur,Femur,10x3'v2,C30,EGAD00001011306,Homo sapiens,5478STDY7819844,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+634,Total,7,3GEX,No,Bone_Atlas,left distal femur,Femur ,10x3'v2,C30,EGAD00001011306,Homo sapiens,5478STDY7819845,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+635,Total,7,3GEX,No,Bone_Atlas,right proximal femur,Femur ,10x3'v2,C30,EGAD00001011306,Homo sapiens,5478STDY7819846,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+636,Total,7,3GEX,No,Bone_Atlas,right distal femur,Femur ,10x3'v2,C30,EGAD00001011306,Homo sapiens,5478STDY7819847,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+637,Total,7,3GEX,No,Bone_Atlas,right proximal tibia,Tibia,10x3'v2,C30,EGAD00001011306,Homo sapiens,5478STDY7819848,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+638,Total,7,3GEX,No,Bone_Atlas,right distal tibia,Tibia,10x3'v2,C30,EGAD00001011306,Homo sapiens,5478STDY7819849,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+639,Total,6,3GEX,No,Bone_Atlas,left femur,Femur,10x3'v2,C31,EGAD00001011306,Homo sapiens,5478STDY7840021,,1,Lawrence_et_al_2023,10X_scRNA-seq,6
+640,Total,6,3GEX,No,Bone_Atlas,left tibia,Tibia ,10x3'v2,C31,EGAD00001011306,Homo sapiens,5478STDY7840022,,1,Lawrence_et_al_2023,10X_scRNA-seq,6
+641,Total,6,3GEX,No,Bone_Atlas,right femur,Femur ,10x3'v2,C31,EGAD00001011306,Homo sapiens,5478STDY7840023,,1,Lawrence_et_al_2023,10X_scRNA-seq,6
+642,Total,6,3GEX,No,Bone_Atlas,right tibia,Tibia ,10x3'v2,C31,EGAD00001011306,Homo sapiens,5478STDY7840024,,1,Lawrence_et_al_2023,10X_scRNA-seq,6
+643,Total,7,3GEX,No,Bone_Atlas,left proximal femur,Femur ,10x3'v2,C32,EGAD00001011306,Homo sapiens,5478STDY7850142,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+644,Total,7,3GEX,No,Bone_Atlas,left distal femur,Femur ,10x3'v2,C32,EGAD00001011306,Homo sapiens,5478STDY7850143,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+645,Total,7,3GEX,No,Bone_Atlas,left tibia,Tibia ,10x3'v2,C32,EGAD00001011306,Homo sapiens,5478STDY7850144,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+646,Total,7,3GEX,No,Bone_Atlas,left fibuka,Fibula,10x3'v2,C32,EGAD00001011306,Homo sapiens,5478STDY7850145,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+647,Total,7,3GEX,No,Bone_Atlas,right proximal femur,Femur ,10x3'v2,C32,EGAD00001011306,Homo sapiens,5478STDY7850146,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+648,Total,7,3GEX,No,Bone_Atlas,right distal femur,Femur ,10x3'v2,C32,EGAD00001011306,Homo sapiens,5478STDY7850147,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+649,Total,7,3GEX,No,Bone_Atlas,right tibia,Tibia ,10x3'v2,C32,EGAD00001011306,Homo sapiens,5478STDY7850148,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+650,Total,7,3GEX,No,Bone_Atlas,right fibula,Fibula,10x3'v2,C32,EGAD00001011306,Homo sapiens,5478STDY7850149,,1,Lawrence_et_al_2023,10X_scRNA-seq,7
+651,Total,12,3GEX,No,Cross_Organ,SmallInt,gut,3GEX,F67,E-MTAB-11343,Homo sapiens,Human_colon_16S7985393,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+652,Total,12,3GEX,No,Cross_Organ,SmallInt,gut,3GEX,F67,E-MTAB-11343,Homo sapiens,Human_colon_16S7985394,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+653,Total,12,3GEX,No,Cross_Organ,LargeInt,gut,3GEX,F67,E-MTAB-11343,Homo sapiens,Human_colon_16S7985395,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+654,Total,15,3GEX,No,Cross_Organ,SmallInt,gut,3GEX,F66,E-MTAB-11343,Homo sapiens,Human_colon_16S7985391,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+655,Total,15,3GEX,No,Cross_Organ,SmallInt,gut,3GEX,F66,E-MTAB-11343,Homo sapiens,Human_colon_16S7985389,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+656,Total,15,3GEX,No,Cross_Organ,SmallInt,gut,3GEX,F66,E-MTAB-11343,Homo sapiens,Human_colon_16S7985390,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+657,Total,15,3GEX,No,Cross_Organ,LargeInt,gut,3GEX,F66,E-MTAB-11343,Homo sapiens,Human_colon_16S7985392,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+658,CD45P,15,5GEX,No,Cross_Organ,SmallInt,gut,5GEX,F73,E-MTAB-11343,Homo sapiens,Human_colon_16S8159187,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+659,CD45P,15,5GEX,No,Cross_Organ,SmallInt,gut,5GEX,F73,E-MTAB-11343,Homo sapiens,Human_colon_16S8159189,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+660,CD45P,15,5GEX,No,Cross_Organ,SmallInt,gut,5GEX,F73,E-MTAB-11343,Homo sapiens,Human_colon_16S8159188,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+661,CD45P,15,5GEX,No,Cross_Organ,LargeInt,gut,5GEX,F73,E-MTAB-11343,Homo sapiens,Human_colon_16S8159190,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+662,CD45P,16,5GEX,No,Cross_Organ,LargeInt,gut,5GEX,F72,E-MTAB-11343,Homo sapiens,Human_colon_16S8159185,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,16
+663,CD45P,16,5GEX,No,Cross_Organ,SmallInt,gut,5GEX,F72,E-MTAB-11343,Homo sapiens,Human_colon_16S8159183,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,16
+664,CD45P,16,5GEX,No,Cross_Organ,SmallInt,gut,5GEX,F72,E-MTAB-11343,Homo sapiens,Human_colon_16S8159182,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,16
+665,CD45P,16,5GEX,No,Cross_Organ,SmallInt,gut,5GEX,F72,E-MTAB-11343,Homo sapiens,Human_colon_16S8159184,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,16
+666,CD45P,17,5GEX,No,Cross_Organ,LargeInt,gut,5GEX,F78,E-MTAB-11343,Homo sapiens,FCA_gut8015060,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,17
+667,CD45P,17,5GEX,No,Cross_Organ,SmallInt,gut,5GEX,F78,E-MTAB-11343,Homo sapiens,FCA_gut8015059,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,17
+668,CD45P,17,5GEX,No,Cross_Organ,SmallInt,gut,5GEX,F78,E-MTAB-11343,Homo sapiens,FCA_gut8015058,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,17
+669,CD45P,17,5GEX,No,Cross_Organ,SmallInt,gut,5GEX,F78,E-MTAB-11343,Homo sapiens,FCA_gut8015057,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,17
+670,Total,10,5GEX,No,Cross_Organ,colon ,gut ,10x5'v2,F74,E-MTAB-8581,Homo sapiens,Human_colon_16S7985396,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,10
+671,Total,10,5GEX,No,Cross_Organ,colon ,gut ,10x5'v2,F74,E-MTAB-8581,Homo sapiens,Human_colon_16S7985397,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,10
+672,CD45-,12,5GEX,No,Cross_Organ,kidney,kidney,10x5'v1,F45,E-MTAB-11343,Homo sapiens,FCAImmP7579225,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+673,CD45N,12,3GEX,No,Cross_Organ,Whole,kidney,3GEX,F38,E-MTAB-11343,Homo sapiens,FCAImmP7528293,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+674,CD45P,12,3GEX,No,Cross_Organ,Whole,kidney,3GEX,F38,E-MTAB-11343,Homo sapiens,FCAImmP7528292,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+675,CD45N,12,3GEX,No,Cross_Organ,whole,kidney,3GEX,F45,E-MTAB-11343,Homo sapiens,FCAImmP7579215,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+676,CD45P,12,3GEX,No,Cross_Organ,whole,kidney,3GEX,F45,E-MTAB-11343,Homo sapiens,FCAImmP7579214,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+677,unsorted,16,5GEX,No,Cross_Organ,kidney,kidney,10x5'v1,F41,E-MTAB-11343,Homo sapiens,FCAImmP7555859,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,16
+678,CD45N,16,3GEX,No,Cross_Organ,Whole,kidney,3GEX,F41,E-MTAB-11343,Homo sapiens,FCAImmP7555850,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,16
+679,CD45P,16,3GEX,No,Cross_Organ,whole,kidney,3GEX,F41,E-MTAB-11343,Homo sapiens,FCAImmP7555849,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,16
+680,CD45+,7 weeks gestation,3GEX,No,Cross_Organ,kidney,kidney,10x3'v2,F3,E-MTAB-7407,Homo sapiens,FCAImmP7462242,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+681,CD45-,7 weeks gestation,3GEX,No,Cross_Organ,kidney,kidney,10x3'v2,F3,E-MTAB-7407,Homo sapiens,FCAImmP7462243,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+682,CD45+,8 weeks gestation,3GEX,No,Cross_Organ,kidney,kidney,10x3'v2,F4,E-MTAB-7407,Homo sapiens,4834STDY7002875,male,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+683,CD45-,8 weeks gestation,3GEX,No,Cross_Organ,kidney,kidney,10x3'v2,F4,E-MTAB-7407,Homo sapiens,4834STDY7002876,male,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+684,Live/dead sorting,9 weeks gestation,3GEX,No,Cross_Organ,kidney,kidney,10x3'v2,F6,E-MTAB-7407,Homo sapiens,4834STDY7002881,male,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+685,CD45+,9 weeks gestation,3GEX,No,Cross_Organ,kidney,kidney,10x3'v2,F6,E-MTAB-7407,Homo sapiens,4834STDY7002885,male,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+686,CD45-,9 weeks gestation,3GEX,No,Cross_Organ,kidney,kidney,10x3'v2,F6,E-MTAB-7407,Homo sapiens,4834STDY7002886,male,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+687,CD45+,7,5GEX,No,Cross_Organ,liver,liver,10x5'v1,F61,E-MTAB-11343,Homo sapiens,FCAImmP7862084,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+688,CD45+,7,5GEX,No,Cross_Organ,liver,liver,10x5'v1,F61,E-MTAB-11343,Homo sapiens,FCAImmP7862085,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+689,CD45-,7,5GEX,No,Cross_Organ,liver,liver,10x5'v1,F61,E-MTAB-11343,Homo sapiens,FCAImmP7862086,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+690,unsorted,7,5GEX,No,Cross_Organ,liver,liver,10x5'v1,F61,E-MTAB-11343,Homo sapiens,FCAImmP7862087,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+691,CD45+,10,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F19,E-MTAB-11343,Homo sapiens,FCAImmP7241242,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,10
+692,CD45-,10,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F19,E-MTAB-11343,Homo sapiens,FCAImmP7241243,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,10
+693,CD45+,11 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F10,E-MTAB-7407,Homo sapiens,FCAImmP7198630,male,1,Popescue_et_al_2019,10X_scRNA-seq,9_11
+694,CD45-,11 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F10,E-MTAB-7407,Homo sapiens,FCAImmP7198631,male,1,Popescue_et_al_2019,10X_scRNA-seq,9_11
+695,CD45+,12 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F11,E-MTAB-7407,Homo sapiens,FCAImmP7579210,female,1,Popescue_et_al_2019,10X_scRNA-seq,10_12
+696,CD45-,12 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F11,E-MTAB-7407,Homo sapiens,FCAImmP7579211,female,1,Popescue_et_al_2019,10X_scRNA-seq,10_12
+697,CD45+,12 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F11,E-MTAB-7407,Homo sapiens,FCAImmP7579222,female,1,Popescue_et_al_2019,10X_scRNA-seq,10_12
+698,CD45-,12 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F11,E-MTAB-7407,Homo sapiens,FCAImmP7579223,female,1,Popescue_et_al_2019,10X_scRNA-seq,10_12
+699,CD45+,12 weeks gestation,5GEX,No,Cross_Organ,liver,liver,10x5'v1,F11,E-MTAB-7407,Homo sapiens,FCAImmP7579226,female,1,Popescue_et_al_2019,10X_scRNA-seq,10_12
+700,CD45-,12 weeks gestation,5GEX,No,Cross_Organ,liver,liver,10x5'v1,F11,E-MTAB-7407,Homo sapiens,FCAImmP7579227,female,1,Popescue_et_al_2019,10X_scRNA-seq,10_12
+701,CD45+,13 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F12,E-MTAB-7407,Homo sapiens,FCAImmP7528286,male,1,Popescue_et_al_2019,10X_scRNA-seq,11_13
+702,CD45+,13 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F12,E-MTAB-7407,Homo sapiens,FCAImmP7528287,male,1,Popescue_et_al_2019,10X_scRNA-seq,11_13
+703,CD45-,13 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F12,E-MTAB-7407,Homo sapiens,FCAImmP7528288,male,1,Popescue_et_al_2019,10X_scRNA-seq,11_13
+704,CD45-,13 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F12,E-MTAB-7407,Homo sapiens,FCAImmP7528289,male,1,Popescue_et_al_2019,10X_scRNA-seq,11_13
+705,5GEX,13 weeks gestation,5GEX,No,Cross_Organ,liver,liver,10x5'v1,F12,E-MTAB-7407,Homo sapiens,FCAImmP7528295,male,1,Popescue_et_al_2019,10X_scRNA-seq,11_13
+706,CD45+,14 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F13,E-MTAB-7407,Homo sapiens,FCAImmP7277560,male,1,Popescue_et_al_2019,10X_scRNA-seq,12_14
+707,CD45-,14 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F13,E-MTAB-7407,Homo sapiens,FCAImmP7277561,male,1,Popescue_et_al_2019,10X_scRNA-seq,12_14
+708,Live/dead sorting,14 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x5'v2,F13,E-MTAB-7407,Homo sapiens,FCAImmP7292032,male,1,Popescue_et_al_2019,10X_scRNA-seq,12_14
+709,CD45+,16 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F14,E-MTAB-7407,Homo sapiens,FCAImmP7179363,male,1,Popescue_et_al_2019,10X_scRNA-seq,14_16
+710,CD45-,16 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F14,E-MTAB-7407,Homo sapiens,FCAImmP7179364,male,1,Popescue_et_al_2019,10X_scRNA-seq,14_16
+711,CD45+,16 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F15,E-MTAB-7407,Homo sapiens,FCAImmP7555846,female,1,Popescue_et_al_2019,10X_scRNA-seq,14_16
+712,CD45-,16 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F15,E-MTAB-7407,Homo sapiens,FCAImmP7555847,female,1,Popescue_et_al_2019,10X_scRNA-seq,14_16
+713,CD45+,16 weeks gestation,5GEX,No,Cross_Organ,liver,liver,10x5'v1,F15,E-MTAB-7407,Homo sapiens,FCAImmP7555856,female,1,Popescue_et_al_2019,10X_scRNA-seq,14_16
+714,CD45-,16 weeks gestation,5GEX,No,Cross_Organ,liver,liver,10x5'v1,F15,E-MTAB-7407,Homo sapiens,FCAImmP7555857,female,1,Popescue_et_al_2019,10X_scRNA-seq,14_16
+715,CD45+,17 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F16,E-MTAB-7407,Homo sapiens,FCAImmP7277552,female,1,Popescue_et_al_2019,10X_scRNA-seq,15_17
+716,CD45-,17 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F16,E-MTAB-7407,Homo sapiens,FCAImmP7277553,female,1,Popescue_et_al_2019,10X_scRNA-seq,15_17
+717,Live/dead sorting,17 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x5'v2,F16,E-MTAB-7407,Homo sapiens,FCAImmP7292028,female,1,Popescue_et_al_2019,10X_scRNA-seq,15_17
+718,CD45+,7 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F2,E-MTAB-7407,Homo sapiens,FCAImmP7316894,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+719,CD45-,7 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F2,E-MTAB-7407,Homo sapiens,FCAImmP7316895,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+720,CD45+,7 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F2,E-MTAB-7407,Homo sapiens,FCAImmP7316901,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+721,CD45+,7 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F3,E-MTAB-7407,Homo sapiens,FCAImmP7462237,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+722,CD45+,7 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F3,E-MTAB-7407,Homo sapiens,FCAImmP7462238,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+723,CD45-,7 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F3,E-MTAB-7407,Homo sapiens,FCAImmP7462239,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+724,CD45+,8 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F4,E-MTAB-7407,Homo sapiens,4834STDY7002877,male,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+725,CD45-,8 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F4,E-MTAB-7407,Homo sapiens,4834STDY7002878,male,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+726,CD45+,8 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F5,E-MTAB-7407,Homo sapiens,FCAImmP7352192,female,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+727,CD45-,8 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F5,E-MTAB-7407,Homo sapiens,FCAImmP7352193,female,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+728,CD45-,8 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F5,E-MTAB-7407,Homo sapiens,FCAImmP7352194,female,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+729,CD45-,8 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F5,E-MTAB-7407,Homo sapiens,FCAImmP7352195,female,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+730,CD45+,8 weeks gestation,5GEX,No,Cross_Organ,liver,liver,10x5'v1,F5,E-MTAB-7407,Homo sapiens,FCAImmP7352196,female,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+731,Live/dead sorting,9 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F6,E-MTAB-7407,Homo sapiens,4834STDY7002882,male,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+732,CD45+,9 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F6,E-MTAB-7407,Homo sapiens,4834STDY7038750,male,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+733,CD45-,9 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F6,E-MTAB-7407,Homo sapiens,4834STDY7038751,male,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+734,Live/dead sorting,9 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F7,E-MTAB-7407,Homo sapiens,FCAImmP7198434,female,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+735,CD45+,9 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F7,E-MTAB-7407,Homo sapiens,FCAImmP7198628,female,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+736,CD45-,9 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F7,E-MTAB-7407,Homo sapiens,FCAImmP7198629,female,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+737,CD45+,9 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F8,E-MTAB-7407,Homo sapiens,FCAImmP7316889,female,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+738,CD45+,9 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F8,E-MTAB-7407,Homo sapiens,FCAImmP7316890,female,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+739,CD45+,9 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F8,E-MTAB-7407,Homo sapiens,FCAImmP7316891,female,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+740,CD45-,9 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F8,E-MTAB-7407,Homo sapiens,FCAImmP7316892,female,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+741,CD45-,9 weeks gestation,3GEX,No,Cross_Organ,liver,liver,10x3'v2,F8,E-MTAB-7407,Homo sapiens,FCAImmP7316893,female,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+742,CD45-,7,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F61,E-MTAB-13071,Homo sapiens,FCAImmP7862095,male,1,Gopee_et_at_2024,10X_scRNA-seq,7
+743,CD45+,7,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F61,E-MTAB-11343,Homo sapiens,FCAImmP7862094,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+744,CD45-,7,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F61,E-MTAB-11343,Homo sapiens,FCAImmP7862096,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+745,CD45+,11,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F69,E-MTAB-11343,Homo sapiens,FCAImmP7964502,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,11
+746,CD45-,11,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F69,E-MTAB-11343,Homo sapiens,FCAImmP7964503,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,11
+747,CD45-,11,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F69,E-MTAB-11343,Homo sapiens,FCAImmP7964504,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,11
+748,CD45-,11,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F69,E-MTAB-11343,Homo sapiens,FCAImmP7964505,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,11
+749,CD45+,12,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F38,E-MTAB-11343,Homo sapiens,FCAImmP7528290,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+750,CD45-,12,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F38,E-MTAB-11343,Homo sapiens,FCAImmP7528291,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+751,CD45+,12,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F38,E-MTAB-11343,Homo sapiens,FCAImmP7528296,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+752,unsorted,12,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F45,E-MTAB-11343,Homo sapiens,FCAImmP7579212,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+753,CD45+,12,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F45,E-MTAB-11343,Homo sapiens,FCAImmP7579213,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+754,CD45+,12,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F45,E-MTAB-11343,Homo sapiens,FCAImmP7579224,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+755,CD45P,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F221,E-MTAB-13071,Homo sapiens,HCA_rFSKI14539490,female,1,Gopee_et_at_2024,10X_scRNA-seq,14
+756,CD45NCD34N,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F221,E-MTAB-13071,Homo sapiens,HCA_rFSKI14539491,female,1,Gopee_et_at_2024,10X_scRNA-seq,14
+757,CD45NCD34N,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F221,E-MTAB-13071,Homo sapiens,HCA_rFSKI14539492,female,1,Gopee_et_at_2024,10X_scRNA-seq,14
+758,CD45NCD34P,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F221,E-MTAB-13071,Homo sapiens,HCA_rFSKI14539493,female,1,Gopee_et_at_2024,10X_scRNA-seq,14
+759,CD45P,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F221,E-MTAB-13071,Homo sapiens,HCA_rFSKI14539494,female,1,Gopee_et_at_2024,10X_scRNA-seq,14
+760,CD45NCD34N,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F221,E-MTAB-13071,Homo sapiens,HCA_rFSKI14539495,female,1,Gopee_et_at_2024,10X_scRNA-seq,14
+761,CD45NCD34N,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F221,E-MTAB-13071,Homo sapiens,HCA_rFSKI14539496,female,1,Gopee_et_at_2024,10X_scRNA-seq,14
+762,CD45NCD34P,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F221,E-MTAB-13071,Homo sapiens,HCA_rFSKI14539497,female,1,Gopee_et_at_2024,10X_scRNA-seq,14
+763,CD45P,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F221,E-MTAB-13071,Homo sapiens,HCA_rFSKI14539498,female,1,Gopee_et_at_2024,10X_scRNA-seq,14
+764,CD45NCD34N,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F221,E-MTAB-13071,Homo sapiens,HCA_rFSKI14539499,female,1,Gopee_et_at_2024,10X_scRNA-seq,14
+765,CD45NCD34N,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F221,E-MTAB-13071,Homo sapiens,HCA_rFSKI14539500,female,1,Gopee_et_at_2024,10X_scRNA-seq,14
+766,CD45NCD34P,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F221,E-MTAB-13071,Homo sapiens,HCA_rFSKI14539501,female,1,Gopee_et_at_2024,10X_scRNA-seq,14
+767,CD45+,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F51,E-MTAB-11343,Homo sapiens,FCAImmP7803034,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+768,CD45+,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F51,E-MTAB-11343,Homo sapiens,FCAImmP7803035,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+769,CD45-,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F51,E-MTAB-11343,Homo sapiens,FCAImmP7803042,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+770,CD45-,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F51,E-MTAB-11343,Homo sapiens,FCAImmP7803043,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+771,CD45+,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F71,E-MTAB-11343,Homo sapiens,FCAImmP7964506,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+772,CD45+,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F71,E-MTAB-11343,Homo sapiens,FCAImmP7964507,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+773,CD45-,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F71,E-MTAB-11343,Homo sapiens,FCAImmP7964508,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+774,CD45-,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F71,E-MTAB-11343,Homo sapiens,FCAImmP7964509,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+775,CD45-,14,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F71,E-MTAB-11343,Homo sapiens,FCAImmP7964510,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+776,CD45+,15,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F50,E-MTAB-11343,Homo sapiens,FCAImmP7803024,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+777,CD45+,15,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F50,E-MTAB-11343,Homo sapiens,FCAImmP7803025,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+778,CD45-,15,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F50,E-MTAB-11343,Homo sapiens,FCAImmP7803026,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+779,CD45-,15,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F50,E-MTAB-11343,Homo sapiens,FCAImmP7803027,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+780,CD45-,16,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F41,E-MTAB-11343,Homo sapiens,FCAImmP7555848,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,16
+781,CD45-,16,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F41,E-MTAB-11343,Homo sapiens,FCAImmP7555858,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,16
+782,CD45P,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F220,E-MTAB-13071,Homo sapiens,HCA_rFSKI14449635,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+783,CD45NCD34N,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F220,E-MTAB-13071,Homo sapiens,HCA_rFSKI14449636,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+784,CD45NCD34N,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F220,E-MTAB-13071,Homo sapiens,HCA_rFSKI14449637,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+785,CD45NCD34P,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F220,E-MTAB-13071,Homo sapiens,HCA_rFSKI14449638,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+786,CD45P,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F220,E-MTAB-13071,Homo sapiens,HCA_rFSKI14449639,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+787,CD45NCD34N,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F220,E-MTAB-13071,Homo sapiens,HCA_rFSKI14449640,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+788,CD45NCD34N,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F220,E-MTAB-13071,Homo sapiens,HCA_rFSKI14449641,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+789,CD45NCD34P,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F220,E-MTAB-13071,Homo sapiens,HCA_rFSKI14449642,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+790,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942138,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+791,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942139,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+792,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942141,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+793,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942142,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+794,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942143,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+795,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942144,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+796,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942145,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+797,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942146,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+798,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942147,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+799,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942148,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+800,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942149,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+801,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942150,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+802,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942151,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+803,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942152,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+804,Total,17,5GEX,No,Cross_Organ,skin,skin,10x5'v1,F217,E-MTAB-13071,Homo sapiens,WS_wEMB13942153,female,1,Gopee_et_at_2024,10X_scRNA-seq,17
+805,CD45+,10 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F9,E-MTAB-7407,Homo sapiens,FCAImmP7241240,female,1,Popescue_et_al_2019,10X_scRNA-seq,8_10
+806,CD45-,10 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F9,E-MTAB-7407,Homo sapiens,FCAImmP7241241,female,1,Popescue_et_al_2019,10X_scRNA-seq,8_10
+807,CD45+,7 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F2,E-MTAB-7407,Homo sapiens,FCAImmP7316896,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+808,CD45-,7 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F2,E-MTAB-7407,Homo sapiens,FCAImmP7316897,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+809,CD45+,7 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F3,E-MTAB-7407,Homo sapiens,FCAImmP7462240,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+810,CD45-,7 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F3,E-MTAB-7407,Homo sapiens,FCAImmP7462241,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+811,CD45+,8 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F4,E-MTAB-7407,Homo sapiens,4834STDY7002879,male,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+812,CD45-,8 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F4,E-MTAB-7407,Homo sapiens,4834STDY7002880,male,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+813,CD45+,8 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F5,E-MTAB-7407,Homo sapiens,FCAImmP7352189,female,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+814,CD45-,8 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F5,E-MTAB-7407,Homo sapiens,FCAImmP7352190,female,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+815,CD45-,8 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F5,E-MTAB-7407,Homo sapiens,FCAImmP7352191,female,1,Popescue_et_al_2019,10X_scRNA-seq,6_8
+816,Live/dead sorting,9 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F6,E-MTAB-7407,Homo sapiens,4834STDY7002883,male,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+817,CD45+,9 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F6,E-MTAB-7407,Homo sapiens,4834STDY7038752,male,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+818,CD45-,9 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F6,E-MTAB-7407,Homo sapiens,4834STDY7038753,male,1,Popescue_et_al_2019,10X_scRNA-seq,7
+819,CD45+,9 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F8,E-MTAB-7407,Homo sapiens,FCAImmP7316886,female,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+820,CD45+,9 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F8,E-MTAB-7407,Homo sapiens,FCAImmP7316887,female,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+821,CD45-,9 weeks gestation,3GEX,No,Cross_Organ,skin,skin,10x3'v2,F8,E-MTAB-7407,Homo sapiens,FCAImmP7316888,female,1,Popescue_et_al_2019,10X_scRNA-seq,7_9
+822,unsorted,9,3GEX,No,Cross_Organ,spleen,spleen,10x3'v2,F22,E-MTAB-11343,Homo sapiens,FCAImmP7198433,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,9
+823,CD45+,11,3GEX,No,Cross_Organ,spleen,spleen,10x3'v2,F23,E-MTAB-11343,Homo sapiens,FCAImmP7198632,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,11
+824,CD45-,11,3GEX,No,Cross_Organ,spleen,spleen,10x3'v2,F23,E-MTAB-11343,Homo sapiens,FCAImmP7198633,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,11
+825,CD45+,11,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F69,E-MTAB-11343,Homo sapiens,FCAImmP7964499,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,11
+826,CD45-,11,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F69,E-MTAB-11343,Homo sapiens,FCAImmP7964500,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,11
+827,CD45-,11,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F69,E-MTAB-11343,Homo sapiens,FCAImmP7964501,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,11
+828,CD45-,12,3GEX,No,Cross_Organ,spleen,spleen,10x3'v2,F38,E-MTAB-11343,Homo sapiens,FCAImmP7528279,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+829,CD45-,12,3GEX,No,Cross_Organ,spleen,spleen,10x3'v2,F38,E-MTAB-11343,Homo sapiens,FCAImmP7528280,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+830,CD45+,12,3GEX,No,Cross_Organ,spleen,spleen,10x3'v2,F45,E-MTAB-11343,Homo sapiens,FCAImmP7579216,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+831,CD45+,12,3GEX,No,Cross_Organ,spleen,spleen,10x3'v2,F45,E-MTAB-11343,Homo sapiens,FCAImmP7579217,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+832,CD45+,12,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F45,E-MTAB-11343,Homo sapiens,FCAImmP7579228,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+833,CD45-,12,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F45,E-MTAB-11343,Homo sapiens,FCAImmP7579229,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+834,CD45+,14,3GEX,No,Cross_Organ,spleen,spleen,10x3'v2,F30,E-MTAB-11343,Homo sapiens,FCAImmP7277562,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+835,CD45+,14,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F30,E-MTAB-11343,Homo sapiens,FCAImmP7277563,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+836,CD45+,14,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F30,E-MTAB-11343,Homo sapiens,FCAImmP7292033,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+837,CD45+,14,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F51,E-MTAB-11343,Homo sapiens,FCAImmP7803036,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+838,CD45+,14,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F51,E-MTAB-11343,Homo sapiens,FCAImmP7803037,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+839,CD45+,14,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F51,E-MTAB-11343,Homo sapiens,FCAImmP7803038,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+840,CD45-,14,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F51,E-MTAB-11343,Homo sapiens,FCAImmP7803039,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+841,CD45-,14,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F51,E-MTAB-11343,Homo sapiens,FCAImmP7803040,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+842,CD45-,14,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F51,E-MTAB-11343,Homo sapiens,FCAImmP7803041,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,14
+843,CD45+,15,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F50,E-MTAB-11343,Homo sapiens,FCAImmP7803020,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+844,CD45+,15,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F50,E-MTAB-11343,Homo sapiens,FCAImmP7803021,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+845,CD45-,15,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F50,E-MTAB-11343,Homo sapiens,FCAImmP7803022,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+846,CD45-,15,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F50,E-MTAB-11343,Homo sapiens,FCAImmP7803023,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,15
+847,CD45+,16,3GEX,No,Cross_Organ,spleen,spleen,10x3'v2,F21,E-MTAB-11343,Homo sapiens,FCAImmP7179365,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,16
+848,CD45-,16,3GEX,No,Cross_Organ,spleen,spleen,10x3'v2,F21,E-MTAB-11343,Homo sapiens,FCAImmP7179366,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,16
+849,CD45+,17,3GEX,No,Cross_Organ,spleen,spleen,10x3'v2,F29,E-MTAB-11343,Homo sapiens,FCAImmP7277554,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,17
+850,CD45-,17,3GEX,No,Cross_Organ,spleen,spleen,10x3'v2,F29,E-MTAB-11343,Homo sapiens,FCAImmP7277555,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,17
+851,CD45-,17,5GEX,No,Cross_Organ,spleen,spleen,10x5'v1,F29,E-MTAB-11343,Homo sapiens,FCAImmP7292029,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,17
+852,CD45-,7,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F32,E-MTAB-11343,Homo sapiens,FCAImmP7316898,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+853,CD45+,7,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F32,E-MTAB-11343,Homo sapiens,FCAImmP7316899,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+854,Total,9,3GEX,No,Cross_Organ,Whole,thymus,10x3'v2,F22,E-MTAB-11343,Homo sapiens,FCAImmP7198432,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,9
+855,CD45-positive,11,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F23,E-MTAB-8581,Homo sapiens,FCAImmP7198634,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,11
+856,CD45-negative,11,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F23,E-MTAB-8581,Homo sapiens,FCAImmP7198635,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,11
+857,total,11,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F64,E-MTAB-8581,Homo sapiens,FCAImmP7851890,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,11
+858,total,11,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F64,E-MTAB-8581,Homo sapiens,FCAImmP7851891,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,11
+859,CD45-positive,12,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F45,E-MTAB-8581,Homo sapiens,FCAImmP7579218,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,12
+860,CD45-negative,12,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F45,E-MTAB-8581,Homo sapiens,FCAImmP7579219,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,12
+861,CD45-positive,12,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F45,E-MTAB-8581,Homo sapiens,FCAImmP7579230,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,12
+862,CD45-negative,12,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F45,E-MTAB-8581,Homo sapiens,FCAImmP7579231,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,12
+863,Total,12,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F67,E-MTAB-8581,Homo sapiens,FCAImmP7851892,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,12
+864,Total,12,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F67,E-MTAB-8581,Homo sapiens,FCAImmP7851893,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,12
+865,Total,12,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F67,E-MTAB-8581,Homo sapiens,FCAImmP7851894,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,12
+866,Total,12,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F67,E-MTAB-8581,Homo sapiens,FCAImmP7851895,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,12
+867,CD137-positive,12,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F67,E-MTAB-8581,Homo sapiens,FCAImmP7851896,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,12
+868,MAIT,12,5GEX,No,Cross_Organ,thymus,thymus,10x5'v1,F67,E-MTAB-11343,Homo sapiens,FCAImmP7851897,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,12
+869,CD45-positive,13,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F38,E-MTAB-8581,Homo sapiens,FCAImmP7528283,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,13
+870,CD45-negative,13,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F38,E-MTAB-8581,Homo sapiens,FCAImmP7528284,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,13
+871,CD45-negative,13,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F38,E-MTAB-8581,Homo sapiens,FCAImmP7528285,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,13
+872,CD45-positive,13,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F38,E-MTAB-8581,Homo sapiens,FCAImmP7528294,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,13
+873,CD45-positive,14,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F30,E-MTAB-8581,Homo sapiens,FCAImmP7277564,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,14
+874,CD45-negative,14,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F30,E-MTAB-8581,Homo sapiens,FCAImmP7277565,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,14
+875,CD45-positive,14,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F30,E-MTAB-8581,Homo sapiens,FCAImmP7292034,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,14
+876,CD45-positive,16,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F21,E-MTAB-8581,Homo sapiens,FCAImmP7179369,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,16
+877,CD45-negative,16,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F21,E-MTAB-8581,Homo sapiens,FCAImmP7179370,male,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,16
+878,CD45-positive,16,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F41,E-MTAB-8581,Homo sapiens,FCAImmP7555851,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,16
+879,CD45-negative,16,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F41,E-MTAB-8581,Homo sapiens,FCAImmP7555852,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,16
+880,CD45-positive,16,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F41,E-MTAB-8581,Homo sapiens,FCAImmP7555860,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,16
+881,CD45-negative,16,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F41,E-MTAB-8581,Homo sapiens,FCAImmP7555861,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,16
+882,EPCAM-positive,17,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F83,E-MTAB-8581,Homo sapiens,F83_TH_EPCAM,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,17
+883,CD45-positive,17,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F29,E-MTAB-8581,Homo sapiens,FCAImmP7277556,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,17
+884,CD45-negative,17,3GEX,No,Cross_Organ,thymus,thymus,10x3'v2,F29,E-MTAB-8581,Homo sapiens,FCAImmP7277557,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,17
+885,CD45-positive,17,5GEX,No,Cross_Organ,thymus,thymus,10x5'v2,F29,E-MTAB-8581,Homo sapiens,FCAImmP7292030,female,1,¬¨‚Ä†JE Park¬¨‚Ä†¬¨‚àë¬¨‚Ä†2020,10X_scRNA-seq,17
+886,CD45+,7,5GEX,No,Cross_Organ,yolk sac,yolk sac,10x5'v1,F61,E-MTAB-11343,Homo sapiens,FCAImmP7862088,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+887,CD45+,7,5GEX,No,Cross_Organ,yolk sac,yolk sac,10x5'v1,F61,E-MTAB-11343,Homo sapiens,FCAImmP7862089,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+888,CD45+,7,5GEX,No,Cross_Organ,yolk sac,yolk sac,10x5'v1,F61,E-MTAB-11343,Homo sapiens,FCAImmP7862090,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+889,CD45-,7,5GEX,No,Cross_Organ,yolk sac,yolk sac,10x5'v1,F61,E-MTAB-11343,Homo sapiens,FCAImmP7862091,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+890,CD45-,7,5GEX,No,Cross_Organ,yolk sac,yolk sac,10x5'v1,F61,E-MTAB-11343,Homo sapiens,FCAImmP7862092,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+891,CD45-,7,5GEX,No,Cross_Organ,yolk sac,yolk sac,10x5'v1,F61,E-MTAB-11343,Homo sapiens,FCAImmP7862093,male,1,Suo_Dann_et_al_2022,10X_scRNA-seq,7
+892,unsorted,9,3GEX,No,Cross_Organ,yolk sac,yolk sac,10x3'v2,F22,E-MTAB-11343,Homo sapiens,FCAImmP7198435,female,1,Suo_Dann_et_al_2022,10X_scRNA-seq,9
+893,Live/dead sorting,4 weeks gestation,3GEX,No,Cross_Organ,yolk sac,yolk sac,10x3'v2,F1,E-MTAB-7407,Homo sapiens,FCAImmP7504909,female,1,Popescue_et_al_2019,10X_scRNA-seq,2_4
+894,Live/dead sorting,4 weeks gestation,3GEX,No,Cross_Organ,yolk sac,yolk sac,10x3'v2,F1,E-MTAB-7407,Homo sapiens,FCAImmP7504910,female,1,Popescue_et_al_2019,10X_scRNA-seq,2_4
+895,Live/dead sorting,4 weeks gestation,3GEX,No,Cross_Organ,yolk sac,yolk sac,10x3'v2,F1,E-MTAB-7407,Homo sapiens,FCAImmP7504911,female,1,Popescue_et_al_2019,10X_scRNA-seq,2_4
+896,Live/dead sorting,4 weeks gestation,3GEX,No,Cross_Organ,yolk sac,yolk sac,10x3'v2,F1,E-MTAB-7407,Homo sapiens,FCAImmP7504912,female,1,Popescue_et_al_2019,10X_scRNA-seq,2_4
+897,Live/dead sorting,4 weeks gestation,3GEX,No,Cross_Organ,yolk sac,yolk sac,10x3'v2,F1,E-MTAB-7407,Homo sapiens,FCAImmP7504913,female,1,Popescue_et_al_2019,10X_scRNA-seq,2_4
+898,Live/dead sorting,7 weeks gestation,3GEX,No,Cross_Organ,yolk sac,yolk sac,10x3'v2,F2,E-MTAB-7407,Homo sapiens,FCAImmP7316900,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+899,Live/dead sorting,7 weeks gestation,3GEX,No,Cross_Organ,yolk sac,yolk sac,10x3'v2,F3,E-MTAB-7407,Homo sapiens,FCAImmP7462244,female,1,Popescue_et_al_2019,10X_scRNA-seq,5_7
+900,Total,Carnegie stage 17,5GEX,No,Cross_Organ,yolk sac,yolk sac,10x5'v2,F158,E-MAT-11673,Homo sapiens,WS_wEMB12142156,female,1,Whole_Embryo,10X_scRNA-seq,5_6
+901,Total,Carnegie stage 17,5GEX,No,Cross_Organ,yolk sac,yolk sac,10x5'v2,F158,E-MAT-11673,Homo sapiens,WS_wEMB12142157,female,1,Whole_Embryo,10X_scRNA-seq,5_6
+902,Total,Carnegie stage 17,5GEX,No,Cross_Organ,yolk sac,yolk sac,10x5'v2,F158,E-MAT-11673,Homo sapiens,WS_wEMB12142158,female,1,Whole_Embryo,10X_scRNA-seq,5_6
+903,Total,Carnegie stage 17,5GEX,No,Cross_Organ,yolk sac,yolk sac,10x5'v2,F158,E-MAT-11673,Homo sapiens,WS_wEMB12142159,female,1,Whole_Embryo,10X_scRNA-seq,5_6
+904,CD45+,carnegie stage 18,5GEX,No,Cross_Organ,vitelline blood vessel,yolk sac,10x5'v2,F79,E-MTAB-10552,Homo sapiens,FCAImmP8096686,male,1,Goh_et_al_2023,10X_scRNA-seq,6_8
+905,CD45-,carnegie stage 18,5GEX,No,Cross_Organ,vitelline blood vessel,yolk sac,10x5'v2,F79,E-MTAB-10552,Homo sapiens,FCAImmP8096687,male,1,Goh_et_al_2023,10X_scRNA-seq,6_8
+906,CD45+,carnegie stage 18,5GEX,No,Cross_Organ,membrane,yolk sac,10x5'v2,F79,E-MTAB-10552,Homo sapiens,FCAImmP8096688,male,1,Goh_et_al_2023,10X_scRNA-seq,6_8
+907,CD45-,carnegie stage 18,5GEX,No,Cross_Organ,membrane,yolk sac,10x5'v2,F79,E-MTAB-10552,Homo sapiens,FCAImmP8096689,male,1,Goh_et_al_2023,10X_scRNA-seq,6_8
+908,CD45-,carnegie stage 18,5GEX,No,Cross_Organ,membrane,yolk sac,10x5'v2,F79,E-MTAB-10552,Homo sapiens,FCAImmP8096690,male,1,Goh_et_al_2023,10X_scRNA-seq,6_8
+909,CD45-,carnegie stage 18,5GEX,No,Cross_Organ,membrane,yolk sac,10x5'v2,F79,E-MTAB-10552,Homo sapiens,FCAImmP8096691,male,1,Goh_et_al_2023,10X_scRNA-seq,6_8
+910,CD45+,carnegie stage 18,5GEX,No,Cross_Organ,membrane,yolk sac,10x5'v2,F80,E-MTAB-10552,Homo sapiens,FCAImmP8096692,male,1,Goh_et_al_2023,10X_scRNA-seq,6_8
+911,CD45+,carnegie stage 18,5GEX,No,Cross_Organ,membrane,yolk sac,10x5'v2,F80,E-MTAB-10552,Homo sapiens,FCAImmP8096693,male,1,Goh_et_al_2023,10X_scRNA-seq,6_8
+912,CD45-,carnegie stage 18,5GEX,No,Cross_Organ,membrane,yolk sac,10x5'v2,F80,E-MTAB-10552,Homo sapiens,FCAImmP8096694,male,1,Goh_et_al_2023,10X_scRNA-seq,6_8
+913,CD45-,carnegie stage 18,5GEX,No,Cross_Organ,membrane,yolk sac,10x5'v2,F80,E-MTAB-10552,Homo sapiens,FCAImmP8096695,male,1,Goh_et_al_2023,10X_scRNA-seq,6_8
+914,CD45-,carnegie stage 18,5GEX,No,Cross_Organ,membrane,yolk sac,10x5'v2,F80,E-MTAB-10552,Homo sapiens,FCAImmP8096696,male,1,Goh_et_al_2023,10X_scRNA-seq,6_8
+915,CD45-,carnegie stage 18,5GEX,No,Cross_Organ,vitelline blood vessel,yolk sac,10x5'v2,F79,E-MTAB-10552,Homo sapiens,FCAImmP8102304,male,1,Goh_et_al_2023,10X_scRNA-seq,6_8
+916,Total ,Carnegie stage 17,5GEX,No,Cross_Organ,yolk sac stalk,yolk sac stalk,10x5'v2,F158,E-MAT-11673,Homo sapiens,WS_wEMB12142160,female,1,Whole_Embryo,10X_scRNA-seq,5_6
+917,Total ,Carnegie stage 17,5GEX,No,Cross_Organ,yolk sac stalk,yolk sac stalk,10x5'v2,F158,E-MAT-11673,Homo sapiens,WS_wEMB12142161,female,1,Whole_Embryo,10X_scRNA-seq,5_6
+918,Total ,6.7,10X_multiome,No,Cross_Organ,cerebral,Meninges,10x_multiome,BRC¬¨‚Ä†2432.00,Sanger,Homo sapiens,HCA_BRA_F13168988,Unknown,1,Sanger,10X_multiome,6.7
+919,Total ,8.4,10X_multiome,No,Cross_Organ,cerebral,Meninges,10x_multiome,BRC¬¨‚Ä†2433.00,Sanger,Homo sapiens,HCA_BRA_F13168989,Unknown,1,Sanger,10X_multiome,8.4
+920,Total ,"6.7,8.4",10X_multiome,Yes,Cross_Organ,cerebral,Meninges,10x_multiome,multiplexed,Sanger,Homo sapiens,HCA_BRA_F13168990,Unknown,2,Sanger,10X_multiome,"6.7,8.4"
+921,Total ,"6.7,8.4",10X_multiome,Yes,Cross_Organ,falcine,Meninges,10x_multiome,multiplexed,Sanger,Homo sapiens,HCA_BRA_F13168991,Unknown,2,Sanger,10X_multiome,"6.7,8.4"
+922,Total ,"6.7,8.4",10X_multiome,Yes,Cross_Organ,skullbase,Meninges,10x_multiome,multiplexed,Sanger,Homo sapiens,HCA_BRA_F13168992,Unknown,2,Sanger,10X_multiome,"6.7,8.4"
+923,Total ,"6.7,8.4",10X_multiome,Yes,Cross_Organ,skullbase,Meninges,10x_multiome,multiplexed,Sanger,Homo sapiens,HCA_BRA_F13168993,Unknown,2,Sanger,10X_multiome,"6.7,8.4"
+924,Total ,"9.2,9.9,12.5",10X_multiome,Yes,Cross_Organ,multiplexed,Meninges,10x_multiome,multiplexed,Sanger,Homo sapiens,HCA_BRA_F13774551,Unknown,3,Sanger,10X_multiome,"9.2,9.9,12.5"
+925,Total ,"9.2,9.9,12.5",10X_multiome,Yes,Cross_Organ,multiplexed,Meninges,10x_multiome,multiplexed,Sanger,Homo sapiens,HCA_BRA_F13774552,Unknown,3,Sanger,10X_multiome,"9.2,9.9,12.5"
+926,Total ,"9.2,9.9,12.5",10X_multiome,Yes,Cross_Organ,multiplexed,Meninges,10x_multiome,multiplexed,Sanger,Homo sapiens,HCA_BRA_F13774553,Unknown,3,Sanger,10X_multiome,"9.2,9.9,12.5"
+927,Total ,"9.2,9.9,12.5",10X_multiome,Yes,Cross_Organ,sb-ant,Meninges,10x_multiome,multiplexed,Sanger,Homo sapiens,HCA_BRA_F13774554,Unknown,3,Sanger,10X_multiome,"9.2,9.9,12.5"
+928,Total ,"9.2,9.9,12.5",10X_multiome,Yes,Cross_Organ,sb-post,Meninges,10x_multiome,multiplexed,Sanger,Homo sapiens,HCA_BRA_F13774555,Unknown,3,Sanger,10X_multiome,"9.2,9.9,12.5"
+929,Total ,"9.2,9.9,12.5",10X_multiome,Yes,Cross_Organ,sagittal,Meninges,10x_multiome,multiplexed,Sanger,Homo sapiens,HCA_BRA_F13774556,Unknown,3,Sanger,10X_multiome,"9.2,9.9,12.5"

@@ -1,0 +1,482 @@
+published_propagated_anno,published_propagated_anno_level2,published_propagated_anno_level1,published_propagated_anno_level0
+DOUBLET,Doublet,Doublet,Doublet
+DOUBLET_LYMPHOID_MACROPHAGE,Doublet (B Cell),Doublet,Doublet
+DOUBLET_ERY_B,Doublet (B Cell),Doublet,Doublet
+DOUBLET_VSMC_ERYTHROCYTE,Doublet (ERY),Doublet,Doublet
+DOUBLETS_FIBRO_ERY,Doublet (ERY),Doublet,Doublet
+DOUBLET_ENDOTHELIUM_ERYTHROCYTE,Doublet (ERY),Doublet,Doublet
+DOUBLET_IMMUNE_FIBROBLAST,Doublet (Unspecified Immune),Doublet,Doublet
+HE,Haemogenic Endothelium,Endothelium (Haemogenic),Endothelium
+Lymphatic Endothelial,Lymphatic Endothelium,Endothelium (Vascular),Endothelium
+LE,Lymphatic Endothelium,Endothelium (Vascular),Endothelium
+Early LE,Lymphatic Endothelium,Endothelium (Vascular),Endothelium
+LymphEndo,Lymphatic Endothelium,Endothelium (Vascular),Endothelium
+Endothelial,Vascular Endothelium,Endothelium (Vascular),Endothelium
+ENDOTHELIUM_I,Vascular Endothelium,Endothelium (Vascular),Endothelium
+Postcapillary venules,Vascular Endothelium,Endothelium (Vascular),Endothelium
+ENDOTHELIUM,Vascular Endothelium,Endothelium (Vascular),Endothelium
+ENDOTHELIUM_III,Vascular Endothelium,Endothelium (Vascular),Endothelium
+Arterioles,Vascular Endothelium,Endothelium (Vascular),Endothelium
+VenousEndo,Vascular Endothelium,Endothelium (Vascular),Endothelium
+Capillaries,Vascular Endothelium,Endothelium (Vascular),Endothelium
+ENDOTHELIUM_IV,Vascular Endothelium,Endothelium (Vascular),Endothelium
+ENDOTHELIUM_AEC,Vascular Endothelium,Endothelium (Vascular),Endothelium
+Venules,Vascular Endothelium,Endothelium (Vascular),Endothelium
+Capillary arterioles,Vascular Endothelium,Endothelium (Vascular),Endothelium
+ENDOTHELIUM_II,Vascular Endothelium,Endothelium (Vascular),Endothelium
+ENDOTHELIUM_VWF,Vascular Endothelium,Endothelium (Vascular),Endothelium
+ENDOTHELIUM_PROLIF_AEC,Vascular Endothelium,Endothelium (Vascular),Endothelium
+ENDOTHELIUM_PROLIF_SINUSOIDAL_EC,Vascular Endothelium,Endothelium (Vascular),Endothelium
+ENDOTHELIUM_SINUSOIDAL,Vascular Endothelium,Endothelium (Vascular),Endothelium
+Early endothelial cells,Vascular Endothelium,Endothelium (Vascular),Endothelium
+IMMATURE_ENDOTHELIUM,Vascular Endothelium,Endothelium (Vascular),Endothelium
+ArterialEndo,Vascular Endothelium,Endothelium (Vascular),Endothelium
+sinusoidal EC,Vascular Endothelium,Endothelium (Vascular),Endothelium
+tip EC,Vascular Endothelium,Endothelium (Vascular),Endothelium
+ENDOTHELIUM_V,Vascular Endothelium,Endothelium (Vascular),Endothelium
+immature EC,Vascular Endothelium,Endothelium (Vascular),Endothelium
+proliferating EC,Vascular Endothelium,Endothelium (Vascular),Endothelium
+POSTN+ basal,Keratinocyte,Epidermal (Keratinocyte),Epidermal
+Suprabasal IFE,Keratinocyte,Epidermal (Keratinocyte),Epidermal
+DPYSL2+ basal,Keratinocyte,Epidermal (Keratinocyte),Epidermal
+Placode,Keratinocyte,Epidermal (Keratinocyte),Epidermal
+Immature suprabasal,Keratinocyte,Epidermal (Keratinocyte),Epidermal
+Immature basal,Keratinocyte,Epidermal (Keratinocyte),Epidermal
+KERATINOCYTE,Keratinocyte,Epidermal (Keratinocyte),Epidermal
+Companion layer,Keratinocyte,Epidermal (Keratinocyte),Epidermal
+Matrix,Keratinocyte,Epidermal (Keratinocyte),Epidermal
+Inner root sheath,Keratinocyte,Epidermal (Keratinocyte),Epidermal
+Cuticle/cortex,Keratinocyte,Epidermal (Keratinocyte),Epidermal
+Outer root sheath,Keratinocyte,Epidermal (Keratinocyte),Epidermal
+Melanocyte,Melanocyte,Epidermal (Melanocyte),Epidermal
+Melanoblast,Melanocyte,Epidermal (Melanocyte),Epidermal
+Melano,Melanocyte,Epidermal (Melanocyte),Epidermal
+MELANOCYTE,Melanocyte,Epidermal (Melanocyte),Epidermal
+Erythroid,Erythroid,Erythroid,Erythroid
+ERYTHROID,Erythroid,Erythroid,Erythroid
+LATE_ERY,Erythroid,Erythroid,Erythroid
+PrimErythro2,Erythroid,Erythroid,Erythroid
+MID_ERY,Erythroid,Erythroid,Erythroid
+EARLY_ERY,Erythroid,Erythroid,Erythroid
+early erythroid,Erythroid,Erythroid,Erythroid
+Early erythroid (embryonic),Erythroid,Erythroid,Erythroid
+Erythroid (fetal),Erythroid,Erythroid,Erythroid
+ERYTHROCYTE,Erythroid,Erythroid,Erythroid
+mid erythroid,Erythroid,Erythroid,Erythroid
+LOW_QUALITY_MID_ERY_(HIGH_RIBO),Erythroid,Erythroid,Erythroid
+late erythroid,Erythroid,Erythroid,Erythroid
+MID_ERYTHROID,Erythroid,Erythroid,Erythroid
+DefReticulo,Erythroid,Erythroid,Erythroid
+PrimErythro1,Erythroid,Erythroid,Erythroid
+Early erythroid,Erythroid,Erythroid,Erythroid
+DefErythro,Erythroid,Erythroid,Erythroid
+erythroid macrophage,Erythroid,Erythroid,Erythroid
+CYCLING_YS_ERY,Erythroid,Erythroid,Erythroid
+YS_ERY,Erythroid,Erythroid,Erythroid
+Erythroid (embryonic),Erythroid,Erythroid,Erythroid
+EARLY_ERYTHROID,Erythroid,Erythroid,Erythroid
+pre B progenitor,B Cell,Immune (Lymphoid),Immune
+LATE_PRO_B,B Cell,Immune (Lymphoid),Immune
+pro B progenitor,B Cell,Immune (Lymphoid),Immune
+SMALL_PRE_B,B Cell,Immune (Lymphoid),Immune
+pre pro B progenitor,B Cell,Immune (Lymphoid),Immune
+PRO_B,B Cell,Immune (Lymphoid),Immune
+PRE_PRO_B,B Cell,Immune (Lymphoid),Immune
+Pre B cell,B Cell,Immune (Lymphoid),Immune
+naive B cell,B Cell,Immune (Lymphoid),Immune
+LARGE_PRE_B,B Cell,Immune (Lymphoid),Immune
+Pro B cell,B Cell,Immune (Lymphoid),Immune
+B_CELL,B Cell,Immune (Lymphoid),Immune
+B cell,B Cell,Immune (Lymphoid),Immune
+MATURE_B,B Cell,Immune (Lymphoid),Immune
+immature B cell,B Cell,Immune (Lymphoid),Immune
+IMMATURE_B,B Cell,Immune (Lymphoid),Immune
+CYCLING_B,B Cell,Immune (Lymphoid),Immune
+B1,B Cell,Immune (Lymphoid),Immune
+Pre pro B cell,B Cell,Immune (Lymphoid),Immune
+B,B Cell,Immune (Lymphoid),Immune
+PLASMA_B,B Cell,Immune (Lymphoid),Immune
+LYMPHOID B LIN,B Cell,Immune (Lymphoid),Immune
+ILC3,ILC,Immune (Lymphoid),Immune
+CYCLING_ILC,ILC,Immune (Lymphoid),Immune
+ILC2,ILC,Immune (Lymphoid),Immune
+LTi,ILC,Immune (Lymphoid),Immune
+ILC_PRECURSOR,ILC,Immune (Lymphoid),Immune
+CYCLING_NK,NK Cell,Immune (Lymphoid),Immune
+NK,NK Cell,Immune (Lymphoid),Immune
+NK cell,NK Cell,Immune (Lymphoid),Immune
+CD56 bright NK,NK Cell,Immune (Lymphoid),Immune
+NK_T_CELL,NK Cell,Immune (Lymphoid),Immune
+NK T cell,NK Cell,Immune (Lymphoid),Immune
+mature NK,NK Cell,Immune (Lymphoid),Immune
+CD8+T,T Cell,Immune (Lymphoid),Immune
+DP(P)_T,T Cell,Immune (Lymphoid),Immune
+CD8AA,T Cell,Immune (Lymphoid),Immune
+TYPE_1_INNATE_T,T Cell,Immune (Lymphoid),Immune
+ABT(ENTRY),T Cell,Immune (Lymphoid),Immune
+DN(P)_T,T Cell,Immune (Lymphoid),Immune
+DN(Q)_T,T Cell,Immune (Lymphoid),Immune
+TREG,T Cell,Immune (Lymphoid),Immune
+CYCLING_T,T Cell,Immune (Lymphoid),Immune
+DP(Q)_T,T Cell,Immune (Lymphoid),Immune
+TYPE_3_INNATE_T,T Cell,Immune (Lymphoid),Immune
+CD4 T cell,T Cell,Immune (Lymphoid),Immune
+CD8 T cell,T Cell,Immune (Lymphoid),Immune
+CD4+T,T Cell,Immune (Lymphoid),Immune
+DN(early)_T,T Cell,Immune (Lymphoid),Immune
+Innate T type3,T Cell,Immune (Lymphoid),Immune
+Treg,T Cell,Immune (Lymphoid),Immune
+Innate T type1,T Cell,Immune (Lymphoid),Immune
+EARLY_MK,Megakaryocyte,Immune (MK),Immune
+LATE_MK,Megakaryocyte,Immune (MK),Immune
+early MK,Megakaryocyte,Immune (MK),Immune
+MK,Megakaryocyte,Immune (MK),Immune
+Megakaryo,Megakaryocyte,Immune (MK),Immune
+Megakaryocyte,Megakaryocyte,Immune (MK),Immune
+DC1,DC,Immune (Myeloid),Immune
+CYCLING_DC,DC,Immune (Myeloid),Immune
+DC2,DC,Immune (Myeloid),Immune
+LC,DC,Immune (Myeloid),Immune
+MIGRATORY_DC,DC,Immune (Myeloid),Immune
+PDC,DC,Immune (Myeloid),Immune
+pDC,DC,Immune (Myeloid),Immune
+Inflammatory DC,DC,Immune (Myeloid),Immune
+CYCLING_PDC,DC,Immune (Myeloid),Immune
+ASDC,DC,Immune (Myeloid),Immune
+PRE DC2,DC,Immune (Myeloid),Immune
+tDC,DC,Immune (Myeloid),Immune
+PRE_DC2,DC,Immune (Myeloid),Immune
+DC3,DC,Immune (Myeloid),Immune
+AS_DC,DC,Immune (Myeloid),Immune
+LANGERHANS_CELLS,DC,Immune (Myeloid),Immune
+DC2_CYCLING,DC,Immune (Myeloid),Immune
+MAC DC2,DC,Immune (Myeloid),Immune
+PROMYELOCYTE,Granulocyte,Immune (Myeloid),Immune
+neutrophil,Granulocyte,Immune (Myeloid),Immune
+promyelocyte,Granulocyte,Immune (Myeloid),Immune
+EOSINOPHIL_BASOPHIL,Granulocyte,Immune (Myeloid),Immune
+myelocyte,Granulocyte,Immune (Myeloid),Immune
+NEUTROPHIL,Granulocyte,Immune (Myeloid),Immune
+MYELOCYTE,Granulocyte,Immune (Myeloid),Immune
+basophil,Granulocyte,Immune (Myeloid),Immune
+Myelocyte,Granulocyte,Immune (Myeloid),Immune
+eosinophil,Granulocyte,Immune (Myeloid),Immune
+MACROPHAGE_KUPFFER_LIKE,Macrophage,Immune (Myeloid),Immune
+LYVE1++ macrophage,Macrophage,Immune (Myeloid),Immune
+stromal macrophage,Macrophage,Immune (Myeloid),Immune
+MACROPHAGE_LYVE1_HIGH,Macrophage,Immune (Myeloid),Immune
+MACROPHAGE_MHCII_HIGH,Macrophage,Immune (Myeloid),Immune
+MACROPHAGE_IRON_RECYCLING,Macrophage,Immune (Myeloid),Immune
+MACROPHAGE_PROLIFERATING,Macrophage,Immune (Myeloid),Immune
+MHCII+ macrophage,Macrophage,Immune (Myeloid),Immune
+MACROPHAGE_ERY,Macrophage,Immune (Myeloid),Immune
+TML macrophage,Macrophage,Immune (Myeloid),Immune
+MICROGLIA,Macrophage,Immune (Myeloid),Immune
+LOW_QUALITY_MACROPHAGE,Macrophage,Immune (Myeloid),Immune
+Iron-recycling macrophage,Macrophage,Immune (Myeloid),Immune
+Macro,Macrophage,Immune (Myeloid),Immune
+MACROPHAGE_TREM2,Macrophage,Immune (Myeloid),Immune
+MACROPHAGE_PERI,Macrophage,Immune (Myeloid),Immune
+MACROPHAGE_MICROGLIA,Macrophage,Immune (Myeloid),Immune
+MACROPHAGE_PRE_MAC,Macrophage,Immune (Myeloid),Immune
+MAST_CELL,Mast Cell,Immune (Myeloid),Immune
+Mast cell (medium),Mast Cell,Immune (Myeloid),Immune
+Mast cell (most mature),Mast Cell,Immune (Myeloid),Immune
+mast cell,Mast Cell,Immune (Myeloid),Immune
+Mast cell (earliest),Mast Cell,Immune (Myeloid),Immune
+Mast,Mast Cell,Immune (Myeloid),Immune
+CD14_MONO,Monocyte,Immune (Myeloid),Immune
+PROMONOCYTE,Monocyte,Immune (Myeloid),Immune
+Monocyte,Monocyte,Immune (Myeloid),Immune
+MONOCYTE_II_CCR2,Monocyte,Immune (Myeloid),Immune
+Monocyte precursor,Monocyte,Immune (Myeloid),Immune
+MONOCYTE,Monocyte,Immune (Myeloid),Immune
+CD14 monocyte,Monocyte,Immune (Myeloid),Immune
+promonocyte,Monocyte,Immune (Myeloid),Immune
+MONOCYTE_I_CXCR4,Monocyte,Immune (Myeloid),Immune
+MONOCYTE_0,Monocyte,Immune (Myeloid),Immune
+MONOCYTE_III_IL1B,Monocyte,Immune (Myeloid),Immune
+Monocyte (activated/differentiating),Monocyte,Immune (Myeloid),Immune
+monocytoid macrophage,Monocyte,Immune (Myeloid),Immune
+MONOCYTE_1,Monocyte,Immune (Myeloid),Immune
+MONOCYTE_MACROPHAGE,Monocyte,Immune (Myeloid),Immune
+MONO MAC DC2,Monocyte,Immune (Myeloid),Immune
+MONO MAC PRE DC2,Monocyte,Immune (Myeloid),Immune
+Neutrophil2,Neutrophil,Immune (Myeloid),Immune
+Neutrophil1,Neutrophil,Immune (Myeloid),Immune
+osteoclast,Osteoclast,Immune (Myeloid),Immune
+OSTEOCLAST,Osteoclast,Immune (Myeloid),Immune
+HSC_MPP,Haem Progenitor,Immune (Progenitor),Immune
+ELP,Haem Progenitor,Immune (Progenitor),Immune
+MOP,Haem Progenitor,Immune (Progenitor),Immune
+MEP,Haem Progenitor,Immune (Progenitor),Immune
+MEMP,Haem Progenitor,Immune (Progenitor),Immune
+CMP,Haem Progenitor,Immune (Progenitor),Immune
+Eo/baso/mast cell progenitor,Haem Progenitor,Immune (Progenitor),Immune
+CYCLING_MEMP,Haem Progenitor,Immune (Progenitor),Immune
+GMP,Haem Progenitor,Immune (Progenitor),Immune
+LMPP_MLP,Haem Progenitor,Immune (Progenitor),Immune
+DEF_HSPC_2,Haem Progenitor,Immune (Progenitor),Immune
+CYCLING_MPP,Haem Progenitor,Immune (Progenitor),Immune
+Lymphoid progenitor,Haem Progenitor,Immune (Progenitor),Immune
+DC precursor,Haem Progenitor,Immune (Progenitor),Immune
+CMP/GMP,Haem Progenitor,Immune (Progenitor),Immune
+LMPP/ELP,Haem Progenitor,Immune (Progenitor),Immune
+eo/baso/mast precursor,Haem Progenitor,Immune (Progenitor),Immune
+NK progenitor,Haem Progenitor,Immune (Progenitor),Immune
+HSC,Haem Progenitor,Immune (Progenitor),Immune
+myeloid DC progenitor,Haem Progenitor,Immune (Progenitor),Immune
+MPP myeloid,Haem Progenitor,Immune (Progenitor),Immune
+pDC progenitor,Haem Progenitor,Immune (Progenitor),Immune
+LMPP,Haem Progenitor,Immune (Progenitor),Immune
+HSC/MPP,Haem Progenitor,Immune (Progenitor),Immune
+ILC precursor,Haem Progenitor,Immune (Progenitor),Immune
+DC_PROGENITOR,Haem Progenitor,Immune (Progenitor),Immune
+MEMP - Megak,Haem Progenitor,Immune (Progenitor),Immune
+MEMP - Early erythroid,Haem Progenitor,Immune (Progenitor),Immune
+DEF_HSPC_1,Haem Progenitor,Immune (Progenitor),Immune
+NEUTROPHIL_PRECURSOR,Haem Progenitor,Immune (Progenitor),Immune
+PRIM_HSPC_2,Haem Progenitor,Immune (Progenitor),Immune
+PDC PRECURSOR,Haem Progenitor,Immune (Progenitor),Immune
+EO_BASO_MAST_PRECURSOR,Haem Progenitor,Immune (Progenitor),Immune
+HSPC_2,Haem Progenitor,Immune (Progenitor),Immune
+PRIM_HSPC_1,Haem Progenitor,Immune (Progenitor),Immune
+HSPC_1,Haem Progenitor,Immune (Progenitor),Immune
+Immune,Immune,Immune (Unspecified),Immune
+HIGH_MITO,Low Quality,Low Quality,Low Quality
+LOW_QUALITY,Low Quality,Low Quality,Low Quality
+LOW_Q_INCONSISTENT,Low Quality,Low Quality,Low Quality
+PLACENTAL_CONTAMINANTS,Low Quality,Low Quality,Low Quality
+Arachnoid,Meningeal (Arachnoid),Meningeal (Arachnoid),Meningeal
+ARACHNOID,Meningeal (Arachnoid),Meningeal (Arachnoid),Meningeal
+Meningeal Dura,Meningeal (Dura),Meningeal (Dura),Meningeal
+Periosteal Dura,Meningeal (Dura),Meningeal (Dura),Meningeal
+DURA,Meningeal (Dura),Meningeal (Dura),Meningeal
+PIA,Meningeal (Pia),Meningeal (Pia),Meningeal
+PAX7+ Myo,Muscle,Muscle,Muscle
+MYH3+ Myo,Muscle,Muscle,Muscle
+PAX7+MyoProg,Muscle,Muscle,Muscle
+SMProg,Muscle,Muscle,Muscle
+MYOCYTE,Muscle,Muscle,Muscle
+PAX3+MyoProg,Muscle,Muscle,Muscle
+MYL3+MyoC,Muscle,Muscle,Muscle
+MyoB2,Muscle,Muscle,Muscle
+MyoC1,Muscle,Muscle,Muscle
+PAX7_MYOPROGENITOR,Muscle,Muscle,Muscle
+MyoB1,Muscle,Muscle,Muscle
+MYOD1_MYOG_MYOPROGENITOR,Muscle,Muscle,Muscle
+MYH3+MyoC,Muscle,Muscle,Muscle
+MyoC2,Muscle,Muscle,Muscle
+SATELLITE CELL,Muscle,Muscle,Muscle
+CYCLING_MYOPROGENITOR,Muscle,Muscle,Muscle
+muscle stem cell,Muscle,Muscle,Muscle
+MUSCLE_SATELLITE,Muscle,Muscle,Muscle
+muscle,Muscle,Muscle,Muscle
+Myocytes,Skeletal Muscle,Muscle (Skeletal),Muscle
+Early myocytes,Skeletal Muscle,Muscle (Skeletal),Muscle
+Myoblasts,Skeletal Muscle,Muscle (Skeletal),Muscle
+SMOOTH_MUSCLE,Smooth Muscle,Muscle (Smooth),Muscle
+SMC,Smooth Muscle,Muscle (Smooth),Muscle
+SKELETAL_MUSCLE,Smooth Muscle,Muscle (Smooth),Muscle
+GLIAL,Glial,Neural (Glia),Neural
+ROOF_PLATE,Glial,Neural (Glia),Neural
+FLOOR_PLATE,Glial,Neural (Glia),Neural
+Neuroendocrine,Neuroepithelial,Neural (Neuroepithelial),Neural
+NEURON,Neuron,Neural (Neuron),Neural
+MOTOR_NEURON,Neuron,Neural (Neuron),Neural
+DL2_4_6_NEURONS,Neuron,Neural (Neuron),Neural
+NOCICEPTOR,Neuron,Neural (Neuron),Neural
+EARLY NOCICEPTOR,Neuron,Neural (Neuron),Neural
+SPP1+ proliferating neuron progenitors,Neuron,Neural (Neuron),Neural
+DL3_5_NEURON,Neuron,Neural (Neuron),Neural
+DIFFERENTIATING_PROGENITORS,Neuron,Neural (Neuron),Neural
+DL1_NEURON,Neuron,Neural (Neuron),Neural
+MECHANORECEPTOR,Neural,Neural (Other),Neural
+Neural,Neural,Neural (Other),Neural
+OCP,Neural,Neural (Other),Neural
+V1_NEURON,Neural,Neural (Other),Neural
+Neuron progenitors,Neural,Neural (Other),Neural
+EARLY SYMPATHETIC,Neural,Neural (Other),Neural
+MATURE SYMPATHETIC,Neural,Neural (Other),Neural
+PROGENITOR2,Neural,Neural (Other),Neural
+SN_PROGENITOR,Neural,Neural (Other),Neural
+V0_NEURON,Neural,Neural (Other),Neural
+EPENDYMA,Neural,Neural (Other),Neural
+PROPRIOCEPTOR,Neural,Neural (Other),Neural
+V2A_NEURON,Neural,Neural (Other),Neural
+PROGENITOR3,Neural,Neural (Other),Neural
+OLIGODENDROCYTE,Neural,Neural (Other),Neural
+V2B_NEURON,Neural,Neural (Other),Neural
+V3_NEURON,Neural,Neural (Other),Neural
+PROGENITOR1,Neural,Neural (Other),Neural
+ASTROCYTE,Neural,Neural (Other),Neural
+Neuronal,Neural,Neural (Other),Neural
+Schwann,Schwann Cell,Neural (Schwann),Neural
+Myelinating Schwann cells,Schwann Cell,Neural (Schwann),Neural
+Schwann/Schwann precursors,Schwann Cell,Neural (Schwann),Neural
+SynapSchwann,Schwann Cell,Neural (Schwann),Neural
+PROMYELINATING_SC,Schwann Cell,Neural (Schwann),Neural
+SC1,Schwann Cell,Neural (Schwann),Neural
+SC2,Schwann Cell,Neural (Schwann),Neural
+SchwannProg,Schwann Cell,Neural (Schwann),Neural
+PAX3_SC,Schwann Cell,Neural (Schwann),Neural
+TRKC_SC,Schwann Cell,Neural (Schwann),Neural
+PID1+ schwann cells,Schwann Cell,Neural (Schwann),Neural
+schwann cells,Schwann Cell,Neural (Schwann),Neural
+PeriChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+ChondroPro2,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+CyclingChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+MaturingChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+PAX7hiChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+DLK1hiChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+FacialChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+ChondroPro1,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+PERICHON,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+InterzoneChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+HypertrophicChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+RestingChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+MandibularChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+ArticularChon1,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+CHONDROPROGENITOR,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+ProlifChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+ChondroProg,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+RESTING_CC,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+PROLIFERATING_CC,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+ArticularChon2,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+ArtiChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+PrehyperChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+HCC,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+CHONDROCYTE,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+HyperChon,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+chondrocyte,Chondrocyte,Osteochondral (Chondrocyte),Osteochondral
+Mes1,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+SutureMes2,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+SutureMes1,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+FacialMes,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+MES1,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+LEPR+Mes,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+PArchMes,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+ISL1+Mes,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+LimbMes,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+HIC1+Mes,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+Mes2,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+TransMes,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+CranialMes,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+DistalMes,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+Mes4,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+Mes3,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+MES2,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+MesCond,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+CYCLING_MESENCHYME,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+ProxMes,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+INTERSTITIAL_CELLS_OF_CAJAL,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+RDH10+DistalMes,Mesenchyme,Osteochondral (Mesenchyme),Osteochondral
+Preosteoblast,Osteoblast,Osteochondral (Osteoblast),Osteochondral
+Osteoblast,Osteoblast,Osteochondral (Osteoblast),Osteochondral
+HHIP+PreOB,Osteoblast,Osteochondral (Osteoblast),Osteochondral
+OsteoB,Osteoblast,Osteochondral (Osteoblast),Osteochondral
+early osteoblast,Osteoblast,Osteochondral (Osteoblast),Osteochondral
+osteoblast,Osteoblast,Osteochondral (Osteoblast),Osteochondral
+osteochondral precursor,Osteoblast,Osteochondral (Osteoblast),Osteochondral
+osteoblast precursor,Osteoblast,Osteochondral (Osteoblast),Osteochondral
+MATURE_OB,Osteoblast,Osteochondral (Osteoblast),Osteochondral
+EARLY_OB,Osteoblast,Osteochondral (Osteoblast),Osteochondral
+OSTEOBLAST,Osteoblast,Osteochondral (Osteoblast),Osteochondral
+Osteocyte,Osteocyte,Osteochondral (Osteoblast),Osteochondral
+MatureOsteocyte,Osteocyte,Osteochondral (Osteoblast),Osteochondral
+Perisuture,Stroma,Stroma,Stroma
+PERI,Stroma,Stroma,Stroma
+YS_STROMA,Stroma,Stroma,Stroma
+TENDON,Stroma,Stroma,Stroma
+Perimysium,Stroma,Stroma,Stroma
+TENDON_PROGENITOR,Stroma,Stroma,Stroma
+INTERZONE,Stroma,Stroma,Stroma
+INTERVERTEBRAL_DISC,Stroma,Stroma,Stroma
+InterZone,Stroma,Stroma,Stroma
+ENTEROENDOCRINE_II,Stroma,Stroma,Stroma
+ENTEROENDOCRINE_I,Stroma,Stroma,Stroma
+NOTOCHORD,Stroma,Stroma,Stroma
+PHC,Stroma,Stroma,Stroma
+WNT2+ Adipocytes,Adipocyte,Stroma (Adipocyte),Stroma
+Adipocytes,Adipocyte,Stroma (Adipocyte),Stroma
+adipo-CAR,Adipocyte,Stroma (Adipocyte),Stroma
+ENDODERM,Endoderm,Stroma (Endoderm),Stroma
+Epithelial,Epithelial Cell,Stroma (Epithelial),Stroma
+AER-Basal,Epithelial Cell,Stroma (Epithelial),Stroma
+Basal,Epithelial Cell,Stroma (Epithelial),Stroma
+Periderm,Epithelial Cell,Stroma (Epithelial),Stroma
+CYCLING_EPITHELIUM,Epithelial Cell,Stroma (Epithelial),Stroma
+EPITHELIUM_II,Epithelial Cell,Stroma (Epithelial),Stroma
+EPITHELIUM_I,Epithelial Cell,Stroma (Epithelial),Stroma
+DERMAL2,Epithelial Cell,Stroma (Epithelial),Stroma
+DERMAL,Epithelial Cell,Stroma (Epithelial),Stroma
+MYOFIBROBLAST,Fibroblast,Stroma (Fibroblast),Stroma
+Dermal condensate,Fibroblast,Stroma (Fibroblast),Stroma
+WNT2+ fibroblast,Fibroblast,Stroma (Fibroblast),Stroma
+PEAR1+ fibroblast,Fibroblast,Stroma (Fibroblast),Stroma
+STMN2+Fibro,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_X,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST,Fibroblast,Stroma (Fibroblast),Stroma
+MYOFIBROBLAST_I,Fibroblast,Stroma (Fibroblast),Stroma
+DermFIB1,Fibroblast,Stroma (Fibroblast),Stroma
+FRZB+ early fibroblast,Fibroblast,Stroma (Fibroblast),Stroma
+HOXC5+ early fibroblast,Fibroblast,Stroma (Fibroblast),Stroma
+DermFibro,Fibroblast,Stroma (Fibroblast),Stroma
+DermFIB2,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_XVII,Fibroblast,Stroma (Fibroblast),Stroma
+HOXC5+DermFibroProg,Fibroblast,Stroma (Fibroblast),Stroma
+MyofibPRO,Fibroblast,Stroma (Fibroblast),Stroma
+F10+DermFibroProg,Fibroblast,Stroma (Fibroblast),Stroma
+TENO,Fibroblast,Stroma (Fibroblast),Stroma
+SynFIB,Fibroblast,Stroma (Fibroblast),Stroma
+FibroPRO1,Fibroblast,Stroma (Fibroblast),Stroma
+FibroPRO2,Fibroblast,Stroma (Fibroblast),Stroma
+Myofibroblasts,Fibroblast,Stroma (Fibroblast),Stroma
+Pre-dermal condensate,Fibroblast,Stroma (Fibroblast),Stroma
+CYCLING_FIBROBLAST_I,Fibroblast,Stroma (Fibroblast),Stroma
+PerineuralFIB,Fibroblast,Stroma (Fibroblast),Stroma
+ADH+Fibro,Fibroblast,Stroma (Fibroblast),Stroma
+FIBRO_2,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_IX,Fibroblast,Stroma (Fibroblast),Stroma
+Teno,Fibroblast,Stroma (Fibroblast),Stroma
+MFAP5+Fibro,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_XI,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_VII,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_XII,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_VI,Fibroblast,Stroma (Fibroblast),Stroma
+TenoProg,Fibroblast,Stroma (Fibroblast),Stroma
+FIBRO_1,Fibroblast,Stroma (Fibroblast),Stroma
+NeuralFibro,Fibroblast,Stroma (Fibroblast),Stroma
+CYCLING_FIBROBLAST_II,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_VIII,Fibroblast,Stroma (Fibroblast),Stroma
+Dermal papilla,Fibroblast,Stroma (Fibroblast),Stroma
+CCL19+ fibroblast,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_IV,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_I,Fibroblast,Stroma (Fibroblast),Stroma
+MESENCHYMAL_LYMPHOID_TISSUE_ORGANISER,Fibroblast,Stroma (Fibroblast),Stroma
+InterMusFibro,Fibroblast,Stroma (Fibroblast),Stroma
+arteriolar fibroblast,Fibroblast,Stroma (Fibroblast),Stroma
+myofibroblast,Fibroblast,Stroma (Fibroblast),Stroma
+endosteal fibroblast,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_II,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_III,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_XIV,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_XIII,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_XV,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_XVI,Fibroblast,Stroma (Fibroblast),Stroma
+FIBROBLAST_V,Fibroblast,Stroma (Fibroblast),Stroma
+HEPATOCYTE_I,Hepatocyte,Stroma (Hepatocyte),Stroma
+HEPATOCYTE_II,Hepatocyte,Stroma (Hepatocyte),Stroma
+HEPATOCYTE-LIKE,Hepatocyte,Stroma (Hepatocyte),Stroma
+MESOTHELIUM,Mesothelium,Stroma (Mesothelium),Stroma
+Pericytes,Mural Cell,Stroma (Mural Cell),Stroma
+VSMC_PERICYTE_II,Mural Cell,Stroma (Mural Cell),Stroma
+VSMC_PERICYTE_I,Mural Cell,Stroma (Mural Cell),Stroma
+Pericyte,Mural Cell,Stroma (Mural Cell),Stroma
+VSMC_PERICYTE,Mural Cell,Stroma (Mural Cell),Stroma
+PLN+ mural cell,Mural Cell,Stroma (Mural Cell),Stroma
+LMCD1+ mural cell,Mural Cell,Stroma (Mural Cell),Stroma
+VSMC_PERICYTE_III,Mural Cell,Stroma (Mural Cell),Stroma
+DEVELOPING_NEPHRON_II,Nephron,Stroma (Nephron),Stroma
+DEVELOPING_NEPHRON_I,Nephron Progenitor,Stroma (Nephron),Stroma
+low_confidence,low_confidence,low_confidence,low_confidence

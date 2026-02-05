@@ -1,0 +1,121 @@
+{
+  "Adipose": [
+    "APOE",
+    "CXCL12",
+    "GAS6",
+    "LPL"
+  ],
+  "Chondrocyte": [
+    "HAPLN1",
+    "SOX9",
+    "CNMD",
+    "COL11A1",
+    "COL9A1"
+  ],
+  "Endothelial": [
+    "KDR",
+    "LYVE1",
+    "PECAM1",
+    "CD34",
+    "PODXL"
+  ],
+  "Neural": [
+    "SOX2",
+    "PAX6",
+    "FOXG1",
+    "OTX2",
+    "SOX10"
+  ],
+  "Erythroid": [
+    "GYPA",
+    "HBA1",
+    "HBE1",
+    "HBZ",
+    "KLF1"
+  ],
+  "Epidermis": [
+    "KRT18",
+    "KRT5",
+    "MLANA",
+    "PMEL",
+    "TYR"
+  ],
+  "Epithelial": [
+    "APOA1",
+    "AFP",
+    "DCDC2",
+    "EPCAM",
+    "FOXA1"
+  ],
+  "Fibroblast": [
+    "PDGFRA",
+    "BGN",
+    "COL3A1",
+    "DCN",
+    "ECM1"
+  ],
+  "Lymphoid_Haem": [
+    "CD19",
+    "MS4A1",
+    "NKG7",
+    "CD8A",
+    "IL7R"
+  ],
+  "Mesenchymal cells": [
+    "RGS5",
+    "PDGFRA",
+    "PDPN",
+    "PRRX1",
+    "TAGLN"
+  ],
+  "Muscle": [
+    "PAX7",
+    "ACTA2",
+    "MYOD1",
+    "DSTN",
+    "MYF5"
+  ],
+  "Myeloid_Haem": [
+    "CD14",
+    "CD1C",
+    "CD34",
+    "LYZ",
+    "HLA-DRA"
+  ],
+  "Osteoblast": [
+    "IBSP",
+    "IFITM5",
+    "BGLAP",
+    "CPE",
+    "OMD"
+  ],
+  "Osteoclast_Haem": [
+    "ACP5",
+    "MMP9",
+    "CTSK",
+    "ANPEP",
+    "CD68"
+  ],
+  "Progenitor_Haem": [
+    "CD34",
+    "SPINK2",
+    "GATA2",
+    "ITGA2B",
+    "MLLT3"
+  ],
+  "MK": [
+    "ITGA2B",
+    "PF4",
+    "ITGB3",
+    "MYL9",
+    "PPBP"
+  ],
+  "Pan-Immune": [
+    "PTPRC"
+  ],
+  "UNMAPPED": [
+    "CD24",
+    "IGLL5",
+    "MME"
+  ]
+}
