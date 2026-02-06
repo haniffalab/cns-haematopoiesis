@@ -18,7 +18,7 @@ This repository provides all code required to reproduce the data processing, int
 
 ## Overview figure
 
-[![Bone Atlas overview](reports/landing_page_figures/embryo_overview.png)](reports/landing_page_figures/embryo_overview.png)
+[![Bone Atlas overview](figures/landing_page_figures/embryo_overview.png)](figures/landing_page_figures/embryo_overview.png)
 
 **Figure:** Overview of the prenatal human bone marrow atlas across skull, spine, and long bones.
 
