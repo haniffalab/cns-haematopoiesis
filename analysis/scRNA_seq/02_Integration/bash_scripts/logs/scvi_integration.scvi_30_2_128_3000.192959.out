@@ -1,0 +1,52 @@
+** Using custom python for this environment
+python=3.10.12 scvi=1.1.2 torch=2.3.0+cu121
+adata.X is raw counts (integer matrix)
+Traceback (most recent call last):
+  File "/nfs/team298/sm54/BoneAtlasProject/src/integration/12_batch_correction_scvi_job_array_cross_organ_bone_atlas.py", line 46, in <module>
+    scvi.model.SCVI.setup_anndata(
+  File "/env/lib/python3.10/site-packages/scvi/model/_scvi.py", line 219, in setup_anndata
+    adata_manager.register_fields(adata, **kwargs)
+  File "/env/lib/python3.10/site-packages/scvi/data/_manager.py", line 171, in register_fields
+    self._validate_anndata_object(adata)
+  File "/env/lib/python3.10/site-packages/scvi/data/_manager.py", line 110, in _validate_anndata_object
+    _check_if_view(adata, copy_if_view=False)
+  File "/env/lib/python3.10/site-packages/scvi/data/_utils.py", line 291, in _check_if_view
+    raise ValueError("Please run `adata = adata.copy()`")
+ValueError: Please run `adata = adata.copy()`
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@qpg-gpu-02>
+Subject: Job 192959: <module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/12_batch_correction_scvi_job_array_cross_organ_bone_atlas.py                 --n_latent 30                 --n_layers 2                 --n_hidden 128                 --n_hvg 3000> in cluster <farm22> Exited
+
+Job <module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/12_batch_correction_scvi_job_array_cross_organ_bone_atlas.py                 --n_latent 30                 --n_layers 2                 --n_hidden 128                 --n_hvg 3000> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Mon Jul 21 07:28:13 2025
+Job was executed on host(s) <8*qpg-gpu-02>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Mon Jul 21 07:34:40 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Mon Jul 21 07:34:40 2025
+Terminated at Mon Jul 21 07:50:41 2025
+Results reported at Mon Jul 21 07:50:41 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/12_batch_correction_scvi_job_array_cross_organ_bone_atlas.py                 --n_latent 30                 --n_layers 2                 --n_hidden 128                 --n_hvg 3000
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   1449.00 sec.
+    Max Memory :                                 573687 MB
+    Average Memory :                             341803.00 MB
+    Total Requested Memory :                     650000.00 MB
+    Delta Memory :                               76313.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                30
+    Run time :                                   961 sec.
+    Turnaround time :                            1348 sec.
+
+The output (if any) is above this job summary.
+

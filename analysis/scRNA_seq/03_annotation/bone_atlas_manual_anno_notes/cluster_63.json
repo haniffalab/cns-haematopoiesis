@@ -1,0 +1,17 @@
+{
+  "cluster": 63,
+  "provisional_label": "Doublets/multiplets (chondrocyte + neuron + others) \u2014 needs splitting",
+  "top_genes": [
+    "COL2A1",
+    "FOSB",
+    "MGP",
+    "COL9A3",
+    "COL1A1",
+    "STMN2",
+    "ALB",
+    "PRPH",
+    "TUBB3",
+    "RBFOX1"
+  ],
+  "notes": "Mixed lineage markers; user proceeded to split into refined clusters."
+}

@@ -1,0 +1,17 @@
+{
+  "cluster": 60,
+  "provisional_label": "Tissue macrophage (MRC1+/CD163+; LYVE1+ subset)",
+  "top_genes": [
+    "NEAT1",
+    "RBM47",
+    "SLC9A9",
+    "LRMDA",
+    "DOCK4",
+    "RUNX1",
+    "ITPR2",
+    "ABCA1",
+    "LGMN",
+    "SPP1"
+  ],
+  "notes": "MRC1/CD163/LYVE1/CSF1R with scavenger and lipid handling genes."
+}

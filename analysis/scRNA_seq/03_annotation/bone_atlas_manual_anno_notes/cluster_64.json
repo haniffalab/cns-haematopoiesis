@@ -1,0 +1,17 @@
+{
+  "cluster": 64,
+  "provisional_label": "Chondrocyte (immature, COL2A1+/ACAN+/HAPLN1+)",
+  "top_genes": [
+    "COL2A1",
+    "FP236383.3",
+    "COL9A1",
+    "MATN1",
+    "HAPLN1",
+    "EPYC",
+    "PTGDS",
+    "HBG2",
+    "ACAN",
+    "COL9A3"
+  ],
+  "notes": "Classical cartilage ECM; some otic/inner ear genes also present."
+}

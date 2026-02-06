@@ -1,0 +1,42 @@
+WARNING: adata.X seems to be already log-transformed.
+WARNING: adata.X seems to be already log-transformed.
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-14-09>
+Subject: Job 85240: <run_pca_bone_atlas> in cluster <farm22> Done
+
+Job <run_pca_bone_atlas> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Sun Jul 13 01:00:34 2025
+Job was executed on host(s) <2*node-14-09>, in queue <normal>, as user <sm54> in cluster <farm22> at Sun Jul 13 01:00:34 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Sun Jul 13 01:00:34 2025
+Terminated at Sun Jul 13 02:01:30 2025
+Results reported at Sun Jul 13 02:01:30 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda;
+   conda activate boneatlas;
+   cd /nfs/team298/sm54/BoneAtlasProject/src/processing;
+   python run_pca.py
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   5062.03 sec.
+    Max Memory :                                 203611 MB
+    Average Memory :                             108878.49 MB
+    Total Requested Memory :                     300000.00 MB
+    Delta Memory :                               96389.00 MB
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                12
+    Run time :                                   3659 sec.
+    Turnaround time :                            3656 sec.
+
+The output (if any) is above this job summary.
+

@@ -1,0 +1,392 @@
+{
+    "CMP": [
+        "SPINK2",
+        "CD34",
+        "CTSG",
+        "PRTN3"
+    ],
+    "CD14 monocyte": [
+        "VCAN",
+        "CD14",
+        "S100A8",
+        "CD300E"
+    ],
+    "CD4 T cell": [
+        "CD3D",
+        "TRAC",
+        "AQP3",
+        "CD40LG"
+    ],
+    "CD56 bright NK": [
+        "GZMK",
+        "XCL1",
+        "NKG7",
+        "PRF1"
+    ],
+    "CD8 T cell": [
+        "CD3D",
+        "TRAC",
+        "CD8A",
+        "CD8B"
+    ],
+    "DC precursor": [
+        "CD34",
+        "IRF8",
+        "CLEC10A",
+        "CD1C"
+    ],
+    "DC1": [
+        "CLEC9A",
+        "CADM1",
+        "XCR1"
+    ],
+    "DC2": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A",
+        "HLA-DPB1"
+    ],
+    "DC3": [
+        "CD1C",
+        "CLEC10A",
+        "S100A8",
+        "CD36",
+        "CD163"
+    ],
+    "ELP": [
+        "FLT3",
+        "IL7R",
+        "RAG1",
+        "LTB"
+    ],
+    "GMP": [
+        "CD34",
+        "PRSS57",
+        "CALR",
+        "AZU1"
+    ],
+    "HSC/MPP": [
+        "MLLT3",
+        "HLF",
+        "SPINK2",
+        "CD34",
+        "PRSS57"
+    ],
+    "ILC precursor": [
+        "ZBTB16",
+        "RORC",
+        "GATA3",
+        "KIT"
+    ],
+    "LMPP": [
+        "CD34",
+        "SPINK2",
+        "BCL11A",
+        "IL7R",
+        "IL2RG"
+    ],
+    "MEP": [
+        "CD34",
+        "GATA1",
+        "GATA2",
+        "KLF1",
+        "PLEK"
+    ],
+    "MEMP": [
+        "CD34",
+        "GATA1",
+        "GATA2",
+        "TESPA1",
+        "CTNNBL1"
+    ],
+    "MK": [
+        "PF4",
+        "MYL9",
+        "TREML1",
+        "PPBP"
+    ],
+    "MOP": [
+        "PRTN3",
+        "S100A8",
+        "LYZ",
+        "IRF8"
+    ],
+    "MPP myeloid": [
+        "CD34",
+        "SPINK2",
+        "GATA2",
+        "MPO",
+        "CSF1R"
+    ],
+    "NK T cell": [
+        "CD8A",
+        "KLRB1",
+        "TRAC",
+        "NKG7"
+    ],
+    "NK progenitor": [
+        "CD34",
+        "PRSS57",
+        "SOX4",
+        "TOX",
+        "NKG7"
+    ],
+    "Treg": [
+        "CD3D",
+        "TRAC",
+        "TIGIT",
+        "FOXP3"
+    ],
+    "adipo-CAR": [
+        "CXCL12",
+        "LPL",
+        "APOE",
+        "GAS6"
+    ],
+    "arteriolar fibroblast": [
+        "DCN",
+        "SERPINF1",
+        "COL3A1",
+        "BGN"
+    ],
+    "basophil": [
+        "IL3RA",
+        "IL5RA",
+        "CLC",
+        "HDC"
+    ],
+    "chondrocyte": [
+        "LECT1",
+        "COL9A3",
+        "HAPLN1",
+        "COL11A1"
+    ],
+    "early MK": [
+        "ITGA2B",
+        "GP1BA",
+        "CMTM5",
+        "PF4"
+    ],
+    "early erythroid": [
+        "EPCAM",
+        "MYC",
+        "APOC"
+    ],
+    "early osteoblast": [
+        "IFITM5",
+        "CPE",
+        "OMD",
+        "BGLAP",
+        "IBSP"
+    ],
+    "endosteal fibroblast": [
+        "DCN",
+        "SERPINF1",
+        "COL3A1",
+        "BGN"
+    ],
+    "eo/baso/mast precursor": [
+        "CD34",
+        "SPINK2",
+        "CSF2RB",
+        "HDC"
+    ],
+    "eosinophil": [
+        "EPX",
+        "IL5RA",
+        "CLC",
+        "HDC"
+    ],
+    "erythroid macrophage": [
+        "CD14",
+        "APOE",
+        "F13A1",
+        "BLVRB"
+    ],
+    "immature B cell": [
+        "CD19",
+        "PAX5",
+        "IGHM",
+        "MS4A1"
+    ],
+    "immature EC": [
+        "KDR",
+        "MRC1",
+        "PODXL",
+        "S100A10"
+    ],
+    "late erythroid": [
+        "PRDX2",
+        "GYPA",
+        "HBA1",
+        "BLVRB"
+    ],
+    "mast cell": [
+        "KIT",
+        "TPSAB1",
+        "HPGDS",
+        "HDC"
+    ],
+    "mature NK": [
+        "PRF1",
+        "GZMH",
+        "FCGR3A",
+        "NKG7"
+    ],
+    "monocytoid macrophage": [
+        "S100A8",
+        "HLA-DRA",
+        "SPP1",
+        "CD14"
+    ],
+    "muscle": [
+        "SPARCL1",
+        "DSTN",
+        "TPM2",
+        "ACTA2"
+    ],
+    "muscle stem cell": [
+        "SPARCL1",
+        "DSTN",
+        "TPM2",
+        "ACTA2"
+    ],
+    "myelocyte": [
+        "LCN2",
+        "CAMP",
+        "LTF",
+        "STOM",
+        "CEACAM8"
+    ],
+    "myeloid DC progenitor": [
+        "CD34",
+        "IRF8",
+        "CLEC10A",
+        "CD1C"
+    ],
+    "myofibroblast": [
+        "MAF",
+        "PDLIM4",
+        "COL3A1",
+        "DES"
+    ],
+    "naive B cell": [
+        "CD19",
+        "IGHM",
+        "MS4A1",
+        "FCER2",
+        "CD40"
+    ],
+    "neutrophil": [
+        "ITGAM",
+        "MMP9",
+        "PGLYRP1",
+        "ORM1"
+    ],
+    "osteoblast": [
+        "IFITM5",
+        "CPE",
+        "OMD",
+        "BGLAP",
+        "IBSP"
+    ],
+    "osteoblast precursor": [
+        "IFITM5",
+        "CPE",
+        "OMD",
+        "BGLAP",
+        "IBSP"
+    ],
+    "osteochondral precursor": [
+        "ENG",
+        "NT5E",
+        "THY1",
+        "CD44"
+    ],
+    "osteoclast": [
+        "ACP5",
+        "CTSK",
+        "MMP9"
+    ],
+    "pDC": [
+        "GZMB",
+        "JCHAIN",
+        "SERPINF1"
+    ],
+    "pDC progenitor": [
+        "CD34",
+        "IRF8",
+        "JCHAIN",
+        "GZMB"
+    ],
+    "pre B progenitor": [
+        "CD19",
+        "PAX5",
+        "IGHM",
+        "IGHD"
+    ],
+    "pre pro B progenitor": [
+        "IL7R",
+        "CD19",
+        "MME",
+        "RAG1",
+        "EBF1"
+    ],
+    "pro B progenitor": [
+        "DNTT",
+        "MME",
+        "VPREB1",
+        "RAG1"
+    ],
+    "proliferating EC": [
+        "KDR",
+        "RAMP2",
+        "PODXL",
+        "MKI67"
+    ],
+    "promonocyte": [
+        "VCAN",
+        "CD14",
+        "S100A8",
+        "FCN",
+        "CD300E"
+    ],
+    "promyelocyte": [
+        "MPO",
+        "ELANE",
+        "CTSG",
+        "PRTN3",
+        "AZU1"
+    ],
+    "schwann cells": [
+        "MAG",
+        "APLP1",
+        "CNP",
+        "CLDN11"
+    ],
+    "sinusoidal EC": [
+        "STAB1",
+        "MRC1",
+        "LYVE1",
+        "ENG",
+        "TSPAN7"
+    ],
+    "stromal macrophage": [
+        "CD14",
+        "APOE",
+        "F13A1",
+        "C1QC",
+        "SPP1"
+    ],
+    "tDC": [
+        "AXL",
+        "SIGLEC6",
+        "CD22"
+    ],
+    "tip EC": [
+        "KDR",
+        "LYVE1",
+        "ENG",
+        "DLL4"
+    ]
+}

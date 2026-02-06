@@ -1,0 +1,152 @@
+** Using custom python for this environment
+python=3.10.12 scvi=1.1.2 torch=2.3.0+cu121
+
+Processing cell type: myeloid
+WARNING: adata.X seems to be already log-transformed.
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+You are using a CUDA device ('NVIDIA H100 80GB HBM3') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+/env/lib/python3.10/site-packages/lightning/pytorch/trainer/connectors/data_connector.py:441: The 'train_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=3` in the `DataLoader` to improve performance.
+Training:   0%|          | 0/79 [00:00<?, ?it/s]Epoch 1/79:   0%|          | 0/79 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/nfs/team298/sm54/BoneAtlasProject/src/integration/15_haem_atlas_lineage_wise_integration.py", line 83, in <module>
+    model.train()
+  File "/env/lib/python3.10/site-packages/scvi/model/base/_training_mixin.py", line 143, in train
+    return runner()
+  File "/env/lib/python3.10/site-packages/scvi/train/_trainrunner.py", line 98, in __call__
+    self.trainer.fit(self.training_plan, self.data_splitter)
+  File "/env/lib/python3.10/site-packages/scvi/train/_trainer.py", line 219, in fit
+    super().fit(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 544, in fit
+    call._call_and_handle_interrupt(
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/trainer/call.py", line 44, in _call_and_handle_interrupt
+    return trainer_fn(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 580, in _fit_impl
+    self._run(model, ckpt_path=ckpt_path)
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 989, in _run
+    results = self._run_stage()
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 1035, in _run_stage
+    self.fit_loop.run()
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/loops/fit_loop.py", line 202, in run
+    self.advance()
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/loops/fit_loop.py", line 359, in advance
+    self.epoch_loop.run(self._data_fetcher)
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/loops/training_epoch_loop.py", line 136, in run
+    self.advance(data_fetcher)
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/loops/training_epoch_loop.py", line 240, in advance
+    batch_output = self.automatic_optimization.run(trainer.optimizers[0], batch_idx, kwargs)
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 187, in run
+    self._optimizer_step(batch_idx, closure)
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 265, in _optimizer_step
+    call._call_lightning_module_hook(
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/trainer/call.py", line 157, in _call_lightning_module_hook
+    output = fn(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/core/module.py", line 1291, in optimizer_step
+    optimizer.step(closure=optimizer_closure)
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/core/optimizer.py", line 151, in step
+    step_output = self._strategy.optimizer_step(self._optimizer, closure, **kwargs)
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/strategies/strategy.py", line 230, in optimizer_step
+    return self.precision_plugin.optimizer_step(optimizer, model=model, closure=closure, **kwargs)
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/plugins/precision/precision.py", line 117, in optimizer_step
+    return optimizer.step(closure=closure, **kwargs)
+  File "/env/lib/python3.10/site-packages/torch/optim/optimizer.py", line 391, in wrapper
+    out = func(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/torch/optim/optimizer.py", line 76, in _use_grad
+    ret = func(self, *args, **kwargs)
+  File "/env/lib/python3.10/site-packages/torch/optim/adam.py", line 148, in step
+    loss = closure()
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/plugins/precision/precision.py", line 104, in _wrap_closure
+    closure_result = closure()
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 140, in __call__
+    self._result = self.closure(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 126, in closure
+    step_output = self._step_fn()
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 315, in _training_step
+    training_step_output = call._call_strategy_hook(trainer, "training_step", *kwargs.values())
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/trainer/call.py", line 309, in _call_strategy_hook
+    output = fn(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/lightning/pytorch/strategies/strategy.py", line 382, in training_step
+    return self.lightning_module.training_step(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/scvi/train/_trainingplans.py", line 344, in training_step
+    _, _, scvi_loss = self.forward(batch, loss_kwargs=self.loss_kwargs)
+  File "/env/lib/python3.10/site-packages/scvi/train/_trainingplans.py", line 278, in forward
+    return self.module(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/scvi/module/base/_decorators.py", line 32, in auto_transfer_args
+    return fn(self, *args, **kwargs)
+  File "/env/lib/python3.10/site-packages/scvi/module/base/_base_module.py", line 203, in forward
+    return _generic_forward(
+  File "/env/lib/python3.10/site-packages/scvi/module/base/_base_module.py", line 739, in _generic_forward
+    inference_outputs = module.inference(**inference_inputs, **inference_kwargs)
+  File "/env/lib/python3.10/site-packages/scvi/module/base/_decorators.py", line 32, in auto_transfer_args
+    return fn(self, *args, **kwargs)
+  File "/env/lib/python3.10/site-packages/scvi/module/base/_base_module.py", line 307, in inference
+    return self._regular_inference(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/scvi/module/base/_decorators.py", line 32, in auto_transfer_args
+    return fn(self, *args, **kwargs)
+  File "/env/lib/python3.10/site-packages/scvi/module/_vae.py", line 323, in _regular_inference
+    qz, z = self.z_encoder(encoder_input, batch_index, *categorical_input)
+  File "/env/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/scvi/nn/_base_components.py", line 282, in forward
+    dist = Normal(q_m, q_v.sqrt())
+  File "/env/lib/python3.10/site-packages/torch/distributions/normal.py", line 56, in __init__
+    super().__init__(batch_shape, validate_args=validate_args)
+  File "/env/lib/python3.10/site-packages/torch/distributions/distribution.py", line 68, in __init__
+    raise ValueError(
+ValueError: Expected parameter loc (Tensor of shape (128, 10)) of distribution Normal(loc: torch.Size([128, 10]), scale: torch.Size([128, 10])) to satisfy the constraint Real(), but found invalid values:
+tensor([[nan, nan, nan,  ..., nan, nan, nan],
+        [nan, nan, nan,  ..., nan, nan, nan],
+        [nan, nan, nan,  ..., nan, nan, nan],
+        ...,
+        [nan, nan, nan,  ..., nan, nan, nan],
+        [nan, nan, nan,  ..., nan, nan, nan],
+        [nan, nan, nan,  ..., nan, nan, nan]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+Epoch 1/79:   0%|          | 0/79 [00:01<?, ?it/s]
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@farm22-gpu0302>
+Subject: Job 975819: <module load cellgen/conda; module load cellgen/scvi;                           python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/15_haem_atlas_lineage_wise_integration.py                             --n_latent 10                             --n_layers 2                             --n_hidden 128                             --n_hvg 7500                             --data_dir /nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_immune_subsets> in cluster <farm22> Exited
+
+Job <module load cellgen/conda; module load cellgen/scvi;                           python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/15_haem_atlas_lineage_wise_integration.py                             --n_latent 10                             --n_layers 2                             --n_hidden 128                             --n_hvg 7500                             --data_dir /nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_immune_subsets> was submitted from host <node-11-2-3> by user <sm54> in cluster <farm22> at Fri Sep 19 10:48:59 2025
+Job was executed on host(s) <4*farm22-gpu0302>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Fri Sep 19 13:48:30 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Fri Sep 19 13:48:30 2025
+Terminated at Fri Sep 19 13:49:10 2025
+Results reported at Fri Sep 19 13:49:10 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; module load cellgen/scvi;                           python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/15_haem_atlas_lineage_wise_integration.py                             --n_latent 10                             --n_layers 2                             --n_hidden 128                             --n_hvg 7500                             --data_dir /nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_immune_subsets
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   43.00 sec.
+    Max Memory :                                 6205 MB
+    Average Memory :                             4226.40 MB
+    Total Requested Memory :                     50000.00 MB
+    Delta Memory :                               43795.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                22
+    Run time :                                   38 sec.
+    Turnaround time :                            10811 sec.
+
+The output (if any) is above this job summary.
+

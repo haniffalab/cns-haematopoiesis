@@ -1,0 +1,17 @@
+{
+  "cluster": 73,
+  "provisional_label": "Meningeal/arachnoid fibroblast (neuro-regulatory, MEIS2+/SFRP1+)",
+  "top_genes": [
+    "MEIS2",
+    "SFRP1",
+    "TUBB2B",
+    "FTH1",
+    "SPOCK3",
+    "RBP1",
+    "HMGA2",
+    "NNAT",
+    "KIF26B",
+    "IGFBP5"
+  ],
+  "notes": "Neuro-regulatory fibroblast flavor; added previously to annotation_v2."
+}

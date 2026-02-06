@@ -1,0 +1,40 @@
+** Using custom python for this environment
+python=3.10.12 scvi=1.1.2 torch=2.3.0+cu121
+/env/bin/python: can't open file '/nfs/team298/sm54/BoneAtlasProject/src/integration/09_batch_correction_scvi_nonimmune.py': [Errno 2] No such file or directory
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@farm22-gpu0305>
+Subject: Job 608037: <module load cellgen/conda; module load cellgen/scvi;                           python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/09_batch_correction_scvi_nonimmune.py                             --n_latent 30                             --n_layers 2                             --n_hidden 128                             --n_hvg 3000                             --data_dir /nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_non_immune> in cluster <farm22> Exited
+
+Job <module load cellgen/conda; module load cellgen/scvi;                           python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/09_batch_correction_scvi_nonimmune.py                             --n_latent 30                             --n_layers 2                             --n_hidden 128                             --n_hvg 3000                             --data_dir /nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_non_immune> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Tue Sep 16 02:27:42 2025
+Job was executed on host(s) <4*farm22-gpu0305>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Tue Sep 16 02:27:42 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Tue Sep 16 02:27:42 2025
+Terminated at Tue Sep 16 02:28:10 2025
+Results reported at Tue Sep 16 02:28:10 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; module load cellgen/scvi;                           python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/09_batch_correction_scvi_nonimmune.py                             --n_latent 30                             --n_layers 2                             --n_hidden 128                             --n_hvg 3000                             --data_dir /nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_non_immune
+------------------------------------------------------------
+
+Exited with exit code 2.
+
+Resource usage summary:
+
+    CPU time :                                   1.22 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     150000.00 MB
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              -
+    Max Threads :                                -
+    Run time :                                   15 sec.
+    Turnaround time :                            28 sec.
+
+The output (if any) is above this job summary.
+

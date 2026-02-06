@@ -1,0 +1,17 @@
+{
+  "cluster": 54,
+  "provisional_label": "Synovial fibroblast (user-specified) / chondrocyte-like ECM-high",
+  "top_genes": [
+    "COL2A1",
+    "COL9A3",
+    "COL9A2",
+    "COL9A1",
+    "CNMD",
+    "HAPLN1",
+    "COL11A2",
+    "SNORC",
+    "EPYC",
+    "MATN3"
+  ],
+  "notes": "Strong cartilage ECM signature; user indicated 'synovial fibroblast actually'."
+}

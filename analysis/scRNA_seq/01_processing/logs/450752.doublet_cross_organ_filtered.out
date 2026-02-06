@@ -1,0 +1,872 @@
+Bulk Scrublet on /lustre/scratch124/cellgen/haniffa/users/sm54/data/Cross_Organ/cross_organ_filtered_with_metadata.h5ad
+[Doublet] Processing Human_colon_16S7985393 (3987 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S7985393
+[Doublet] Processing Human_colon_16S7985394 (3890 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S7985394
+[Doublet] Processing Human_colon_16S7985395 (1998 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S7985395
+[Doublet] Processing Human_colon_16S7985391 (4199 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S7985391
+[Doublet] Processing Human_colon_16S7985389 (6396 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S7985389
+[Doublet] Processing Human_colon_16S7985390 (3526 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S7985390
+[Doublet] Processing Human_colon_16S7985392 (4414 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S7985392
+[Doublet] Processing Human_colon_16S8159187 (13893 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S8159187
+[Doublet] Processing Human_colon_16S8159189 (4848 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S8159189
+[Doublet] Processing Human_colon_16S8159188 (13375 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S8159188
+[Doublet] Processing Human_colon_16S8159190 (7172 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S8159190
+[Doublet] Processing Human_colon_16S8159185 (468 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S8159185
+[Doublet] Processing Human_colon_16S8159183 (7478 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S8159183
+[Doublet] Processing Human_colon_16S8159182 (13135 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S8159182
+[Doublet] Processing Human_colon_16S8159184 (10589 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S8159184
+[Doublet] Processing FCA_gut8015060 (6236 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCA_gut8015060
+[Doublet] Processing FCA_gut8015059 (6569 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCA_gut8015059
+[Doublet] Processing FCA_gut8015058 (5595 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCA_gut8015058
+[Doublet] Processing FCA_gut8015057 (589 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCA_gut8015057
+[Doublet] Processing Human_colon_16S7985396 (7021 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S7985396
+[Doublet] Processing Human_colon_16S7985397 (2145 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished Human_colon_16S7985397
+[Doublet] Processing FCAImmP7579225 (1529 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579225
+[Doublet] Processing FCAImmP7528293 (3976 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528293
+[Doublet] Processing FCAImmP7528292 (2632 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528292
+[Doublet] Processing FCAImmP7579215 (2660 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579215
+[Doublet] Processing FCAImmP7579214 (2241 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579214
+[Doublet] Processing FCAImmP7555859 (3169 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555859
+[Doublet] Processing FCAImmP7555850 (1985 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555850
+[Doublet] Processing FCAImmP7555849 (3860 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555849
+[Doublet] Processing FCAImmP7462242 (2005 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7462242
+[Doublet] Processing FCAImmP7462243 (4620 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7462243
+[Doublet] Processing 4834STDY7002875 (674 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7002875
+[Doublet] Processing 4834STDY7002876 (1620 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7002876
+[Doublet] Processing 4834STDY7002881 (1441 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7002881
+[Doublet] Processing 4834STDY7002885 (728 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7002885
+[Doublet] Processing 4834STDY7002886 (1369 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7002886
+[Doublet] Processing FCAImmP7862084 (8831 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7862084
+[Doublet] Processing FCAImmP7862085 (8141 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7862085
+[Doublet] Processing FCAImmP7862086 (9556 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7862086
+[Doublet] Processing FCAImmP7862087 (7584 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7862087
+[Doublet] Processing FCAImmP7241242 (2577 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7241242
+[Doublet] Processing FCAImmP7198630 (4225 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7198630
+[Doublet] Processing FCAImmP7198631 (4268 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7198631
+[Doublet] Processing FCAImmP7579210 (6408 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579210
+[Doublet] Processing FCAImmP7579211 (3831 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579211
+[Doublet] Processing FCAImmP7579222 (4143 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579222
+[Doublet] Processing FCAImmP7579223 (3110 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579223
+[Doublet] Processing FCAImmP7579226 (10567 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579226
+[Doublet] Processing FCAImmP7579227 (2678 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579227
+[Doublet] Processing FCAImmP7528286 (3218 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528286
+[Doublet] Processing FCAImmP7528287 (2741 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528287
+[Doublet] Processing FCAImmP7528288 (3800 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528288
+[Doublet] Processing FCAImmP7528289 (3576 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528289
+[Doublet] Processing FCAImmP7528295 (3335 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528295
+[Doublet] Processing FCAImmP7277560 (7565 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277560
+[Doublet] Processing FCAImmP7277561 (5860 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277561
+[Doublet] Processing FCAImmP7292032 (9698 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7292032
+[Doublet] Processing FCAImmP7179363 (4129 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7179363
+[Doublet] Processing FCAImmP7179364 (6723 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7179364
+[Doublet] Processing FCAImmP7555846 (5351 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555846
+[Doublet] Processing FCAImmP7555847 (6707 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555847
+[Doublet] Processing FCAImmP7555856 (5479 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555856
+[Doublet] Processing FCAImmP7555857 (6048 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555857
+[Doublet] Processing FCAImmP7277552 (3367 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277552
+[Doublet] Processing FCAImmP7277553 (4760 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277553
+[Doublet] Processing FCAImmP7292028 (3065 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7292028
+[Doublet] Processing FCAImmP7316894 (4589 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316894
+[Doublet] Processing FCAImmP7316895 (4814 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316895
+[Doublet] Processing FCAImmP7316901 (4144 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316901
+[Doublet] Processing FCAImmP7462237 (4289 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7462237
+[Doublet] Processing FCAImmP7462238 (4138 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7462238
+[Doublet] Processing FCAImmP7462239 (4848 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7462239
+[Doublet] Processing 4834STDY7002877 (267 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7002877
+[Doublet] Processing 4834STDY7002878 (1227 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7002878
+[Doublet] Processing FCAImmP7352192 (6391 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7352192
+[Doublet] Processing FCAImmP7352193 (6518 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7352193
+[Doublet] Processing FCAImmP7352194 (5137 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7352194
+[Doublet] Processing FCAImmP7352195 (5439 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7352195
+[Doublet] Processing FCAImmP7352196 (6277 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7352196
+[Doublet] Processing 4834STDY7002882 (1409 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7002882
+[Doublet] Processing 4834STDY7038750 (387 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7038750
+[Doublet] Processing 4834STDY7038751 (939 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7038751
+[Doublet] Processing FCAImmP7198434 (13745 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7198434
+[Doublet] Processing FCAImmP7198628 (3514 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7198628
+[Doublet] Processing FCAImmP7198629 (5235 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7198629
+[Doublet] Processing FCAImmP7316889 (5361 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316889
+[Doublet] Processing FCAImmP7316890 (5893 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316890
+[Doublet] Processing FCAImmP7316891 (5759 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316891
+[Doublet] Processing FCAImmP7316892 (5726 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316892
+[Doublet] Processing FCAImmP7316893 (5686 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316893
+[Doublet] Processing FCAImmP7862095 (7147 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7862095
+[Doublet] Processing FCAImmP7862094 (2793 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7862094
+[Doublet] Processing FCAImmP7862096 (7295 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7862096
+[Doublet] Processing FCAImmP7964502 (3302 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7964502
+[Doublet] Processing FCAImmP7964503 (7236 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7964503
+[Doublet] Processing FCAImmP7964504 (6685 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7964504
+[Doublet] Processing FCAImmP7964505 (4118 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7964505
+[Doublet] Processing FCAImmP7528290 (5038 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528290
+[Doublet] Processing FCAImmP7528291 (4880 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528291
+[Doublet] Processing FCAImmP7528296 (4551 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528296
+[Doublet] Processing FCAImmP7579212 (2305 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579212
+[Doublet] Processing FCAImmP7579213 (3812 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579213
+[Doublet] Processing FCAImmP7579224 (1977 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579224
+[Doublet] Processing HCA_rFSKI14539490 (7271 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14539490
+[Doublet] Processing HCA_rFSKI14539491 (6957 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14539491
+[Doublet] Processing HCA_rFSKI14539492 (10620 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14539492
+[Doublet] Processing HCA_rFSKI14539493 (14492 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14539493
+[Doublet] Processing HCA_rFSKI14539494 (11314 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14539494
+[Doublet] Processing HCA_rFSKI14539495 (21826 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14539495
+[Doublet] Processing HCA_rFSKI14539496 (1229 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14539496
+[Doublet] Processing HCA_rFSKI14539497 (18718 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14539497
+[Doublet] Processing HCA_rFSKI14539498 (8329 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14539498
+[Doublet] Processing HCA_rFSKI14539499 (10374 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14539499
+[Doublet] Processing HCA_rFSKI14539500 (9733 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14539500
+[Doublet] Processing HCA_rFSKI14539501 (11355 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14539501
+[Doublet] Processing FCAImmP7803034 (8531 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803034
+[Doublet] Processing FCAImmP7803035 (7182 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803035
+[Doublet] Processing FCAImmP7803042 (7948 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803042
+[Doublet] Processing FCAImmP7803043 (6807 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803043
+[Doublet] Processing FCAImmP7964506 (3772 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7964506
+[Doublet] Processing FCAImmP7964507 (3122 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7964507
+[Doublet] Processing FCAImmP7964508 (7738 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7964508
+[Doublet] Processing FCAImmP7964509 (7503 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7964509
+[Doublet] Processing FCAImmP7964510 (7275 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7964510
+[Doublet] Processing FCAImmP7803024 (4252 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803024
+[Doublet] Processing FCAImmP7803025 (5614 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803025
+[Doublet] Processing FCAImmP7803026 (6451 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803026
+[Doublet] Processing FCAImmP7803027 (6010 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803027
+[Doublet] Processing FCAImmP7555848 (3223 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555848
+[Doublet] Processing FCAImmP7555858 (3322 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555858
+[Doublet] Processing HCA_rFSKI14449635 (10581 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14449635
+[Doublet] Processing HCA_rFSKI14449636 (5036 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14449636
+[Doublet] Processing HCA_rFSKI14449637 (4993 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14449637
+[Doublet] Processing HCA_rFSKI14449638 (21911 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14449638
+[Doublet] Processing HCA_rFSKI14449639 (5651 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14449639
+[Doublet] Processing HCA_rFSKI14449640 (8913 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14449640
+[Doublet] Processing HCA_rFSKI14449641 (8875 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14449641
+[Doublet] Processing HCA_rFSKI14449642 (11896 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_rFSKI14449642
+[Doublet] Processing WS_wEMB13942138 (3893 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942138
+[Doublet] Processing WS_wEMB13942139 (3661 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942139
+[Doublet] Processing WS_wEMB13942141 (4310 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942141
+[Doublet] Processing WS_wEMB13942142 (687 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942142
+[Doublet] Processing WS_wEMB13942143 (3231 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942143
+[Doublet] Processing WS_wEMB13942144 (3722 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942144
+[Doublet] Processing WS_wEMB13942145 (2972 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942145
+[Doublet] Processing WS_wEMB13942146 (9863 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942146
+[Doublet] Processing WS_wEMB13942147 (11023 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942147
+[Doublet] Processing WS_wEMB13942148 (4537 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942148
+[Doublet] Processing WS_wEMB13942149 (10868 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942149
+[Doublet] Processing WS_wEMB13942150 (11322 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942150
+[Doublet] Processing WS_wEMB13942151 (6733 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942151
+[Doublet] Processing WS_wEMB13942152 (10285 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942152
+[Doublet] Processing WS_wEMB13942153 (9344 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB13942153
+[Doublet] Processing FCAImmP7241240 (563 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7241240
+[Doublet] Processing FCAImmP7241241 (4881 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7241241
+[Doublet] Processing FCAImmP7316896 (3245 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316896
+[Doublet] Processing FCAImmP7316897 (7926 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316897
+[Doublet] Processing FCAImmP7462240 (3518 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7462240
+[Doublet] Processing FCAImmP7462241 (4723 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7462241
+[Doublet] Processing 4834STDY7002879 (753 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7002879
+[Doublet] Processing 4834STDY7002880 (405 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7002880
+[Doublet] Processing FCAImmP7352189 (2690 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7352189
+[Doublet] Processing FCAImmP7352190 (5985 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7352190
+[Doublet] Processing FCAImmP7352191 (6202 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7352191
+[Doublet] Processing 4834STDY7002883 (1171 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7002883
+[Doublet] Processing 4834STDY7038752 (364 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7038752
+[Doublet] Processing 4834STDY7038753 (829 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 4834STDY7038753
+[Doublet] Processing FCAImmP7316886 (5497 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316886
+[Doublet] Processing FCAImmP7316887 (5259 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316887
+[Doublet] Processing FCAImmP7316888 (6073 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316888
+[Doublet] Processing FCAImmP7198433 (259 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7198433
+[Doublet] Processing FCAImmP7198632 (5752 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7198632
+[Doublet] Processing FCAImmP7198633 (5147 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7198633
+[Doublet] Processing FCAImmP7964499 (1212 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7964499
+[Doublet] Processing FCAImmP7964500 (844 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7964500
+[Doublet] Processing FCAImmP7964501 (72 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7964501
+[Doublet] Processing FCAImmP7528279 (3625 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528279
+[Doublet] Processing FCAImmP7528280 (4090 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528280
+[Doublet] Processing FCAImmP7579216 (5626 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579216
+[Doublet] Processing FCAImmP7579217 (3917 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579217
+[Doublet] Processing FCAImmP7579228 (5682 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579228
+[Doublet] Processing FCAImmP7579229 (4845 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579229
+[Doublet] Processing FCAImmP7277562 (4450 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277562
+[Doublet] Processing FCAImmP7277563 (3066 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277563
+[Doublet] Processing FCAImmP7292033 (4951 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7292033
+[Doublet] Processing FCAImmP7803036 (20087 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803036
+[Doublet] Processing FCAImmP7803037 (8622 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803037
+[Doublet] Processing FCAImmP7803038 (8541 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803038
+[Doublet] Processing FCAImmP7803039 (8622 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803039
+[Doublet] Processing FCAImmP7803040 (10085 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803040
+[Doublet] Processing FCAImmP7803041 (3348 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803041
+[Doublet] Processing FCAImmP7803020 (6618 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803020
+[Doublet] Processing FCAImmP7803021 (6671 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803021
+[Doublet] Processing FCAImmP7803022 (7360 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803022
+[Doublet] Processing FCAImmP7803023 (7614 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803023
+[Doublet] Processing FCAImmP7179365 (5436 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7179365
+[Doublet] Processing FCAImmP7179366 (4706 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7179366
+[Doublet] Processing FCAImmP7277554 (3527 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277554
+[Doublet] Processing FCAImmP7277555 (2218 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277555
+[Doublet] Processing FCAImmP7292029 (5194 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7292029
+[Doublet] Processing FCAImmP7316898 (2601 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316898
+[Doublet] Processing FCAImmP7316899 (2281 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316899
+[Doublet] Processing FCAImmP7198432 (4018 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7198432
+[Doublet] Processing FCAImmP7198634 (3984 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7198634
+[Doublet] Processing FCAImmP7198635 (3949 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7198635
+[Doublet] Processing FCAImmP7851890 (5963 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7851890
+[Doublet] Processing FCAImmP7851891 (6319 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7851891
+[Doublet] Processing FCAImmP7579218 (4272 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579218
+[Doublet] Processing FCAImmP7579219 (9671 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579219
+[Doublet] Processing FCAImmP7579230 (2672 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579230
+[Doublet] Processing FCAImmP7579231 (7349 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579231
+[Doublet] Processing FCAImmP7851892 (5342 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7851892
+[Doublet] Processing FCAImmP7851893 (4886 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7851893
+[Doublet] Processing FCAImmP7851894 (5240 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7851894
+[Doublet] Processing FCAImmP7851895 (5138 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7851895
+[Doublet] Processing FCAImmP7851896 (3908 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7851896
+[Doublet] Processing FCAImmP7851897 (2541 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7851897
+[Doublet] Processing FCAImmP7528283 (3911 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528283
+[Doublet] Processing FCAImmP7528284 (1596 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528284
+[Doublet] Processing FCAImmP7528285 (1858 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528285
+[Doublet] Processing FCAImmP7528294 (3581 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528294
+[Doublet] Processing FCAImmP7277564 (5744 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277564
+[Doublet] Processing FCAImmP7277565 (3499 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277565
+[Doublet] Processing FCAImmP7292034 (5833 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7292034
+[Doublet] Processing FCAImmP7179369 (4583 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7179369
+[Doublet] Processing FCAImmP7179370 (4731 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7179370
+[Doublet] Processing FCAImmP7555851 (5472 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555851
+[Doublet] Processing FCAImmP7555852 (4467 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555852
+[Doublet] Processing FCAImmP7555860 (2067 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555860
+[Doublet] Processing FCAImmP7555861 (2543 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555861
+[Doublet] Processing FCAImmP7277556 (10191 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277556
+[Doublet] Processing FCAImmP7277557 (444 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277557
+[Doublet] Processing FCAImmP7292030 (6654 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7292030
+[Doublet] Processing FCAImmP7862088 (5745 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7862088
+[Doublet] Processing FCAImmP7862089 (5070 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7862089
+[Doublet] Processing FCAImmP7862090 (3265 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7862090
+[Doublet] Processing FCAImmP7862091 (10926 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7862091
+[Doublet] Processing FCAImmP7862092 (10249 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7862092
+[Doublet] Processing FCAImmP7862093 (10476 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7862093
+[Doublet] Processing FCAImmP7198435 (73 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7198435
+[Doublet] Processing FCAImmP7504909 (3364 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7504909
+[Doublet] Processing FCAImmP7504910 (2854 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7504910
+[Doublet] Processing FCAImmP7504911 (3581 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7504911
+[Doublet] Processing FCAImmP7504912 (3230 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7504912
+[Doublet] Processing FCAImmP7504913 (3162 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7504913
+[Doublet] Processing FCAImmP7316900 (1157 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7316900
+[Doublet] Processing FCAImmP7462244 (1674 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7462244
+[Doublet] Processing WS_wEMB12142156 (4728 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB12142156
+[Doublet] Processing WS_wEMB12142157 (5384 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB12142157
+[Doublet] Processing WS_wEMB12142158 (5990 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB12142158
+[Doublet] Processing WS_wEMB12142159 (4938 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB12142159
+[Doublet] Processing FCAImmP8096686 (1366 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP8096686
+[Doublet] Processing FCAImmP8096687 (11193 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP8096687
+[Doublet] Processing FCAImmP8096688 (5561 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP8096688
+[Doublet] Processing FCAImmP8096689 (4341 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP8096689
+[Doublet] Processing FCAImmP8096690 (8879 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP8096690
+[Doublet] Processing FCAImmP8096691 (9785 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP8096691
+[Doublet] Processing FCAImmP8096692 (2496 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP8096692
+[Doublet] Processing FCAImmP8096693 (6122 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP8096693
+[Doublet] Processing FCAImmP8096694 (5953 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP8096694
+[Doublet] Processing FCAImmP8096695 (5600 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP8096695
+[Doublet] Processing FCAImmP8096696 (2757 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP8096696
+[Doublet] Processing FCAImmP8102304 (7381 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP8102304
+[Doublet] Processing WS_wEMB12142160 (8910 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB12142160
+[Doublet] Processing WS_wEMB12142161 (7504 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WS_wEMB12142161
+[Doublet] Processing HCA_BRA_F13168988 (3112 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BRA_F13168988
+[Doublet] Processing HCA_BRA_F13168989 (19296 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BRA_F13168989
+[Doublet] Processing HCA_BRA_F13168990 (12060 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BRA_F13168990
+[Doublet] Processing HCA_BRA_F13168991 (4726 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BRA_F13168991
+[Doublet] Processing HCA_BRA_F13168992 (3768 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BRA_F13168992
+[Doublet] Processing HCA_BRA_F13168993 (13560 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BRA_F13168993
+[Doublet] Processing HCA_BRA_F13774551 (19251 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BRA_F13774551
+[Doublet] Processing HCA_BRA_F13774552 (10912 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BRA_F13774552
+[Doublet] Processing HCA_BRA_F13774553 (4047 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BRA_F13774553
+[Doublet] Processing HCA_BRA_F13774554 (11293 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BRA_F13774554
+[Doublet] Processing HCA_BRA_F13774555 (16467 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BRA_F13774555
+[Doublet] Processing HCA_BRA_F13774556 (10704 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BRA_F13774556
+Bulk Scrublet complete
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-10-3-3>
+Subject: Job 450752: <doublet_cross_organ_filtered> in cluster <farm22> Done
+
+Job <doublet_cross_organ_filtered> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Wed Jul 16 01:34:02 2025
+Job was executed on host(s) <2*node-10-3-3>, in queue <long>, as user <sm54> in cluster <farm22> at Wed Jul 16 01:34:02 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/users/nfs_s/sm54/nfs_sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Wed Jul 16 01:34:02 2025
+Terminated at Wed Jul 16 03:36:46 2025
+Results reported at Wed Jul 16 03:36:46 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; conda activate boneatlas;
+   cd /nfs/team298/sm54/BoneAtlasProject/src/processing;
+   python -u 03_scrublet_doublet_detection.py      --merged_h5ad /lustre/scratch124/cellgen/haniffa/users/sm54/data/Cross_Organ/cross_organ_filtered_with_metadata.h5ad      --adata_status filtered_cross_organ      --output_dir /lustre/scratch124/cellgen/haniffa/users/sm54/data/Cross_Organ/      --log_level INFO      --log_dir /nfs/team298/sm54/BoneAtlasProject/src/processing/logs
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   8201.97 sec.
+    Max Memory :                                 62695 MB
+    Average Memory :                             58708.77 MB
+    Total Requested Memory :                     350000.00 MB
+    Delta Memory :                               287305.00 MB
+    Max Swap :                                   2 MB
+    Max Processes :                              4
+    Max Threads :                                8
+    Run time :                                   7364 sec.
+    Turnaround time :                            7364 sec.
+
+The output (if any) is above this job summary.
+

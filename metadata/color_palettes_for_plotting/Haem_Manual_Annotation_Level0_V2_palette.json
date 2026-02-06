@@ -1,0 +1,17 @@
+{
+    "PROGENITOR": "#E41A1C",
+    "B LINEAGE": "#377EB8",
+    "MONOCYTE": "#4DAF4A",
+    "MACROPHAGE": "#984EA3",
+    "T CELL": "#FF7F00",
+    "NK": "#A65628",
+    "PROMYELOCYTE": "#F781BF",
+    "MYELOCYTE": "#1B7837",
+    "NEUTROPHIL": "#9ECAE1",
+    "EO/BASO": "#FFD92F",
+    "DC": "#5AB4AC",
+    "MAST": "#E7298A",
+    "ERY": "#CAB2D6",
+    "MK": "#B3DE69",
+    "PROGENITOR (LOW_CONF)": "#999999"
+}

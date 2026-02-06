@@ -1,0 +1,50 @@
+** Using custom python for this environment
+python=3.10.12 scvi=1.1.2 torch=2.3.0+cu121
+adata.X is raw counts (integer matrix)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+You are using a CUDA device ('NVIDIA A100-SXM4-80GB') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+/env/lib/python3.10/site-packages/lightning/pytorch/trainer/connectors/data_connector.py:441: The 'train_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=7` in the `DataLoader` to improve performance.
+Training:   0%|                                                                                                                         | 0/5 [00:00<?, ?it/s]Epoch 1/5:   0%|                                                                                                                        | 0/5 [00:00<?, ?it/s]Epoch 1/5:  20%|██████████████████████▍                                                                                         | 1/5 [01:13<04:52, 73.13s/it]Epoch 1/5:  20%|██████████▌                                          | 1/5 [01:13<04:52, 73.13s/it, v_num=1, train_loss_step=1.33e+3, train_loss_epoch=1.4e+3]Epoch 2/5:  20%|██████████▌                                          | 1/5 [01:13<04:52, 73.13s/it, v_num=1, train_loss_step=1.33e+3, train_loss_epoch=1.4e+3]Epoch 2/5:  40%|█████████████████████▏                               | 2/5 [02:25<03:37, 72.63s/it, v_num=1, train_loss_step=1.33e+3, train_loss_epoch=1.4e+3]Epoch 2/5:  40%|████████████████████▊                               | 2/5 [02:25<03:37, 72.63s/it, v_num=1, train_loss_step=1.35e+3, train_loss_epoch=1.27e+3]Epoch 3/5:  40%|████████████████████▊                               | 2/5 [02:25<03:37, 72.63s/it, v_num=1, train_loss_step=1.35e+3, train_loss_epoch=1.27e+3]Epoch 3/5:  60%|███████████████████████████████▏                    | 3/5 [03:37<02:24, 72.38s/it, v_num=1, train_loss_step=1.35e+3, train_loss_epoch=1.27e+3]Epoch 3/5:  60%|███████████████████████████████▏                    | 3/5 [03:37<02:24, 72.38s/it, v_num=1, train_loss_step=1.25e+3, train_loss_epoch=1.26e+3]Epoch 4/5:  60%|███████████████████████████████▏                    | 3/5 [03:37<02:24, 72.38s/it, v_num=1, train_loss_step=1.25e+3, train_loss_epoch=1.26e+3]Epoch 4/5:  80%|█████████████████████████████████████████▌          | 4/5 [04:49<01:12, 72.24s/it, v_num=1, train_loss_step=1.25e+3, train_loss_epoch=1.26e+3]Epoch 4/5:  80%|█████████████████████████████████████████▌          | 4/5 [04:49<01:12, 72.24s/it, v_num=1, train_loss_step=1.38e+3, train_loss_epoch=1.25e+3]Epoch 5/5:  80%|█████████████████████████████████████████▌          | 4/5 [04:49<01:12, 72.24s/it, v_num=1, train_loss_step=1.38e+3, train_loss_epoch=1.25e+3]Epoch 5/5: 100%|████████████████████████████████████████████████████| 5/5 [06:01<00:00, 72.22s/it, v_num=1, train_loss_step=1.38e+3, train_loss_epoch=1.25e+3]Epoch 5/5: 100%|█████████████████████████████████████████████████████| 5/5 [06:01<00:00, 72.22s/it, v_num=1, train_loss_step=1.3e+3, train_loss_epoch=1.25e+3]`Trainer.fit` stopped: `max_epochs=5` reached.
+Epoch 5/5: 100%|█████████████████████████████████████████████████████| 5/5 [06:01<00:00, 72.34s/it, v_num=1, train_loss_step=1.3e+3, train_loss_epoch=1.25e+3]
+Model, embeddings, and outputs saved for n_latent=30, n_layers=2, n_hidden=128, n_hvg=7500
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@farm22-gpu0204>
+Subject: Job 192847: <module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/11_batch_correction_scvi_job_array_cross_organ.py                 --n_latent 30                 --n_layers 2                 --n_hidden 128                 --n_hvg 7500> in cluster <farm22> Done
+
+Job <module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/11_batch_correction_scvi_job_array_cross_organ.py                 --n_latent 30                 --n_layers 2                 --n_hidden 128                 --n_hvg 7500> was submitted from host <node-13-12> by user <sm54> in cluster <farm22> at Mon Jul 21 05:33:45 2025
+Job was executed on host(s) <8*farm22-gpu0204>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Mon Jul 21 05:37:27 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Mon Jul 21 05:37:27 2025
+Terminated at Mon Jul 21 07:11:18 2025
+Results reported at Mon Jul 21 07:11:18 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/11_batch_correction_scvi_job_array_cross_organ.py                 --n_latent 30                 --n_layers 2                 --n_hidden 128                 --n_hvg 7500
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   13562.00 sec.
+    Max Memory :                                 282790 MB
+    Average Memory :                             159114.00 MB
+    Total Requested Memory :                     300000.00 MB
+    Delta Memory :                               17210.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                71
+    Run time :                                   5632 sec.
+    Turnaround time :                            5853 sec.
+
+The output (if any) is above this job summary.
+

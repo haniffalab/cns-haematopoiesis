@@ -1,0 +1,37 @@
+Manuscript_dataset_title,Organ,Disease,Sequencing_platform,Donor_ID,Age,Sex,10X_Chemistry/Method,Sequencing_type,FACS_sorting,Sample_ID,Pre-QC frequency,Post_QC_frequency,Post_QC_overlap_for_CITE-seq,Accession_ID,Study ,Multiplexed
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,SB19PCW,19,male,10x 3' v2,3prime,Total,WSSS_F_BON8710636,3618,2853,NA,ERP125305,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,SB19PCW,19,male,10x 3' v2,3prime,Total,WSSS_F_BON8710637,3273,2316,NA,ERP125305,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,SB19PCW,19,male,10x 3' v2,3prime,Total,WSSS_F_BON8710638,4097,3048,NA,ERP125305,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,SB19PCW,19,male,10x 3' v2,3prime,Total,WSSS_F_BON8710639,3361,2563,NA,ERP125305,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,SB19PCW,19,male,10x 3' v2,3prime,Total,WSSS_F_BON8710640,3662,3019,NA,ERP125305,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,SB19PCW,19,male,10x 3' v2,3prime,Total,WSSS_F_BON8710641,1503,826,NA,ERP125305,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,SB19PCW,19,male,10x 3' v2,3prime,Total,WSSS_F_BON8710642,3962,2826,NA,ERP125305,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,SB19PCW,19,male,10x 3' v2,3prime,Total,WSSS_F_BON8710643,2566,1875,NA,ERP125305,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F51,15,female,5GEX,5GEX,CD45+,FCAImmP7803028,6590,6345,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F51,15,female,5GEX,5GEX,CD45+,FCAImmP7803029,6044,5829,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F51,15,female,5GEX,5GEX,CD45+,FCAImmP7803030,6159,5930,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F51,15,female,5GEX,5GEX,CD45-,FCAImmP7803031,4154,3608,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F51,15,female,5GEX,5GEX,CD45-,FCAImmP7803032,3963,3446,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F51,15,female,5GEX,5GEX,CD45-,FCAImmP7803033,4133,3643,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F50,15,female,5GEX,5GEX,CD45+,FCAImmP7803016,4878,4715,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F50,15,female,5GEX,5GEX,CD45+,FCAImmP7803017,4927,4769,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F50,15,female,5GEX,5GEX,CD45-,FCAImmP7803018,3500,3071,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F50,15,female,5GEX,5GEX,CD45-,FCAImmP7803019,3624,3207,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F45,12,female,10x 3' v2,3prime,CD45+,FCAImmP7579220,1763,1680,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F45,12,female,10x 3' v2,3prime,CD45-,FCAImmP7579221,1571,1467,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F45,12,female,5GEX,5GEX,CD45+,FCAImmP7579232,2145,2060,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F45,12,female,5GEX,5GEX,CD45-,FCAImmP7579233,1446,1395,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F41,16,female,10x 3' v2,3prime,CD45+,FCAImmP7555853,2073,2005,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F41,16,female,10x 3' v2,3prime,CD45-,FCAImmP7555854,2513,2169,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F41,16,female,5GEX,5GEX,CD45+,FCAImmP7555862,2271,2230,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F41,16,female,5GEX,5GEX,CD45-,FCAImmP7555855,1546,1503,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F38,13,male,10x 3' v2,3prime,CD45+,FCAImmP7528281,2354,2020,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F38,13,male,10x 3' v2,3prime,CD45-,FCAImmP7528282,1483,1095,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F30,14,male,10x 3' v2,3prime,CD45+,FCAImmP7277566,4306,4028,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F30,14,male,10x 3' v2,3prime,CD45-,FCAImmP7277567,2362,2291,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F30,14,male,5GEX,5GEX,Total,FCAImmP7292035,4336,4093,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F29,17,female,10x 3' v2,3prime,CD45+,FCAImmP7277558,1523,1455,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F29,17,female,10x 3' v2,3prime,CD45-,FCAImmP7277559,3198,3072,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F29,17,female,5GEX,5GEX,Total,FCAImmP7292031,3825,3634,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F21,16,male,10x 3' v2,3prime,CD45+,FCAImmP7179367,2050,1952,NA,E-MTAB-9389,Jardine_Webb_2021,No
+2) Fetal  bone marrow (10X) scRNA-seq,femur,no_disease,10X,F21,16,male,10x 3' v2,3prime,CD45-,FCAImmP7179368,1214,1190,NA,E-MTAB-9389,Jardine_Webb_2021,No

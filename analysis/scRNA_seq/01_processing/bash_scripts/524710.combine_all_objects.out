@@ -1,0 +1,46 @@
+🔹 Reading AnnData var indices only (light mode)...
+✅ Gene names and order are identical between both AnnData files.
+🔹 Reloading full objects for concatenation...
+🔹 Merging...
+💾 Saving combined file...
+✅ Combined h5ad file saved at: /lustre/scratch124/cellgen/haniffa/users/sm54/data/combined_adata_bone_cross_organ_brain_for_scvi_with_gene_names.h5ad
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-5-10-4>
+Subject: Job 524710: <combine_all_objects> in cluster <gen22> Done
+
+Job <combine_all_objects> was submitted from host <node-5-10-4> by user <sm54> in cluster <gen22> at Sun Nov  2 01:58:30 2025
+Job was executed on host(s) <2*node-5-10-4>, in queue <normal>, as user <sm54> in cluster <gen22> at Sun Nov  2 01:58:30 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Sun Nov  2 01:58:30 2025
+Terminated at Sun Nov  2 02:16:43 2025
+Results reported at Sun Nov  2 02:16:43 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda;
+   conda activate boneatlas;
+   cd /nfs/team298/sm54/BoneAtlasProject/src/processing;
+   python 07_generate_combined_h5ad_with_gene_names.py --adata1 /lustre/scratch124/cellgen/haniffa/users/sm54/data/combined_adata_for_scvi.h5ad --adata2 /lustre/scratch124/cellgen/haniffa/users/sm54/data/Linnarson/Linnarson_filtered_with_metadata.h5ad --output /lustre/scratch124/cellgen/haniffa/users/sm54/data/combined_adata_bone_cross_organ_brain_for_scvi_with_gene_names.h5ad
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   1072.00 sec.
+    Max Memory :                                 449441 MB
+    Average Memory :                             308173.31 MB
+    Total Requested Memory :                     450000.00 MB
+    Delta Memory :                               559.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   1093 sec.
+    Turnaround time :                            1093 sec.
+
+The output (if any) is above this job summary.
+

@@ -1,0 +1,67 @@
+** Using custom python for this environment
+python=3.10.12 scvi=1.1.2 torch=2.3.0+cu121
+Traceback (most recent call last):
+  File "/nfs/team298/sm54/BoneAtlasProject/src/integration/16_we_haem_integration.py", line 5, in <module>
+    import scanpy as sc
+  File "/env/lib/python3.10/site-packages/scanpy/__init__.py", line 20, in <module>
+    from ._utils import check_versions
+  File "/env/lib/python3.10/site-packages/scanpy/_utils/__init__.py", line 39, in <module>
+    from sklearn.utils import check_random_state
+  File "/env/lib/python3.10/site-packages/sklearn/__init__.py", line 87, in <module>
+    from .base import clone
+  File "/env/lib/python3.10/site-packages/sklearn/base.py", line 19, in <module>
+    from .utils import _IS_32BIT
+  File "/env/lib/python3.10/site-packages/sklearn/utils/__init__.py", line 22, in <module>
+    from ._estimator_html_repr import estimator_html_repr
+  File "/env/lib/python3.10/site-packages/sklearn/utils/_estimator_html_repr.py", line 10, in <module>
+    from .fixes import parse_version
+  File "/env/lib/python3.10/site-packages/sklearn/utils/fixes.py", line 17, in <module>
+    import scipy.stats
+  File "/env/lib/python3.10/site-packages/scipy/stats/__init__.py", line 606, in <module>
+    from ._stats_py import *
+  File "/env/lib/python3.10/site-packages/scipy/stats/_stats_py.py", line 49, in <module>
+    from . import distributions
+  File "/env/lib/python3.10/site-packages/scipy/stats/distributions.py", line 10, in <module>
+    from . import _continuous_distns
+  File "/env/lib/python3.10/site-packages/scipy/stats/_continuous_distns.py", line 23, in <module>
+    from . import _stats
+  File "<frozen importlib._bootstrap>", line 404, in parent
+KeyboardInterrupt
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@farm22-gpu0301>
+Subject: Job 725350: <module load cellgen/conda; module load cellgen/scvi;       python -u "/nfs/team298/sm54/BoneAtlasProject/src/integration/16_we_haem_integration.py"         --input "/nfs/team298/sm54/BoneAtlasProject/data/whole_embryo/haem_we_scrna.h5ad"         --out_dir "/nfs/team298/sm54/BoneAtlasProject/data/whole_embryo/"> in cluster <farm22> Exited
+
+Job <module load cellgen/conda; module load cellgen/scvi;       python -u "/nfs/team298/sm54/BoneAtlasProject/src/integration/16_we_haem_integration.py"         --input "/nfs/team298/sm54/BoneAtlasProject/data/whole_embryo/haem_we_scrna.h5ad"         --out_dir "/nfs/team298/sm54/BoneAtlasProject/data/whole_embryo/"> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Fri Oct 10 13:28:29 2025
+Job was executed on host(s) <4*farm22-gpu0301>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Fri Oct 10 13:28:29 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Fri Oct 10 13:28:29 2025
+Terminated at Fri Oct 10 13:28:44 2025
+Results reported at Fri Oct 10 13:28:44 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; module load cellgen/scvi;       python -u "/nfs/team298/sm54/BoneAtlasProject/src/integration/16_we_haem_integration.py"         --input "/nfs/team298/sm54/BoneAtlasProject/data/whole_embryo/haem_we_scrna.h5ad"         --out_dir "/nfs/team298/sm54/BoneAtlasProject/data/whole_embryo/"
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 130.
+
+Resource usage summary:
+
+    CPU time :                                   9.00 sec.
+    Max Memory :                                 278 MB
+    Average Memory :                             190.00 MB
+    Total Requested Memory :                     50000.00 MB
+    Delta Memory :                               49722.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                22
+    Run time :                                   13 sec.
+    Turnaround time :                            15 sec.
+
+The output (if any) is above this job summary.
+

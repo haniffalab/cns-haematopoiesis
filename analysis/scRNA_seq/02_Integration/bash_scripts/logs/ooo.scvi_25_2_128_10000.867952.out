@@ -1,0 +1,49 @@
+** Using custom python for this environment
+python=3.10.12 scvi=1.1.2 torch=2.3.0+cu121
+Training:   0%|          | 0/5 [00:00<?, ?it/s]Epoch 1/5:   0%|          | 0/5 [00:00<?, ?it/s]Epoch 1/5:  20%|██        | 1/5 [01:21<05:27, 81.94s/it]Epoch 1/5:  20%|██        | 1/5 [01:21<05:27, 81.94s/it, v_num=1, train_loss_step=1.59e+3, train_loss_epoch=1.98e+3]Epoch 2/5:  20%|██        | 1/5 [01:21<05:27, 81.94s/it, v_num=1, train_loss_step=1.59e+3, train_loss_epoch=1.98e+3]Epoch 2/5:  40%|████      | 2/5 [02:42<04:03, 81.18s/it, v_num=1, train_loss_step=1.59e+3, train_loss_epoch=1.98e+3]Epoch 2/5:  40%|████      | 2/5 [02:42<04:03, 81.18s/it, v_num=1, train_loss_step=2.07e+3, train_loss_epoch=1.8e+3] Epoch 3/5:  40%|████      | 2/5 [02:42<04:03, 81.18s/it, v_num=1, train_loss_step=2.07e+3, train_loss_epoch=1.8e+3]Epoch 3/5:  60%|██████    | 3/5 [04:03<02:41, 80.86s/it, v_num=1, train_loss_step=2.07e+3, train_loss_epoch=1.8e+3]Epoch 3/5:  60%|██████    | 3/5 [04:03<02:41, 80.86s/it, v_num=1, train_loss_step=1.48e+3, train_loss_epoch=1.79e+3]Epoch 4/5:  60%|██████    | 3/5 [04:03<02:41, 80.86s/it, v_num=1, train_loss_step=1.48e+3, train_loss_epoch=1.79e+3]Epoch 4/5:  80%|████████  | 4/5 [05:23<01:20, 80.61s/it, v_num=1, train_loss_step=1.48e+3, train_loss_epoch=1.79e+3]Epoch 4/5:  80%|████████  | 4/5 [05:23<01:20, 80.61s/it, v_num=1, train_loss_step=1.8e+3, train_loss_epoch=1.78e+3] Epoch 5/5:  80%|████████  | 4/5 [05:23<01:20, 80.61s/it, v_num=1, train_loss_step=1.8e+3, train_loss_epoch=1.78e+3]Epoch 5/5: 100%|██████████| 5/5 [06:43<00:00, 80.45s/it, v_num=1, train_loss_step=1.8e+3, train_loss_epoch=1.78e+3]Epoch 5/5: 100%|██████████| 5/5 [06:43<00:00, 80.45s/it, v_num=1, train_loss_step=1.91e+3, train_loss_epoch=1.78e+3]Epoch 5/5: 100%|██████████| 5/5 [06:43<00:00, 80.69s/it, v_num=1, train_loss_step=1.91e+3, train_loss_epoch=1.78e+3]
+Model and outputs saved for n_latent=25, n_layers=2, n_hidden=128, n_hvg=10000
+
+Training and analysis complete!
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@farm22-gpu0305>
+Subject: Job 867952: <module load cellgen/conda; module load cellgen/scvi;               python /nfs/team298/sm54/BoneAtlasProject/src/integration/05_batch_correction_scvi_job_array.py                 --n_latent 25                 --n_layers 2                 --n_hidden 128                 --n_hvg 10000> in cluster <farm22> Done
+
+Job <module load cellgen/conda; module load cellgen/scvi;               python /nfs/team298/sm54/BoneAtlasProject/src/integration/05_batch_correction_scvi_job_array.py                 --n_latent 25                 --n_layers 2                 --n_hidden 128                 --n_hvg 10000> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Thu Jul 10 16:30:27 2025
+Job was executed on host(s) <8*farm22-gpu0305>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Thu Jul 10 18:10:06 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Thu Jul 10 18:10:06 2025
+Terminated at Thu Jul 10 18:57:04 2025
+Results reported at Thu Jul 10 18:57:04 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; module load cellgen/scvi;               python /nfs/team298/sm54/BoneAtlasProject/src/integration/05_batch_correction_scvi_job_array.py                 --n_latent 25                 --n_layers 2                 --n_hidden 128                 --n_hvg 10000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   6949.00 sec.
+    Max Memory :                                 204858 MB
+    Average Memory :                             114275.57 MB
+    Total Requested Memory :                     300000.00 MB
+    Delta Memory :                               95142.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                79
+    Run time :                                   2815 sec.
+    Turnaround time :                            8797 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <logs/eee.scvi_25_2_128_10000.867952.err> for stderr output of this job.
+

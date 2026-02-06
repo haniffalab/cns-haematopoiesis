@@ -1,0 +1,41 @@
+Traceback (most recent call last):
+  File "/nfs/team298/sm54/BoneAtlasProject/src/integration/07_scib_benchmark_2.py", line 10, in <module>
+    import faiss
+ModuleNotFoundError: No module named 'faiss'
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@qpg-gpu-02>
+Subject: Job 388032: <scib_scib_test_int_downsampled_new_method> in cluster <farm22> Exited
+
+Job <scib_scib_test_int_downsampled_new_method> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Tue Jul 15 15:25:22 2025
+Job was executed on host(s) <4*qpg-gpu-02>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Tue Jul 15 15:46:46 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/users/nfs_s/sm54/nfs_sm54/BoneAtlasProject/src/integration> was used as the working directory.
+Started at Tue Jul 15 15:46:46 2025
+Terminated at Tue Jul 15 15:47:46 2025
+Results reported at Tue Jul 15 15:47:46 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif     python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/07_scib_benchmark_2.py       --input    /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_int.h5ad       --pca      /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_unintegrated_pca.parquet       --output   /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/scib_scib_test_int_downsampled_new_method_scib.csv       --batch-key Technology       --label-key majority_voting_Level2       --neighbors 15       --jobs     4   
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   8.00 sec.
+    Max Memory :                                 5 MB
+    Average Memory :                             4.00 MB
+    Total Requested Memory :                     200000.00 MB
+    Delta Memory :                               199995.00 MB
+    Max Swap :                                   -
+    Max Processes :                              1
+    Max Threads :                                3
+    Run time :                                   32 sec.
+    Turnaround time :                            1344 sec.
+
+The output (if any) is above this job summary.
+

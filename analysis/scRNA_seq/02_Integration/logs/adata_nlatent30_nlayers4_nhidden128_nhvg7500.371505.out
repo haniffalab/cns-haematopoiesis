@@ -1,0 +1,103 @@
+Reading unintegrated AnnData...
+Unintegrated data loaded.
+Reading integrated AnnData...
+Integrated data loaded.
+Starting evaluation...
+Transferred Technology and majority_voting_Level2 to integrated AnnData.
+Aliased SCVI graph to neighbors/distances/connectivities.
+/env/lib/python3.10/site-packages/scib/metrics/metrics.py:293: DeprecationWarning: Call to deprecated function (or staticmethod) opt_louvain.
+  res_max, nmi_max, nmi_all = opt_louvain(
+Clustering...
+resolution: 0.1, nmi: 0.4738772082938118
+resolution: 0.2, nmi: 0.4705165337990091
+resolution: 0.3, nmi: 0.4857008292197041
+resolution: 0.4, nmi: 0.46648924645612294
+resolution: 0.5, nmi: 0.472332182452673
+resolution: 0.6, nmi: 0.46460739713458293
+resolution: 0.7, nmi: 0.46015376209956566
+resolution: 0.8, nmi: 0.4548420336266043
+resolution: 0.9, nmi: 0.45330337397079
+resolution: 1.0, nmi: 0.4524571109767281
+resolution: 1.1, nmi: 0.4472775879890782
+resolution: 1.2, nmi: 0.4462180759944376
+resolution: 1.3, nmi: 0.4443114268185938
+resolution: 1.4, nmi: 0.44403026549794294
+resolution: 1.5, nmi: 0.44386114879348043
+resolution: 1.6, nmi: 0.44370071502125
+resolution: 1.7, nmi: 0.44082222796353293
+resolution: 1.8, nmi: 0.443159712619618
+resolution: 1.9, nmi: 0.43858127831281046
+resolution: 2.0, nmi: 0.4394047149120295
+optimised clustering against majority_voting_Level2
+optimal cluster resolution: 0.3
+optimal score: 0.4857008292197041
+NMI...
+ARI...
+Silhouette score...
+Graph connectivity...
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+Metrics saved to: /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/adata_nlatent30_nlayers4_nhidden128_nhvg7500_evaluation_metrics.csv
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-14-26>
+Subject: Job 371505: <module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python -u 06_evaluate_batch_correction.py --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_filtered_with_metadata_scvi.h5ad                          --adata_int /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/processed_adata/adata_nlatent30_nlayers4_nhidden128_nhvg7500.h5ad                          --output_csv /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/adata_nlatent30_nlayers4_nhidden128_nhvg7500_evaluation_metrics.csv                          --batch_key Technology                          --label_key majority_voting_Level2> in cluster <farm22> Done
+
+Job <module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python -u 06_evaluate_batch_correction.py --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_filtered_with_metadata_scvi.h5ad                          --adata_int /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/processed_adata/adata_nlatent30_nlayers4_nhidden128_nhvg7500.h5ad                          --output_csv /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/adata_nlatent30_nlayers4_nhidden128_nhvg7500_evaluation_metrics.csv                          --batch_key Technology                          --label_key majority_voting_Level2> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Tue Jul 15 13:17:36 2025
+Job was executed on host(s) <8*node-14-26>, in queue <long>, as user <sm54> in cluster <farm22> at Tue Jul 15 13:20:31 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration> was used as the working directory.
+Started at Tue Jul 15 13:20:31 2025
+Terminated at Wed Jul 16 08:08:13 2025
+Results reported at Wed Jul 16 08:08:13 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python -u 06_evaluate_batch_correction.py --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_filtered_with_metadata_scvi.h5ad                          --adata_int /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/processed_adata/adata_nlatent30_nlayers4_nhidden128_nhvg7500.h5ad                          --output_csv /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/adata_nlatent30_nlayers4_nhidden128_nhvg7500_evaluation_metrics.csv                          --batch_key Technology                          --label_key majority_voting_Level2
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   206561.38 sec.
+    Max Memory :                                 67213 MB
+    Average Memory :                             61550.30 MB
+    Total Requested Memory :                     650000.00 MB
+    Delta Memory :                               582787.00 MB
+    Max Swap :                                   4 MB
+    Max Processes :                              4
+    Max Threads :                                26
+    Run time :                                   67661 sec.
+    Turnaround time :                            67837 sec.
+
+The output (if any) is above this job summary.
+

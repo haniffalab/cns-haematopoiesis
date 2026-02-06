@@ -1,0 +1,52 @@
+Traceback (most recent call last):
+  File "/nfs/team298/sm54/BoneAtlasProject/src/processing/07_generate_combined_h5ad_with_gene_names.py", line 25, in <module>
+    adata1 = adata1[:, common_genes].copy()
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/anndata/_core/anndata.py", line 1504, in copy
+    X=_subset(self._adata_ref.X, (self._oidx, self._vidx)).copy()
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_data.py", line 95, in copy
+    return self._with_data(self.data.copy(), copy=True)
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_compressed.py", line 1284, in _with_data
+    return self.__class__((data, self.indices.copy(),
+KeyboardInterrupt
+Terminated
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-5-10-4>
+Subject: Job 524624: <combine_all_objects> in cluster <gen22> Exited
+
+Job <combine_all_objects> was submitted from host <node-5-10-4> by user <sm54> in cluster <gen22> at Sat Nov  1 22:36:59 2025
+Job was executed on host(s) <2*node-5-10-4>, in queue <normal>, as user <sm54> in cluster <gen22> at Sat Nov  1 22:37:00 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Sat Nov  1 22:37:00 2025
+Terminated at Sat Nov  1 22:46:28 2025
+Results reported at Sat Nov  1 22:46:28 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda;
+   conda activate boneatlas;
+   cd /nfs/team298/sm54/BoneAtlasProject/src/processing;
+   python 07_generate_combined_h5ad_with_gene_names.py --adata1 /lustre/scratch124/cellgen/haniffa/users/sm54/data/combined_adata_for_scvi.h5ad --adata2 /lustre/scratch124/cellgen/haniffa/users/sm54/data/Linnarson/Linnarson_filtered_with_metadata.h5ad --output /lustre/scratch124/cellgen/haniffa/users/sm54/data/combined_adata_bone_cross_organ_brain_for_scvi_with_gene_names.h5ad
+------------------------------------------------------------
+
+TERM_MEMLIMIT: job killed after reaching LSF memory usage limit.
+Exited with exit code 143.
+
+Resource usage summary:
+
+    CPU time :                                   557.48 sec.
+    Max Memory :                                 450261 MB
+    Average Memory :                             195951.47 MB
+    Total Requested Memory :                     450000.00 MB
+    Delta Memory :                               -261.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   568 sec.
+    Turnaround time :                            569 sec.
+
+The output (if any) is above this job summary.
+

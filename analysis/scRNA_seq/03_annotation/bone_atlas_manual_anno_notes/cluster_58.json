@@ -1,0 +1,17 @@
+{
+  "cluster": 58,
+  "provisional_label": "DCX+ immature neuron / neuroblast",
+  "top_genes": [
+    "CTNNA2",
+    "MAP2",
+    "DCC",
+    "CTNND2",
+    "RIMS2",
+    "SYT1",
+    "KIF5C",
+    "MYT1L",
+    "RMST",
+    "PTPRN2"
+  ],
+  "notes": "Strong neuronal development program (DCX, SRRM4, RMST)."
+}

@@ -1,0 +1,17 @@
+{
+  "cluster": 56,
+  "provisional_label": "Interzone-like synovial fibroblast (CREB5+/PRG4+)",
+  "top_genes": [
+    "CREB5",
+    "PLAC9",
+    "S100A6",
+    "ANXA1",
+    "ABI3BP",
+    "BGN",
+    "ELN",
+    "MGP",
+    "NDUFA4L2",
+    "MECOM"
+  ],
+  "notes": "PRG4/CREB5/ELN with fibro-chondral features; resembles joint interzone/lining SFs."
+}

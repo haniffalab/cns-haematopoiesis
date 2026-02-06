@@ -1,0 +1,45 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-14-22>
+Subject: Job 906830: <celltypist_bone_atlas> in cluster <farm22> Done
+
+Job <celltypist_bone_atlas> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Thu Jul 10 19:06:29 2025
+Job was executed on host(s) <8*node-14-22>, in queue <long>, as user <sm54> in cluster <farm22> at Thu Jul 10 19:06:43 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Thu Jul 10 19:06:43 2025
+Terminated at Thu Jul 10 20:44:43 2025
+Results reported at Thu Jul 10 20:44:43 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; conda activate boneatlas;
+   cd /nfs/team298/sm54/BoneAtlasProject/src/processing/;
+   python 02_celltypist_annotation.py      --merged_h5ad /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/bone_atlas_filtered_with_metadata.h5ad      --model_path /nfs/team298/sm54/BoneAtlasProject/metadata/celltypist_models/Human_WholeEmbryo_Public.pkl      --output_dir /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/      --adata_status filtered_bone_atlas      --log_level INFO      --log_dir /nfs/team298/sm54/BoneAtlasProject/src/processing/logs
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   8886.00 sec.
+    Max Memory :                                 82745 MB
+    Average Memory :                             68259.27 MB
+    Total Requested Memory :                     300000.00 MB
+    Delta Memory :                               217255.00 MB
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                25
+    Run time :                                   5914 sec.
+    Turnaround time :                            5894 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <906830.celltypist_bone_atlas.err> for stderr output of this job.
+

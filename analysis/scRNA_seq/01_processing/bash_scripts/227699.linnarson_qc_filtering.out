@@ -1,0 +1,48 @@
+⚠️  3892388 cells did not get full metadata from `Sample_ID` join
+Found 66 failed samples: ['10X109_5', '10X109_1', '10X154_5', '10X154_6', '10X154_7', '10X169_3', '10X122_4', '10X196_3', '10X196_4', '10X197_3', '10X197_4', '10X96_5', '10X96_6', '10X96_1', '10X96_2', '10X97_1', '10X97_2', '10X98_1', '10X98_2', '10X98_3', '10X98_4', '10X99_1', '10X99_2', '10X96_7', '10X96_8', '10X97_3', '10X97_4', '10X96_3', '10X96_4', '10X99_3', '10X99_4', '10X98_5', '10X98_6', '10X155_1', '10X155_3', '10X105_1', '10X105_2', '10X105_3', '10X103_1', '10X103_2', '10X103_3', '10X104_2', '10X143_1', '10X143_2', '10X163_5', '10X163_6', '10X165_2', '10X115_4', '10X114_2', '10X114_5', '10X114_6', '10X114_7', '10X114_8', '10X185_3', '10X186_2', '10X231_1', '10X231_2', '10X231_5', '10X231_6', '10X257_3', '10X255_5', '10X258_3', '10X258_4', '10X258_1', '10X258_2', '10X262_5']
+adata_failed has 752087 cells across 66 samples
+... storing 'Dissected_region' as categorical
+... storing 'QC' as categorical
+... storing 'Chemistry' as categorical
+... storing 'Source' as categorical
+Filtered AnnData written to /lustre/scratch124/cellgen/haniffa/users/sm54/data/Linnarson/Linnarson_filtered_with_metadata.h5ad
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-13-17>
+Subject: Job 227699: <linnarson_qc_filtering> in cluster <farm22> Done
+
+Job <linnarson_qc_filtering> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Mon Jul 14 16:59:50 2025
+Job was executed on host(s) <8*node-13-17>, in queue <normal>, as user <sm54> in cluster <farm22> at Mon Jul 14 17:02:18 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Mon Jul 14 17:02:18 2025
+Terminated at Mon Jul 14 17:37:36 2025
+Results reported at Mon Jul 14 17:37:36 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda;
+   conda activate boneatlas;
+   cd /nfs/team298/sm54/BoneAtlasProject/src/processing;
+   python -u nb_1_linnarson_basic_qc_filtering_add_metadata.py     --adata-file /lustre/scratch124/cellgen/haniffa/users/sm54/data/Linnarson/Linnarson_unfiltered.h5ad      --metadata-file /nfs/team298/sm54/BoneAtlasProject/metadata/sample_metadata/Linnarson_Metadata_from_Paper.csv      --output-file /lustre/scratch124/cellgen/haniffa/users/sm54/data/Linnarson/Linnarson_filtered_with_metadata.h5ad 
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   1657.29 sec.
+    Max Memory :                                 551273 MB
+    Average Memory :                             334370.97 MB
+    Total Requested Memory :                     650000.00 MB
+    Delta Memory :                               98727.00 MB
+    Max Swap :                                   2 MB
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   2120 sec.
+    Turnaround time :                            2266 sec.
+
+The output (if any) is above this job summary.
+

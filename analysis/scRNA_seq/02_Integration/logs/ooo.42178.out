@@ -1,0 +1,43 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-14-22>
+Subject: Job 42178: <module load cellgen/singularity;           singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs               /nfs/cellgeni/singularity/images/scib-1.1.5.sif               python test_scib-Copy1.py> in cluster <farm22> Exited
+
+Job <module load cellgen/singularity;           singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs               /nfs/cellgeni/singularity/images/scib-1.1.5.sif               python test_scib-Copy1.py> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Sat Jul 12 01:51:50 2025
+Job was executed on host(s) <8*node-14-22>, in queue <long>, as user <sm54> in cluster <farm22> at Sat Jul 12 01:51:51 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration> was used as the working directory.
+Started at Sat Jul 12 01:51:51 2025
+Terminated at Sat Jul 12 01:52:05 2025
+Results reported at Sat Jul 12 01:52:05 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/singularity;           singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs               /nfs/cellgeni/singularity/images/scib-1.1.5.sif               python test_scib-Copy1.py
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   10.90 sec.
+    Max Memory :                                 255 MB
+    Average Memory :                             194.00 MB
+    Total Requested Memory :                     250000.00 MB
+    Delta Memory :                               249745.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                26
+    Run time :                                   15 sec.
+    Turnaround time :                            15 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <logs/eee.42178.err> for stderr output of this job.
+

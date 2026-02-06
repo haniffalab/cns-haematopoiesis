@@ -1,0 +1,219 @@
+Reading unintegrated AnnData...
+Unintegrated data loaded.
+Reading integrated AnnData...
+Integrated data loaded.
+Starting evaluation...
+Transferred Method and Haem_Category to integrated AnnData.
+Aliased SCVI graph to neighbors/distances/connectivities.
+/env/lib/python3.10/site-packages/scib/metrics/metrics.py:293: DeprecationWarning: Call to deprecated function (or staticmethod) opt_louvain.
+  res_max, nmi_max, nmi_all = opt_louvain(
+Clustering...
+resolution: 0.1, nmi: 0.6680370054113746
+resolution: 0.2, nmi: 0.6328059701098667
+resolution: 0.3, nmi: 0.6256889017452437
+resolution: 0.4, nmi: 0.6368196966631771
+resolution: 0.5, nmi: 0.6193370892245057
+resolution: 0.6, nmi: 0.6321885878197846
+resolution: 0.7, nmi: 0.6247275475264986
+resolution: 0.8, nmi: 0.6164774735659669
+resolution: 0.9, nmi: 0.622003370433105
+resolution: 1.0, nmi: 0.6134579582938916
+resolution: 1.1, nmi: 0.6132263198181833
+resolution: 1.2, nmi: 0.6048133484375193
+resolution: 1.3, nmi: 0.5970097235147067
+resolution: 1.4, nmi: 0.5932012392453025
+resolution: 1.5, nmi: 0.5888735133445772
+resolution: 1.6, nmi: 0.586087578928563
+resolution: 1.7, nmi: 0.5777547496113175
+resolution: 1.8, nmi: 0.5761135389839924
+resolution: 1.9, nmi: 0.5825953586216315
+resolution: 2.0, nmi: 0.5744065361151727
+optimised clustering against Haem_Category
+optimal cluster resolution: 0.1
+optimal score: 0.6680370054113746
+NMI...
+ARI...
+Silhouette score...
+Graph connectivity...
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+kBET...
+batch: Method
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 4515.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 2557.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 734.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 182.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 1086.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 3984.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 98.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+Adding diffusion to step 5
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 2380.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 6196.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 280.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 478.
+Use 22 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 25.
+/env/lib/python3.10/site-packages/scib/metrics/highly_variable_genes.py:35: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  hvg_dir[i.obs[batch][0]] = i.var.index[hvg["highly_variable"]]
+/env/lib/python3.10/site-packages/scib/metrics/highly_variable_genes.py:35: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  hvg_dir[i.obs[batch][0]] = i.var.index[hvg["highly_variable"]]
+/env/lib/python3.10/site-packages/scib/metrics/highly_variable_genes.py:35: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  hvg_dir[i.obs[batch][0]] = i.var.index[hvg["highly_variable"]]
+/env/lib/python3.10/site-packages/scib/metrics/highly_variable_genes.py:76: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  batch_var = ad_post.obs[batch_key][0]
+/env/lib/python3.10/site-packages/scib/metrics/highly_variable_genes.py:76: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  batch_var = ad_post.obs[batch_key][0]
+/env/lib/python3.10/site-packages/scib/metrics/highly_variable_genes.py:76: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  batch_var = ad_post.obs[batch_key][0]
+Metrics saved to: /nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/best_integration_with_filtered_stroma_PERMISSIVE_DOUBLET_REMOVAL/scib_output/New_Best_Integration_bone_atlas_nlatent20_nlayers3_nhidden128_nhvg5000_haem_evaluation_metrics_no_clisi.csv
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-13-28>
+Subject: Job 122924: <module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/09_evaluate_batch_correction_scvi_haem.py --adata_uninteg /nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/bone_haem_atlas_with_filtered_stroma_PERMISSIVE_DOUBLET_REMOVAL_UNINTEGRADTED.h5ad                          --adata_int /nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/best_integration_with_filtered_stroma_PERMISSIVE_DOUBLET_REMOVAL/umap_plots/processed_adata/New_Best_Integration_bone_atlas_nlatent20_nlayers3_nhidden128_nhvg5000.h5ad                          --output_csv /nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/best_integration_with_filtered_stroma_PERMISSIVE_DOUBLET_REMOVAL/scib_output/New_Best_Integration_bone_atlas_nlatent20_nlayers3_nhidden128_nhvg5000_haem_evaluation_metrics_no_clisi.csv                          --batch_key Method                          --label_key Haem_Category> in cluster <farm22> Done
+
+Job <module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/09_evaluate_batch_correction_scvi_haem.py --adata_uninteg /nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/bone_haem_atlas_with_filtered_stroma_PERMISSIVE_DOUBLET_REMOVAL_UNINTEGRADTED.h5ad                          --adata_int /nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/best_integration_with_filtered_stroma_PERMISSIVE_DOUBLET_REMOVAL/umap_plots/processed_adata/New_Best_Integration_bone_atlas_nlatent20_nlayers3_nhidden128_nhvg5000.h5ad                          --output_csv /nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/best_integration_with_filtered_stroma_PERMISSIVE_DOUBLET_REMOVAL/scib_output/New_Best_Integration_bone_atlas_nlatent20_nlayers3_nhidden128_nhvg5000_haem_evaluation_metrics_no_clisi.csv                          --batch_key Method                          --label_key Haem_Category> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Sun Sep 21 19:38:40 2025
+Job was executed on host(s) <8*node-13-28>, in queue <long>, as user <sm54> in cluster <farm22> at Mon Sep 22 10:18:30 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Mon Sep 22 10:18:30 2025
+Terminated at Mon Sep 22 11:53:03 2025
+Results reported at Mon Sep 22 11:53:03 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/09_evaluate_batch_correction_scvi_haem.py --adata_uninteg /nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/bone_haem_atlas_with_filtered_stroma_PERMISSIVE_DOUBLET_REMOVAL_UNINTEGRADTED.h5ad                          --adata_int /nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/best_integration_with_filtered_stroma_PERMISSIVE_DOUBLET_REMOVAL/umap_plots/processed_adata/New_Best_Integration_bone_atlas_nlatent20_nlayers3_nhidden128_nhvg5000.h5ad                          --output_csv /nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/best_integration_with_filtered_stroma_PERMISSIVE_DOUBLET_REMOVAL/scib_output/New_Best_Integration_bone_atlas_nlatent20_nlayers3_nhidden128_nhvg5000_haem_evaluation_metrics_no_clisi.csv                          --batch_key Method                          --label_key Haem_Category
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   8034.28 sec.
+    Max Memory :                                 85432 MB
+    Average Memory :                             15747.52 MB
+    Total Requested Memory :                     300000.00 MB
+    Delta Memory :                               214568.00 MB
+    Max Swap :                                   4 MB
+    Max Processes :                              5
+    Max Threads :                                34
+    Run time :                                   5673 sec.
+    Turnaround time :                            58463 sec.
+
+The output (if any) is above this job summary.
+

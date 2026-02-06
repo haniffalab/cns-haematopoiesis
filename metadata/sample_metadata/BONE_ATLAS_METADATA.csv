@@ -1,0 +1,204 @@
+,Unnamed: 0.1,Unnamed: 0,Organ,Run_ID,Sample_ID,Organ.1,Age,Anatomical_Site,Donor_ID,Technology,FACS_Sorting,Accession_ID,Study,Multiplexed,Expected_Donors,10X_Chemistry,Unnamed: 14,Method,Dataset
+0,0,0,Calvaria ,HCA_BN_F12482363_and_HCA_BN_F12477275,HCA_BN_F12482363,Calvaria ,8.5,calvaria,2361,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+1,1,1,Calvaria ,HCA_BN_F12482364_and_HCA_BN_F12477276,HCA_BN_F12482364,Calvaria ,8.5,calvaria,2361,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+2,2,2,Calvaria ,HCA_BN_F12482365_and_HCA_BN_F12477277,HCA_BN_F12482365,Calvaria ,8.5,calvaria,2361,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+3,3,3,Calvaria ,HCA_BN_F12482366_and_HCA_BN_F12477278,HCA_BN_F12482366,Calvaria ,8.5,calvaria,2361,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+4,4,4,Calvaria ,HCA_BN_F12966455_and_HCA_BN_F12951831,HCA_BN_F12966455,Calvaria ,9.4,calvaria,2384,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+5,5,5,Calvaria ,HCA_BN_F12966457_and_HCA_BN_F12951833,HCA_BN_F12966457,Calvaria ,9.4,calvaria,2384,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+6,6,6,Calvaria ,HCA_BN_F12966458_and_HCA_BN_F12951834,HCA_BN_F12966458,Calvaria ,9.4,calvaria,2384,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+7,7,7,Calvaria ,HCA_BN_F13109710_and_HCA_BN_F13101380,HCA_BN_F13109710,Calvaria ,12,calvaria,HDBRXXX,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+8,8,8,Calvaria ,HCA_BN_F13109711_and_HCA_BN_F13101381,HCA_BN_F13109711,Calvaria ,12,calvaria,HDBRXXX,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+9,9,9,Calvaria ,HCA_BN_F13109712_and_HCA_BN_F13101382,HCA_BN_F13109712,Calvaria ,12,calvaria,HDBRXXX,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+10,10,10,Calvaria ,HCA_BN_F13109713_and_HCA_BN_F13101383,HCA_BN_F13109713,Calvaria ,12,calvaria,HDBRXXX,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+11,11,11,Calvaria ,HCA_BN_F13177434_and_HCA_BN_F13177207,HCA_BN_F13177434,Calvaria ,"10.3,11.2",calvaria,2356/2372,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+12,12,12,Calvaria ,HCA_BN_F13177435_and_HCA_BN_F13177208,HCA_BN_F13177435,Calvaria ,"10.3,11.2",calvaria,2356/2372,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+13,13,13,Calvaria ,HCA_BN_F13177436_and_HCA_BN_F13177209,HCA_BN_F13177436,Calvaria ,"10.3,11.2",calvaria,2356/2372,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+14,14,14,Calvaria ,HCA_BN_F12808058_and_HCA_BN_F12803234,HCA_BN_F12808058,Calvaria ,5.8/7.6,calvaria,2370/2369,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+15,15,15,Calvaria ,HCA_BN_F12808059_and_HCA_BN_F12803235,HCA_BN_F12808059,Calvaria ,5.8/7.6,calvaria,2370/2369,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+16,16,16,Calvaria ,HCA_BN_F12808060_and_HCA_BN_F12803236,HCA_BN_F12808060,Calvaria ,5.8/7.6,skullbase,2370/2369,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+17,17,17,Hip ,HCA_BN_F12922481_and_HCA_BN_F12918719,HCA_BN_F12922481,Hip ,5.7,hip,2393,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+18,18,18,Hip ,HCA_BN_F12922486_and_HCA_BN_F12918724,HCA_BN_F12922486,Hip ,8.6,hip,2394,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+19,19,19,Hip ,HCA_BN_F12874040_and_HCA_BN_F12865672,HCA_BN_F12874040,Hip ,9.4,hip,2384,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+20,20,20,Hip ,HCA_BN_F12863837_and_HCA_BN_F12865002,HCA_BN_F12863837,Hip ,10,hip,2382,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+21,21,21,Hip ,HCA_BN_F12874043_and_HCA_BN_F12865675,HCA_BN_F12874043,Hip ,11.2,hip,2372,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+22,22,22,Hip ,HCA_BN_F12627471_and_HCA_BN_F12605340,HCA_BN_F12627471,Hip ,"7.6, 8.3",hip,multiplexed,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+23,23,23,Hip/Knee,HCA_BN_F12922485_and_HCA_BN_F12918723,HCA_BN_F12922485,Hip/Knee,7.3/8.6,hip/knee,2392/2394,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+24,24,24,Hip/Shoulder,HCA_BN_F12627472_and_HCA_BN_F12605341,HCA_BN_F12627472,Hip/Shoulder,"5.8, 8.3",hip/shoulder,multiplexed,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+25,25,25,Knee,HCA_BN_F12922482_and_HCA_BN_F12918720,HCA_BN_F12922482,Knee,5.7,knee,2393,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+26,26,26,Knee,HCA_BN_F12922484_and_HCA_BN_F12918722,HCA_BN_F12922484,Knee,7.3,knee,2392,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+27,27,27,Knee,HCA_BN_F12874047_and_HCA_BN_F12865679,HCA_BN_F12874047,Knee,8,knee,2358,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+28,28,28,Knee,HCA_BN_F12874041_and_HCA_BN_F12865673,HCA_BN_F12874041,Knee,9.4,knee,2384,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+29,29,29,Knee,HCA_BN_F12874046_and_HCA_BN_F12865678,HCA_BN_F12874046,Knee,10,knee,2382,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+30,30,30,Knee,HCA_BN_F12863835_and_HCA_BN_F12865000,HCA_BN_F12863835,Knee,10,knee,2382,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+31,31,31,Knee,HCA_BN_F12874044_and_HCA_BN_F12865676,HCA_BN_F12874044,Knee,11.2,knee,2372,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+32,32,32,Knee,HCA_BN_F12627470_and_HCA_BN_F12605339,HCA_BN_F12627470,Knee,"5.8, 7.6, 8.3",knee,multiplexed,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,3,10x_multiome,,10X_multiome,Bone_Atlas
+33,33,33,Shoulder ,HCA_BN_F12922483_and_HCA_BN_F12918721,HCA_BN_F12922483,Shoulder ,5.7,shoulder,2393,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+34,34,34,Shoulder ,HCA_BN_F12874042_and_HCA_BN_F12865674,HCA_BN_F12874042,Shoulder ,9.4,shoulder,2384,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+35,35,35,Shoulder ,HCA_BN_F12863836_and_HCA_BN_F12865001,HCA_BN_F12863836,Shoulder ,10,shoulder,2382,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+36,36,36,Shoulder ,HCA_BN_F12874045_and_HCA_BN_F12865677,HCA_BN_F12874045,Shoulder ,11.2,shoulder,2372,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+37,37,37,Shoulder ,HCA_BN_F12922487_and_HCA_BN_F12918725,HCA_BN_F12922487,Shoulder ,7.3/8.6,shoulder,2392/2394,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+38,38,38,Shoulder ,HCA_BN_F12627473_and_HCA_BN_F12605342,HCA_BN_F12627473,Shoulder ,"7.6, 8.3",shoulder,multiplexed,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+39,39,39,Skull base,HCA_BN_F12808062_and_HCA_BN_F12803238,HCA_BN_F12808062,Skull base,5.8,skullbase,2370,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+40,40,40,Skull base,HCA_BN_F12808061_and_HCA_BN_F12803237,HCA_BN_F12808061,Skull base,7.6,skullbase,2369,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+41,41,41,Skull base,HCA_BN_F12482359_and_HCA_BN_F12477271,HCA_BN_F12482359,Skull base,8.5,skullbase,2361,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+42,42,42,Skull base,HCA_BN_F12966456_and_HCA_BN_F12951832,HCA_BN_F12966456,Skull base,9.4,skullbase,2384,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+43,43,43,Skull base,HCA_BN_F12966460_and_HCA_BN_F12951836,HCA_BN_F12966460,Skull base,9.4,skullbase,2384,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+44,44,44,Skull base,HCA_BN_F12966461_and_HCA_BN_F12951837,HCA_BN_F12966461,Skull base,9.4,skullbase,2384,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+45,45,45,Skull base,HCA_BN_F13177437_and_HCA_BN_F13177210,HCA_BN_F13177437,Skull base,10.3,skullbase,2365,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+46,46,46,Skull base ,HCA_BN_F12482360_and_HCA_BN_F12477272,HCA_BN_F12482360,Skull base ,8.5,skullbase,2361,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+47,47,47,Skull base ,HCA_BN_F12482361_and_HCA_BN_F12477273,HCA_BN_F12482361,Skull base ,8.5,skullbase,2361,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+48,48,48,Skull base ,HCA_BN_F12482362_and_HCA_BN_F12477274,HCA_BN_F12482362,Skull base ,8.5,skullbase,2361,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+49,49,49,Skull base ,HCA_BN_F12966459_and_HCA_BN_F12951835,HCA_BN_F12966459,Skull base ,9.4,skullbase,2384,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,No,1,10x_multiome,,10X_multiome,Bone_Atlas
+50,50,50,Skull base ,HCA_BN_F13109714_and_HCA_BN_F13128942,HCA_BN_F13109714,Skull base ,"11.2,13",calvaria/skullbase,2372/16403,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+51,51,51,Skull base/Calvaria,HCA_BN_F13109715_and_HCA_BN_F13128943,HCA_BN_F13109715,Skull base/Calvaria,"11.2,13",calvaria/skullbase,2372/16403,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+52,52,52,Skull base/Calvaria,HCA_BN_F13109718_and_HCA_BN_F13128946,HCA_BN_F13109718,Skull base/Calvaria,"11.2,13",calvaria/skullbase,2372/16403,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+53,53,53,Skull base/Calvaria,HCA_BN_F13109719_and_HCA_BN_F13128947,HCA_BN_F13109719,Skull base/Calvaria,"11.2,13",calvaria/skullbase,2372/16403,10X_multiome,Total,E-MTAB-14385,To_et_al_2024,Yes,2,10x_multiome,,10X_multiome,Bone_Atlas
+54,54,54,Spine,40813_SB_200532_10841321,SB_200532_10841321,Spine,7,lumbar ,HDBR15918,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+55,55,55,Spine ,41025_SB_200532_10621989,SB_200532_10621989,Spine ,5,cervical ,HDBR15868,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+56,56,56,Spine ,41025_SB_200532_10621992,SB_200532_10621992,Spine ,5,cervical ,HDBR15868,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+57,57,57,Spine ,41025_SB_200532_10621990,SB_200532_10621990,Spine ,5,thoracic ,HDBR15868,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+58,58,58,Spine ,41025_SB_200532_10621991,SB_200532_10621991,Spine ,5,lumbar ,HDBR15868,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+59,59,59,Spine ,40813_SB_200532_10841322,SB_200532_10841322,Spine ,7,thoracic ,HDBR15918,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+60,60,60,Spine ,40813_SB_200532_10841323,SB_200532_10841323,Spine ,7,lumbar ,HDBR15918,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+61,61,61,Spine ,37295_SB_200532_10032965,SB_200532_10032965,Spine ,9,lumbar ,HDBR15961,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+62,62,62,Spine ,37295_SB_200532_10032967,SB_200532_10032967,Spine ,9,lumbar ,HDBR15961,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+63,63,63,Spine ,37295_SB_200532_10032966,SB_200532_10032966,Spine ,9,sacral,HDBR15961,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+64,64,64,Spine ,37295_SB_200532_10032968,SB_200532_10032968,Spine ,9,sacral ,HDBR15961,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+65,65,65,Spine ,37295_SB_200532_10032964,SB_200532_10032964,Spine ,9,thoracic ,HDBR15961,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+66,66,66,Spine ,37295_SB_200532_10032969,SB_200532_10032969,Spine ,9,thoracic ,HDBR15961,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+67,67,67,Spine ,40813_SB_200532_10841316,SB_200532_10841316,Spine ,9,cervical ,HDBR15916,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+68,68,68,Spine ,40813_SB_200532_10841317,SB_200532_10841317,Spine ,9,thoracic ,HDBR15916,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+69,69,69,Spine ,40813_SB_200532_10841318,SB_200532_10841318,Spine ,9,lumbar ,HDBR15916,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+70,70,70,Spine ,40813_SB_200532_10841319,SB_200532_10841319,Spine ,9,sacral,HDBR15916,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+71,71,71,Spine ,40813_SB_200532_10841320,SB_200532_10841320,Spine ,9,rib,HDBR15916,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+72,72,72,Spine ,39102_SB_200532_10297927,SB_200532_10297927,Spine ,10,disc,HDBR15837,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+73,73,73,Spine ,39102_SB_200532_10297933,SB_200532_10297933,Spine ,10,disc,HDBR15837,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+74,74,74,Spine ,39102_SB_200532_10297922,SB_200532_10297922,Spine ,10,cervical ,HDBR15837,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+75,75,75,Spine ,39102_SB_200532_10297928,SB_200532_10297928,Spine ,10,cervical ,HDBR15837,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+76,76,76,Spine ,39102_SB_200532_10297923,SB_200532_10297923,Spine ,10,thoracic ,HDBR15837,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+77,77,77,Spine ,39102_SB_200532_10297929,SB_200532_10297929,Spine ,10,thoracic ,HDBR15837,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+78,78,78,Spine ,39102_SB_200532_10297924,SB_200532_10297924,Spine ,10,thoracic ,HDBR15837,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+79,79,79,Spine ,39102_SB_200532_10297930,SB_200532_10297930,Spine ,10,thoracic ,HDBR15837,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+80,80,80,Spine ,39102_SB_200532_10297925,SB_200532_10297925,Spine ,10,lumbar ,HDBR15837,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+81,81,81,Spine ,39102_SB_200532_10297931,SB_200532_10297931,Spine ,10,lumbar ,HDBR15837,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+82,82,82,Spine ,39102_SB_200532_10297926,SB_200532_10297926,Spine ,10,sacral,HDBR15837,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+83,83,83,Spine ,39102_SB_200532_10297932,SB_200532_10297932,Spine ,10,sacral,HDBR15837,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+84,84,84,Spine ,42152_SB_200532_11254458,SB_200532_11254458,Spine ,12,cervical ,HDBR15982,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+85,85,85,Spine ,42152_SB_200532_11254463,SB_200532_11254463,Spine ,12,cervical ,HDBR15982,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+86,86,86,Spine ,42152_SB_200532_11254461,SB_200532_11254461,Spine ,12,lumbar ,HDBR15982,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+87,87,87,Spine ,42152_SB_200532_11254466,SB_200532_11254466,Spine ,12,lumbar ,HDBR15982,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+88,88,88,Spine ,42152_SB_200532_11254462,SB_200532_11254462,Spine ,12,sacral,HDBR15982,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+89,89,89,Spine ,42152_SB_200532_11254467,SB_200532_11254467,Spine ,12,sacral,HDBR15982,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+90,90,90,Spine ,42152_SB_200532_11254459,SB_200532_11254459,Spine ,12,thoracic ,HDBR15982,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+91,91,91,Spine ,42152_SB_200532_11254464,SB_200532_11254464,Spine ,12,thoracic ,HDBR15982,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+92,92,92,Spine ,42152_SB_200532_11254460,SB_200532_11254460,Spine ,12,thoracic ,HDBR15982,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+93,93,93,Spine ,42152_SB_200532_11254465,SB_200532_11254465,Spine ,12,thoracic ,HDBR15982,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+94,94,94,Spine ,41456_SB_200532_10863985,SB_200532_10863985,Spine ,13,cervical ,HDBR15927,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+95,95,95,Spine ,41456_SB_200532_10863991,SB_200532_10863991,Spine ,13,cervical ,HDBR15927,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+96,96,96,Spine ,41456_SB_200532_10863988,SB_200532_10863988,Spine ,13,lumbar ,HDBR15927,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+97,97,97,Spine ,41456_SB_200532_10863994,SB_200532_10863994,Spine ,13,lumbar ,HDBR15927,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+98,98,98,Spine ,41456_SB_200532_10863989,SB_200532_10863989,Spine ,13,sacral ,HDBR15927,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+99,99,99,Spine ,41456_SB_200532_10863995,SB_200532_10863995,Spine ,13,sacral ,HDBR15927,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+100,100,100,Spine ,41456_SB_200532_10863986,SB_200532_10863986,Spine ,13,thoracic ,HDBR15927,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+101,101,101,Spine ,41456_SB_200532_10863992,SB_200532_10863992,Spine ,13,thoracic ,HDBR15927,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+102,102,102,Spine ,41456_SB_200532_10863987,SB_200532_10863987,Spine ,13,thoracic ,HDBR15927,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+103,103,103,Spine ,41456_SB_200532_10863993,SB_200532_10863993,Spine ,13,thoracic ,HDBR15927,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+104,104,104,Spine ,41865_SB_200532_11018313,SB_200532_11018313,Spine ,17,cervical ,HDBR15948,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+105,105,105,Spine ,41865_SB_200532_11018314,SB_200532_11018314,Spine ,17,thoracic ,HDBR15948,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+106,106,106,Spine ,41865_SB_200532_11018315,SB_200532_11018315,Spine ,17,thoracic ,HDBR15948,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+107,107,107,Spine ,41865_SB_200532_11018316,SB_200532_11018316,Spine ,17,lumbar ,HDBR15948,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+108,108,108,Spine ,41865_SB_200532_11018317,SB_200532_11018317,Spine ,17,sacral ,HDBR15948,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+109,109,109,Spine ,41865_SB_200532_11018318,SB_200532_11018318,Spine ,17,DRG,HDBR15948,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+110,110,110,Spine ,41865_SB_200532_11018319,SB_200532_11018319,Spine ,17,cord ,HDBR15948,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+111,111,111,Spine ,41865_SB_200532_11018320,SB_200532_11018320,Spine ,17,cervical ,HDBR15948,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+112,112,112,Spine ,41865_SB_200532_11018321,SB_200532_11018321,Spine ,17,thoracic ,HDBR15948,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+113,113,113,Spine ,41865_SB_200532_11018322,SB_200532_11018322,Spine ,17,thoracic ,HDBR15948,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+114,114,114,Spine ,41865_SB_200532_11018323,SB_200532_11018323,Spine ,17,lumbar ,HDBR15948,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+115,115,115,Spine ,41865_SB_200532_11018324,SB_200532_11018324,Spine ,17,sacral,HDBR15948,10X_scRNA-seq,Total,EGAD00001009801,Lawrence_et_al_2024,No,1,10x3'v2,,3GEX,Bone_Atlas
+116,116,116,Limb,SRR10901267,GSM4274188,Limb,5,Limb bud,GSM4274188,10X_scRNA-seq,Total,GSE143753,He_et_al_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+117,117,117,Limb,SRR10901268,GSM4274189,Limb,5,Limb bud,GSM4274189,10X_scRNA-seq,Total,GSE143754,He_et_al_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+118,118,118,Long bone,SRR10901269,GSM4274190,Long bone,5,Limb bud,GSM4274190,10X_scRNA-seq,Total,GSE143755,He_et_al_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+119,119,119,Long bone,SRR10901270,GSM4274191,Long bone,8,Long bone,GSM4274191,10X_scRNA-seq,Total,GSE143756,He_et_al_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+120,120,120,Long bone,SRR10901271,GSM4274192,Long bone,8,Long bone,GSM4274192,10X_scRNA-seq,Total,GSE143757,He_et_al_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+124,124,124,Long bone,SRR10901275,GSM4274193,Long bone,8,Long bone,GSM4274193,10X_scRNA-seq,Total,GSE143761,He_et_al_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+125,125,125,Calvaria ,SRR10901276,GSM4274194,Calvaria ,8,Calvarial bone,GSM4274194,10X_scRNA-seq,Total,GSE143762,He_et_al_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+126,126,126,Calvaria ,SRR11977450,GSM4609136,Calvaria ,8,Calvarial bone,GSM4609136,10X_scRNA-seq,Total,GSE143763,He_et_al_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+130,130,130,Femur ,5386STDY7537944,5386STDY7537944,Femur ,5.1,Hindlimb,BRC¬†2078.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+131,131,131,Femur ,5478STDY7717491,5478STDY7717491,Femur ,5.4,Hindlimb,BRC¬†2131.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+132,132,132,Femur ,5478STDY7717492,5478STDY7717492,Femur ,5.4,Hindlimb,BRC¬†2131.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+133,133,133,Femur ,5478STDY7652318,5478STDY7652318,Femur ,6.5,Hindlimb,BRC¬†2114.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+134,134,134,Femur ,5386STDY7557336,5386STDY7557336,Femur ,7.2,Hindlimb,BRC¬†2092.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+135,135,135,Femur ,5386STDY7557337,5386STDY7557337,Femur ,7.2,Hindlimb,BRC¬†2092.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+136,136,136,Femur ,5386STDY7557335,5386STDY7557335,Femur ,8,Hindlimb,BRC¬†2091.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+137,137,137,Femur ,FCAImmP7536758,FCAImmP7536758,Femur ,8.4,Hindlimb,BRC¬†2083.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+138,138,138,Femur ,FCAImmP7536759,FCAImmP7536759,Femur ,8.4,Hindlimb,BRC¬†2083.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+139,139,139,Femur ,5478STDY7980348,5478STDY7980348,Femur ,9,Hindlimb,BRC¬†2181.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+140,140,140,Femur ,5478STDY7980349,5478STDY7980349,Femur ,9,Hindlimb,BRC¬†2181.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+141,141,141,Femur ,5478STDY7935101,5478STDY7935101,Femur ,9.3,Hindlimb,BRC¬†2172.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+142,142,142,Femur ,5478STDY7935102,5478STDY7935102,Femur ,9.3,Hindlimb,BRC¬†2173.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+143,143,143,Forelimb,WSSS_THYst9384953,WSSS_THYst9384953,Forelimb,5.6,Distal_Forelimb,BRC¬†2254.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x5'v1,,3GEX,Bone_Atlas
+144,144,144,Forelimb,WSSS_THYst9384954,WSSS_THYst9384954,Forelimb,5.6,Middle_Forelimb,BRC¬†2254.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x5'v1,,3GEX,Bone_Atlas
+145,145,145,Forelimb,WSSS_THYst9384955,WSSS_THYst9384955,Forelimb,5.6,Proximal_Forelimb,BRC¬†2254.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x5'v1,,3GEX,Bone_Atlas
+146,146,146,Femur ,WSSS_THYst9384956,WSSS_THYst9384956,Femur ,5.6,Distal_Hindlimb,BRC¬†2254.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x5'v1,,3GEX,Bone_Atlas
+147,147,147,Femur ,WSSS_THYst9384957,WSSS_THYst9384957,Femur ,5.6,Middle_Hindlimb,BRC¬†2254.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x5'v1,,3GEX,Bone_Atlas
+148,148,148,Femur ,WSSS_THYst9384958,WSSS_THYst9384958,Femur ,5.6,Proximal_Hindlimb,BRC¬†2254.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x5'v1,,3GEX,Bone_Atlas
+149,149,149,Femur ,WSSS_THYst8796437,WSSS_THYst8796437,Femur ,6.1,Proximal_Forelimb,BRC¬†2243.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+150,150,150,Forelimb,WSSS_THYst8796438,WSSS_THYst8796438,Forelimb,6.1,Middle_Forelimb,BRC¬†2243.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+151,151,151,Forelimb,WSSS_THYst8796439,WSSS_THYst8796439,Forelimb,6.1,Distal_Forelimb,BRC¬†2243.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+152,152,152,Forelimb,WSSS_THYst8796440,WSSS_THYst8796440,Forelimb,6.1,Proximal_Hindlimb,BRC¬†2243.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+153,153,153,Forelimb,WSSS_THYst8796441,WSSS_THYst8796441,Forelimb,6.1,Middle_Forelimb,BRC¬†2243.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+154,154,154,Femur ,WSSS_THYst8796442,WSSS_THYst8796442,Femur ,6.1,Distal_Hindlimb,BRC¬†2243.00,10X_scRNA-seq,Total,E-MTAB-8813,Zhang_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+155,155,155,Femur,WSSS_F_BON8710636,WSSS_F_BON8710636,Femur,19,Femur,SB19PCW,10X_scRNA-seq,Total,ERP125305,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+156,156,156,Femur,WSSS_F_BON8710637,WSSS_F_BON8710637,Femur,19,Femur,SB19PCW,10X_scRNA-seq,Total,ERP125305,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+157,157,157,Femur,WSSS_F_BON8710638,WSSS_F_BON8710638,Femur,19,Femur,SB19PCW,10X_scRNA-seq,Total,ERP125305,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+158,158,158,Femur,WSSS_F_BON8710639,WSSS_F_BON8710639,Femur,19,Femur,SB19PCW,10X_scRNA-seq,Total,ERP125305,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+159,159,159,Femur,WSSS_F_BON8710640,WSSS_F_BON8710640,Femur,19,Femur,SB19PCW,10X_scRNA-seq,Total,ERP125305,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+160,160,160,Femur,WSSS_F_BON8710641,WSSS_F_BON8710641,Femur,19,Femur,SB19PCW,10X_scRNA-seq,Total,ERP125305,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+161,161,161,Femur,WSSS_F_BON8710642,WSSS_F_BON8710642,Femur,19,Femur,SB19PCW,10X_scRNA-seq,Total,ERP125305,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+162,162,162,Femur,WSSS_F_BON8710643,WSSS_F_BON8710643,Femur,19,Femur,SB19PCW,10X_scRNA-seq,Total,ERP125305,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+163,163,163,Femur,FCAImmP7803028,FCAImmP7803028,Femur,15,Femur,F51,10X_scRNA-seq,CD45+,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+164,164,164,Femur,FCAImmP7803029,FCAImmP7803029,Femur,15,Femur,F51,10X_scRNA-seq,CD45+,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+165,165,165,Femur,FCAImmP7803030,FCAImmP7803030,Femur,15,Femur,F51,10X_scRNA-seq,CD45+,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+166,166,166,Femur,FCAImmP7803031,FCAImmP7803031,Femur,15,Femur,F51,10X_scRNA-seq,CD45-,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+167,167,167,Femur,FCAImmP7803032,FCAImmP7803032,Femur,15,Femur,F51,10X_scRNA-seq,CD45-,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+168,168,168,Femur,FCAImmP7803033,FCAImmP7803033,Femur,15,Femur,F51,10X_scRNA-seq,CD45-,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+169,169,169,Femur,FCAImmP7803016,FCAImmP7803016,Femur,15,Femur,F50,10X_scRNA-seq,CD45+,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+170,170,170,Femur,FCAImmP7803017,FCAImmP7803017,Femur,15,Femur,F50,10X_scRNA-seq,CD45+,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+171,171,171,Femur,FCAImmP7803018,FCAImmP7803018,Femur,15,Femur,F50,10X_scRNA-seq,CD45-,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+172,172,172,Femur,FCAImmP7803019,FCAImmP7803019,Femur,15,Femur,F50,10X_scRNA-seq,CD45-,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+173,173,173,Femur,FCAImmP7579220,FCAImmP7579220,Femur,12,Femur,F45,10X_scRNA-seq,CD45+,E-MTAB-9389,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+174,174,174,Femur,FCAImmP7579221,FCAImmP7579221,Femur,12,Femur,F45,10X_scRNA-seq,CD45-,E-MTAB-9389,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+175,175,175,Femur,FCAImmP7579232,FCAImmP7579232,Femur,12,Femur,F45,10X_scRNA-seq,CD45+,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+176,176,176,Femur,FCAImmP7579233,FCAImmP7579233,Femur,12,Femur,F45,10X_scRNA-seq,CD45-,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+177,177,177,Femur,FCAImmP7555853,FCAImmP7555853,Femur,16,Femur,F41,10X_scRNA-seq,CD45+,E-MTAB-9389,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+178,178,178,Femur,FCAImmP7555854,FCAImmP7555854,Femur,16,Femur,F41,10X_scRNA-seq,CD45-,E-MTAB-9389,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+179,179,179,Femur,FCAImmP7555862,FCAImmP7555862,Femur,16,Femur,F41,10X_scRNA-seq,CD45+,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+180,180,180,Femur,FCAImmP7555855,FCAImmP7555855,Femur,16,Femur,F41,10X_scRNA-seq,CD45-,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+181,181,181,Femur,FCAImmP7528281,FCAImmP7528281,Femur,13,Femur,F38,10X_scRNA-seq,CD45+,E-MTAB-9389,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+182,182,182,Femur,FCAImmP7528282,FCAImmP7528282,Femur,13,Femur,F38,10X_scRNA-seq,CD45-,E-MTAB-9389,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+183,183,183,Femur,FCAImmP7277566,FCAImmP7277566,Femur,14,Femur,F30,10X_scRNA-seq,CD45+,E-MTAB-9389,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+184,184,184,Femur,FCAImmP7277567,FCAImmP7277567,Femur,14,Femur,F30,10X_scRNA-seq,CD45-,E-MTAB-9389,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+185,185,185,Femur,FCAImmP7292035,FCAImmP7292035,Femur,14,Femur,F30,10X_scRNA-seq,Total,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+186,186,186,Femur,FCAImmP7277558,FCAImmP7277558,Femur,17,Femur,F29,10X_scRNA-seq,CD45+,E-MTAB-9389,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+187,187,187,Femur,FCAImmP7277559,FCAImmP7277559,Femur,17,Femur,F29,10X_scRNA-seq,CD45-,E-MTAB-9389,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+188,188,188,Femur,FCAImmP7292031,FCAImmP7292031,Femur,17,Femur,F29,10X_scRNA-seq,Total,E-MTAB-9389,Jardine_Webb_2021,No,1,10x5'v1,,5GEX,Bone_Atlas
+189,189,189,Femur,FCAImmP7179367,FCAImmP7179367,Femur,16,Femur,F21,10X_scRNA-seq,CD45+,E-MTAB-9389,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+190,190,190,Femur,FCAImmP7179368,FCAImmP7179368,Femur,16,Femur,F21,10X_scRNA-seq,CD45-,E-MTAB-9389,Jardine_Webb_2021,No,1,10x3'v2,,3GEX,Bone_Atlas
+191,191,191,Femur,5478STDY7819844,5478STDY7819844,Femur,7,left proximal femur,C30,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+192,192,192,Femur ,5478STDY7819845,5478STDY7819845,Femur ,7,left distal femur,C30,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+193,193,193,Femur ,5478STDY7819846,5478STDY7819846,Femur ,7,right proximal femur,C30,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+194,194,194,Femur ,5478STDY7819847,5478STDY7819847,Femur ,7,right distal femur,C30,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+195,195,195,Tibia,5478STDY7819848,5478STDY7819848,Tibia,7,right proximal tibia,C30,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+196,196,196,Tibia,5478STDY7819849,5478STDY7819849,Tibia,7,right distal tibia,C30,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+197,197,197,Femur,5478STDY7840021,5478STDY7840021,Femur,6,left femur,C31,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+198,198,198,Tibia ,5478STDY7840022,5478STDY7840022,Tibia ,6,left tibia,C31,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+199,199,199,Femur ,5478STDY7840023,5478STDY7840023,Femur ,6,right femur,C31,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+200,200,200,Tibia ,5478STDY7840024,5478STDY7840024,Tibia ,6,right tibia,C31,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+201,201,201,Femur ,5478STDY7850142,5478STDY7850142,Femur ,7,left proximal femur,C32,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+202,202,202,Femur ,5478STDY7850143,5478STDY7850143,Femur ,7,left distal femur,C32,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+203,203,203,Tibia ,5478STDY7850144,5478STDY7850144,Tibia ,7,left tibia,C32,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+204,204,204,Fibula,5478STDY7850145,5478STDY7850145,Fibula,7,left fibuka,C32,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+205,205,205,Femur ,5478STDY7850146,5478STDY7850146,Femur ,7,right proximal femur,C32,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+206,206,206,Femur ,5478STDY7850147,5478STDY7850147,Femur ,7,right distal femur,C32,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+207,207,207,Tibia ,5478STDY7850148,5478STDY7850148,Tibia ,7,right tibia,C32,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas
+208,208,208,Fibula,5478STDY7850149,5478STDY7850149,Fibula,7,right fibula,C32,10X_scRNA-seq,Total,EGAD00001011306,Lawrence_et_al_2023,No,1,10x3'v2,,3GEX,Bone_Atlas

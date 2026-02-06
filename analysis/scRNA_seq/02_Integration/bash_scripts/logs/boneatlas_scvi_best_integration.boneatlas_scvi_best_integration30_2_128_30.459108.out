@@ -1,0 +1,63 @@
+** Using custom python for this environment
+python=3.10.12 scvi=1.1.2 torch=2.3.0+cu121
+WARNING: adata.X seems to be already log-transformed.
+/env/lib/python3.10/site-packages/scvi/model/_scvi.py:155: UserWarning: This dataset has some empty cells, this might fail inference.Data should be filtered with `scanpy.pp.filter_cells()`
+  library_log_means, library_log_vars = _init_library_size(
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+You are using a CUDA device ('NVIDIA H100 80GB HBM3') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+/env/lib/python3.10/site-packages/lightning/pytorch/trainer/connectors/data_connector.py:441: The 'train_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=7` in the `DataLoader` to improve performance.
+Training:   0%|          | 0/5 [00:00<?, ?it/s]Epoch 1/5:   0%|          | 0/5 [00:00<?, ?it/s]Epoch 1/5:  20%|██        | 1/5 [01:07<04:30, 67.59s/it]Epoch 1/5:  20%|██        | 1/5 [01:07<04:30, 67.59s/it, v_num=1, train_loss_step=1.95, train_loss_epoch=2.02]Epoch 2/5:  20%|██        | 1/5 [01:07<04:30, 67.59s/it, v_num=1, train_loss_step=1.95, train_loss_epoch=2.02]Epoch 2/5:  40%|████      | 2/5 [02:14<03:22, 67.44s/it, v_num=1, train_loss_step=1.95, train_loss_epoch=2.02]Epoch 2/5:  40%|████      | 2/5 [02:14<03:22, 67.44s/it, v_num=1, train_loss_step=26.3, train_loss_epoch=1.83]Epoch 3/5:  40%|████      | 2/5 [02:14<03:22, 67.44s/it, v_num=1, train_loss_step=26.3, train_loss_epoch=1.83]Epoch 3/5:  60%|██████    | 3/5 [03:22<02:15, 67.50s/it, v_num=1, train_loss_step=26.3, train_loss_epoch=1.83]Epoch 3/5:  60%|██████    | 3/5 [03:22<02:15, 67.50s/it, v_num=1, train_loss_step=1.58, train_loss_epoch=1.83]Epoch 4/5:  60%|██████    | 3/5 [03:22<02:15, 67.50s/it, v_num=1, train_loss_step=1.58, train_loss_epoch=1.83]Epoch 4/5:  80%|████████  | 4/5 [04:30<01:07, 67.73s/it, v_num=1, train_loss_step=1.58, train_loss_epoch=1.83]Epoch 4/5:  80%|████████  | 4/5 [04:30<01:07, 67.73s/it, v_num=1, train_loss_step=1.24, train_loss_epoch=1.82]Epoch 5/5:  80%|████████  | 4/5 [04:30<01:07, 67.73s/it, v_num=1, train_loss_step=1.24, train_loss_epoch=1.82]Epoch 5/5: 100%|██████████| 5/5 [05:37<00:00, 67.59s/it, v_num=1, train_loss_step=1.24, train_loss_epoch=1.82]Epoch 5/5: 100%|██████████| 5/5 [05:37<00:00, 67.59s/it, v_num=1, train_loss_step=1.48, train_loss_epoch=1.83]`Trainer.fit` stopped: `max_epochs=5` reached.
+Epoch 5/5: 100%|██████████| 5/5 [05:37<00:00, 67.59s/it, v_num=1, train_loss_step=1.48, train_loss_epoch=1.83]
+/env/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:427: UserWarning: Exited at iteration 792 with accuracies 
+[3.15053624e-15 1.35115361e-05 3.15339355e-05 1.97814446e-05]
+not reaching the requested tolerance 2.1070241928100586e-05.
+Use iteration 700 instead with accuracy 
+1.2299839071071689e-05.
+
+  _, diffusion_map = lobpcg(
+/env/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:427: UserWarning: Exited postprocessing with accuracies 
+[2.66811272e-15 1.30279316e-05 1.35585189e-05 2.26129058e-05]
+not reaching the requested tolerance 2.1070241928100586e-05.
+  _, diffusion_map = lobpcg(
+Model, embeddings, and outputs saved for n_latent=30, n_layers=2, n_hidden=128, n_hvg=30
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@qpg-gpu-02>
+Subject: Job 459108: <module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/08_batch_correction_scvi_bone_atlas_best_integration.py                 --n_latent 30                 --n_layers 2                 --n_hidden 128                 --n_hvg 30> in cluster <farm22> Done
+
+Job <module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/08_batch_correction_scvi_bone_atlas_best_integration.py                 --n_latent 30                 --n_layers 2                 --n_hidden 128                 --n_hvg 30> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Wed Jul 16 03:01:13 2025
+Job was executed on host(s) <8*qpg-gpu-02>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Wed Jul 16 09:48:44 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/users/nfs_s/sm54/nfs_sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Wed Jul 16 09:48:44 2025
+Terminated at Wed Jul 16 11:00:22 2025
+Results reported at Wed Jul 16 11:00:22 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/08_batch_correction_scvi_bone_atlas_best_integration.py                 --n_latent 30                 --n_layers 2                 --n_hidden 128                 --n_hvg 30
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   7587.00 sec.
+    Max Memory :                                 183620 MB
+    Average Memory :                             98917.68 MB
+    Total Requested Memory :                     300000.00 MB
+    Delta Memory :                               116380.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                88
+    Run time :                                   4288 sec.
+    Turnaround time :                            28749 sec.
+
+The output (if any) is above this job summary.
+

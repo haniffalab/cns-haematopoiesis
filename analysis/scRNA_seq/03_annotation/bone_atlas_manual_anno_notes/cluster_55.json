@@ -1,0 +1,17 @@
+{
+  "cluster": 55,
+  "provisional_label": "Cycling neuroectodermal progenitor (Notch+/cell-cycle+)",
+  "top_genes": [
+    "FTH1",
+    "FTL",
+    "TMSB15A",
+    "PCLAF",
+    "UBE2C",
+    "PTTG1",
+    "TYMS",
+    "BIRC5",
+    "TOP2A",
+    "CCNB1"
+  ],
+  "notes": "Cell-cycle and Notch/neuronal programs co-expressed; progenitor-like."
+}

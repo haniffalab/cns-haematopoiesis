@@ -1,0 +1,45 @@
+** Using custom python for this environment
+python=3.10.12 scvi=1.1.2 torch=2.3.0+cu121
+usage: 10_batch_correction_scvi_haem_best_integration.py [-h] --n_latent
+                                                         N_LATENT --n_layers
+                                                         N_LAYERS --n_hidden
+                                                         N_HIDDEN --n_hvg
+                                                         N_HVG
+10_batch_correction_scvi_haem_best_integration.py: error: argument --n_latent: invalid int value: '10,20,30'
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@farm22-gpu0302>
+Subject: Job 607400: <module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/10_batch_correction_scvi_haem_best_integration.py                  --n_latent 10,20,30                 --n_layers 3                 --n_hidden 128                 --n_hvg 3000,5000> in cluster <farm22> Exited
+
+Job <module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/10_batch_correction_scvi_haem_best_integration.py                  --n_latent 10,20,30                 --n_layers 3                 --n_hidden 128                 --n_hvg 3000,5000> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Tue Sep 16 02:14:43 2025
+Job was executed on host(s) <8*farm22-gpu0302>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Tue Sep 16 02:14:44 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Tue Sep 16 02:14:44 2025
+Terminated at Tue Sep 16 02:15:06 2025
+Results reported at Tue Sep 16 02:15:06 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/10_batch_correction_scvi_haem_best_integration.py                  --n_latent 10,20,30                 --n_layers 3                 --n_hidden 128                 --n_hvg 3000,5000
+------------------------------------------------------------
+
+Exited with exit code 2.
+
+Resource usage summary:
+
+    CPU time :                                   18.00 sec.
+    Max Memory :                                 362 MB
+    Average Memory :                             234.20 MB
+    Total Requested Memory :                     100000.00 MB
+    Delta Memory :                               99638.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                30
+    Run time :                                   22 sec.
+    Turnaround time :                            23 sec.
+
+The output (if any) is above this job summary.
+

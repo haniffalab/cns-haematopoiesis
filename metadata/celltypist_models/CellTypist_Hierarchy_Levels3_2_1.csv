@@ -1,0 +1,537 @@
+,Level1,Level2,Level3
+0,Stroma,Fibroblast,ADH+ fibroblast
+1,Stroma,Endothelial,AGM endothelial cells
+2,Stroma,Epithelial,AGM epithelial cells
+3,Erythroid,Erythroid,AGM erythroid cells
+4,Haematopoietic,Haematopoietic,AGM haematopoietic cells
+5,Stroma,Stroma,AGM stromal cells
+6,Mesenchymal,Mesenchymal,ALX1+ mesenchymal cells
+7,Haematopoietic,Myeloid,APOE+ macrophage
+8,Mesenchymal,Chondrocyte,ASPN+ chondrocytes
+9,Stroma,Epithelial,AT1
+10,Stroma,Epithelial,AT2
+11,Haematopoietic,Myeloid,AXL+ and SIGLEC6+ DCs
+12,Stroma,Epithelial,Acinar cells
+13,Haematopoietic,Lymphoid,Activated CD16+ NK
+14,Stroma,Fibroblast,Adventitial fibroblast
+15,Stroma,Epithelial,Aerocyte
+16,Stroma,Fibroblast,Airway fibroblast
+17,Stroma,Fibroblast,Alveolar fibroblast
+18,Neural,Neural,Amacrine cells
+19,Stroma,Epithelial,Apical ectoderm region basal cells
+20,Stroma,Epithelial,Arachnoid barrier cells
+21,Stroma,Endothelial,Arterial endothelial cells
+22,Mesenchymal,Chondrocyte,Articular chondrocytes
+23,Neural,Neural,Astrocytes
+24,Haematopoietic,Lymphoid,B1 cells
+25,Stroma,Epithelial,Basal cells
+26,Haematopoietic,Myeloid,Basophil
+27,Neural,Neural,Bipolar cells
+28,Mesenchymal,Muscle,Bladder SMC
+29,Erythroid,Erythroid,Brain erythrocytes
+30,Stroma,Fibroblast,Brain fibroblasts
+31,Haematopoietic,Haematopoietic,Brain immune cells
+32,Neural,Neural,Brain neuroblast
+33,Neural,Neural,Brain neuron
+34,Neural,Neural,Brain neuronal IPC
+35,Stroma,Epithelial,Brain placode cells
+36,Neural,Neural,Brain radial glia
+37,Stroma,Endothelial,Brain vascular cells
+38,Stroma,Epithelial,Bud tip adjacent cells
+39,Stroma,Epithelial,Bud tip progenitor
+40,Haematopoietic,Lymphoid,CD16+ NK
+41,Haematopoietic,Lymphoid,CD4 T
+42,Haematopoietic,Lymphoid,CD5+ CCL22+ mature B
+43,Haematopoietic,Lymphoid,CD5+ CCL22- mature B
+44,Haematopoietic,Lymphoid,CD5- mature B
+45,Haematopoietic,Lymphoid,CD56 bright NK
+46,Haematopoietic,Lymphoid,CD8 T
+47,Haematopoietic,Lymphoid,CD8AA
+48,Haematopoietic,Progenitor,CMP
+49,Neural,Neural,COL20A1+ Schwann cells
+50,Haematopoietic,Myeloid,CXCL9+ macrophage
+51,Stroma,Endothelial,Capillary coronary endothelial cells
+52,Stroma,Epithelial,Capsular cells
+53,Neural,Neural,Cerebellum glioblast
+54,Haematopoietic,Haematopoietic,Cerebellum immune cells
+55,Mesenchymal,Mesenchymal,Cerebellum neural crest cells
+56,Neural,Neural,Cerebellum neuroblast
+57,Neural,Neural,Cerebellum neuron
+58,Neural,Neural,Cerebellum neuronal IPC
+59,Neural,Neural,Cerebellum oligodendrocyte precursor cells
+60,Neural,Neural,Cerebellum radial glia
+61,Mesenchymal,Chondrocyte,Chondroblasts
+62,Mesenchymal,Chondrocyte,Chondroprogenitors
+63,Stroma,Endocrine,Chromaffin cells
+64,Neural,Neural,Chromaffin-like fetal neuronal cells
+65,Stroma,Epithelial,Ciliary margin
+66,Haematopoietic,Myeloid,Classical monocytes
+67,Stroma,Epithelial,Club cells
+68,Stroma,Epithelial,Coelomic epithelial cells
+69,Stroma,Epithelial,Conjunctival epithelial cells
+70,Stroma,Endothelial,Corneal blood vessel endothelial cells
+71,Stroma,Endothelial,Corneal endothelial cells
+72,Stroma,Endothelial,Corneal endothelial progenitors
+73,Stroma,Epithelial,Corneal epithelial cells
+74,Stroma,Endothelial,Corneal lymphatic vessel endothelial cells
+75,Neural,Neural,Corneal nerve cells
+76,Stroma,Endothelial,Corneal proliferating endothelial cells
+77,Stroma,Epithelial,Corneal proliferating progenitors
+78,Stroma,Epithelial,Corneal stroma keratocytes
+79,Mesenchymal,Muscle,Coronary SMC
+80,Stroma,Endothelial,Coronary arterial endothelial cells
+81,Stroma,Stroma,Coronary pericytes
+82,Neural,Neural,Cortex glioblast
+83,Haematopoietic,Haematopoietic,Cortex immune cells
+84,Neural,Neural,Cortex neuroblast
+85,Neural,Neural,Cortex neuron
+86,Neural,Neural,Cortex neuronal IPC
+87,Neural,Neural,Cortex oligodendrocyte precursor cells
+88,Neural,Neural,Cortex radial glia
+89,Stroma,Epithelial,Corticotropic cells
+90,Haematopoietic,Lymphoid,Cycling B cells
+91,Haematopoietic,Myeloid,Cycling DC
+92,Haematopoietic,Lymphoid,Cycling ILC
+93,Haematopoietic,Progenitor,Cycling MEMP
+94,Haematopoietic,Progenitor,Cycling MPP
+95,Haematopoietic,Lymphoid,Cycling NK
+96,Haematopoietic,Lymphoid,Cycling T
+97,Erythroid,Erythroid,Cycling definitive erythroblast
+98,Stroma,Epithelial,Cycling epithelial cells
+99,Mesenchymal,Muscle,Cycling fetal atrial cardiomyocyte
+100,Mesenchymal,Muscle,Cycling fetal ventricular cardiomyocyte
+101,Stroma,Fibroblast,Cycling fibroblast
+102,Mesenchymal,Muscle,Cycling myoprogenitors
+103,Haematopoietic,Myeloid,Cycling pDC
+104,Mesenchymal,Mesenchymal,Cycling spine mesenchymal cells
+105,Erythroid,Erythroid,Cycling yolk sac-derived erythrocytes
+106,Haematopoietic,Progenitor,DC progenitor
+107,Haematopoietic,Myeloid,DC1
+108,Haematopoietic,Myeloid,DC2
+109,Haematopoietic,Progenitor,DC2 precursor
+110,Haematopoietic,Myeloid,DC3
+111,Erythroid,Erythroid,Definitive erythroblast
+112,Erythroid,Erythroid,Definitive erythrocytes
+113,Erythroid,Erythroid,Definitive reticulocyte
+114,Stroma,Fibroblast,Dermal fibroblasts
+115,Stroma,Epithelial,Deuterosomal cells
+116,Stroma,Stroma,Developing nephron
+117,Neural,Neural,Diencephalon glioblast
+118,Haematopoietic,Haematopoietic,Diencephalon immune cells
+119,Neural,Neural,Diencephalon neuroblast
+120,Neural,Neural,Diencephalon neuron
+121,Neural,Neural,Diencephalon neuronal IPC
+122,Neural,Neural,Diencephalon radial glia
+123,Neural,Neural,Dorsal midbrain glioblast
+124,Haematopoietic,Haematopoietic,Dorsal midbrain immune cells
+125,Neural,Neural,Dorsal midbrain neuroblast
+126,Neural,Neural,Dorsal midbrain neuron
+127,Stroma,Epithelial,Dorsal midbrain neuronal IPC
+128,Neural,Neural,Dorsal midbrain oligodendrocyte precursor cells
+129,Neural,Neural,Dorsal midbrain radial glia
+130,Neural,Neural,Dorsal root ganglion neurons
+131,Stroma,Epithelial,Ductal cells
+132,Stroma,Epithelial,ECM-producing fetal cardiomyocyte
+133,Mesenchymal,Chondrocyte,EPYC+ chondrocytes
+134,Haematopoietic,MK,Early MK
+135,Neural,Neural,Early Schwann cells
+136,Stroma,Epithelial,Early airway progenitor
+137,Stroma,Endothelial,Early capillary endothelial cells
+138,Haematopoietic,Lymphoid,Early double-negative thymocytes
+139,Erythroid,Erythroid,Early erythroid
+140,Stroma,Fibroblast,Early fibroblast
+141,Stroma,Epithelial,Early gonadal somatic cells
+142,Stroma,Epithelial,Early mesothelial cells
+143,Stroma,Epithelial,Early osteoblasts
+144,Neural,Neural,Early retinal glia
+145,Stroma,Epithelial,Early stalk cells
+146,Stroma,Epithelial,Early supporting gonadal cells
+147,Stroma,Epithelial,Early supporting-like PAX8+ cells
+148,Neural,Neural,Early sympathetic neurons
+149,Stroma,Epithelial,Early tip progenitor
+150,Stroma,Endothelial,Endocardial endothelial cells
+151,Stroma,Endocrine,Endocrine progenitor 1
+152,Stroma,Endocrine,Endocrine progenitor 2
+153,Stroma,Endocrine,Endocrine progenitor 3
+154,Stroma,Endocrine,Endocrine progenitor 4
+155,Stroma,Endothelial,Endothelial cells
+156,Stroma,Endocrine,Enteroendocrine cells
+157,Haematopoietic,Myeloid,Eosinophil
+158,Haematopoietic,Myeloid,Eosinophil_basophil
+159,Stroma,Fibroblast,Epicardial fibroblast
+160,Stroma,Epithelial,Epicardial mesothelial cells
+161,Stroma,Epithelial,Epithelial basement membrane
+162,Stroma,Epithelial,Epithelial cells
+163,Erythroid,Erythroid,Erythrocyte progenitors
+164,Stroma,Fibroblast,F10+ dermal fibroblast precursors
+165,Neural,Neural,FGFBP2+ neural progenitor
+166,Stroma,Endocrine,Fetal Leydig cells
+167,Mesenchymal,Muscle,Fetal atrial cardiomyocyte
+168,Neural,Neural,Fetal neuronal progenitor
+169,Neural,Neural,Fetal satellite glial cells
+170,Neural,Neural,Fetal satellite glial progenitor
+171,Mesenchymal,Muscle,Fetal ventricular cardiomyocyte
+172,Stroma,Fibroblast,Fibroblastic corneal endothelial cells
+173,Stroma,Fibroblast,Fibroblasts
+174,Stroma,Epithelial,Floor plate cells
+175,Neural,Neural,Forebrain glioblast
+176,Haematopoietic,Haematopoietic,Forebrain immune cells
+177,Mesenchymal,Mesenchymal,Forebrain neural crest cells
+178,Neural,Neural,Forebrain neuroblast
+179,Neural,Neural,Forebrain neuron
+180,Stroma,Epithelial,Forebrain neuronal IPC
+181,Neural,Neural,Forebrain oligodendrocyte precursor cells
+182,Neural,Neural,Forebrain radial glia
+183,Stroma,Endocrine,GHRL+ neuroendocrine cells
+184,Stroma,Endocrine,GHRL+ neuroendocrine precursor
+185,Haematopoietic,Progenitor,GMP
+186,Stroma,Epithelial,Gastrointestinal epithelial cells
+187,Gonadal,Gonadal,Germ cells
+188,Gonadal,Gonadal,Gonadal interstitial cells
+189,Gonadal,Gonadal,Gonadotropic cells
+190,Gonadal,Gonadal,Granulosa cells
+191,Mesenchymal,Muscle,Great vessel SMC
+192,Stroma,Endothelial,Great vessel endothelial cells
+193,Stroma,Endothelial,Great vessel progenitors
+194,Mesenchymal,Mesenchymal,HIC1+ mesenchymal cells
+195,Erythroid,Erythroid,HMOX1+ primitive erythroblast
+196,Stroma,Fibroblast,HOXC5+ dermal fibroblast precursors
+197,Haematopoietic,Progenitor,HSC/ELP
+198,Haematopoietic,Progenitor,HSC/MPP
+199,Haematopoietic,Haematopoietic,Head immune cells
+200,Mesenchymal,Mesenchymal,Head neural crest cells
+201,Neural,Neural,Head neuroblast
+202,Neural,Neural,Head neuron
+203,Neural,Neural,Head radial glia
+204,Liver,Liver,Hepatocyte
+205,Liver,Liver,Hepatocyte-like cells
+206,Neural,Neural,Hindbrain glioblast
+207,Haematopoietic,Haematopoietic,Hindbrain immune cells
+208,Mesenchymal,Mesenchymal,Hindbrain neural crest cells
+209,Neural,Neural,Hindbrain neuroblast
+210,Neural,Neural,Hindbrain neuron
+211,Neural,Neural,Hindbrain neuronal IPC
+212,Neural,Neural,Hindbrain oligodendrocyte precursor cells
+213,Neural,Neural,Hindbrain radial glia
+214,Neural,Neural,Hippocampus glioblast
+215,Haematopoietic,Haematopoietic,Hippocampus immune cells
+216,Neural,Neural,Hippocampus neuroblast
+217,Neural,Neural,Hippocampus neuron
+218,Neural,Neural,Hippocampus neuronal IPC
+219,Neural,Neural,Hippocampus oligodendrocyte precursor cells
+220,Neural,Neural,Hippocampus radial glia
+221,Neural,Neural,Horizontal cells
+222,Pancreatic,Pancreatic,Hub cells
+223,Mesenchymal,Chondrocyte,Hypertrophic chondrocytes
+224,Stroma,Epithelial,Hypothalamus glioblast
+225,Haematopoietic,Haematopoietic,Hypothalamus immune cells
+226,Neural,Neural,Hypothalamus neuroblast
+227,Neural,Neural,Hypothalamus neuron
+228,Neural,Neural,Hypothalamus neuronal IPC
+229,Neural,Neural,Hypothalamus oligodendrocyte precursor cells
+230,Neural,Neural,Hypothalamus radial glia
+231,Haematopoietic,Lymphoid,ILC2
+232,Haematopoietic,Lymphoid,ILC3
+233,Haematopoietic,Lymphoid,ILCP
+234,Haematopoietic,Lymphoid,Immature B
+235,Mesenchymal,Mesenchymal,Inner progress zone cells
+236,Haematopoietic,Lymphoid,Intermediate NK
+237,Mesenchymal,Chondrocyte,Intermediate limb chondrocytes
+238,Mesenchymal,Chondrocyte,Intermediate lung chondrocytes
+239,Stroma,Fibroblast,Intermediate lung fibroblast
+240,Stroma,Endothelial,Intermediate lymphatic endothelial cells
+241,Stroma,Endocrine,Intermediate neuroendocrine cells
+242,Stroma,Epithelial,Intermediate trachea ciliated cells
+243,Gut,Gut,Interstitial cells of Cajal
+244,Stroma,Fibroblast,Interstitial myofibroblasts
+245,Mesenchymal,Mesenchymal,Intervertebral disc cells
+246,Mesenchymal,Mesenchymal,Interzone cells
+247,Haematopoietic,Myeloid,Iron recycling macrophage
+248,Neural,Neural,KCNIP4+ neuron
+249,Stroma,Epithelial,Keratinocyte
+250,Stroma,Epithelial,Keratocytes
+251,Haematopoietic,Myeloid,Kupffer-like macrophage
+252,Haematopoietic,Myeloid,LYVE1+ macrophage
+253,Haematopoietic,Myeloid,LYZ+ monocytes
+254,Stroma,Endocrine,Lactotropic cells
+255,Haematopoietic,Myeloid,Langerhans cells
+256,Haematopoietic,Lymphoid,Large pre-B
+257,Haematopoietic,MK,Late MK
+258,Neural,Neural,Late Schwann cells
+259,Mesenchymal,Muscle,Late airway SMC
+260,Stroma,Epithelial,Late airway progenitor
+261,Stroma,Epithelial,Late basal cells
+262,Stroma,Endothelial,Late capillary endothelial cells
+263,Erythroid,Erythroid,Late erythroid
+264,Stroma,Epithelial,Late mesothelial cells
+265,Haematopoietic,Lymphoid,Late pre-B
+266,Haematopoietic,Lymphoid,Late pro-B
+267,Stroma,Endothelial,Late stalk cells
+268,Stroma,Epithelial,Late supporting-like PAX8+ cells
+269,Stroma,Epithelial,Late tip progenitor
+270,Mesenchymal,Mesenchymal,Lateral plate mesoderm cells
+271,Stroma,Fibroblast,Limbal fibroblast
+272,Mesenchymal,Mesenchymal,Limbal stem/progenitor cells
+273,Stroma,Epithelial,Limbal stromal cells
+274,Stroma,Epithelial,Lung ciliated cells
+275,Stroma,Endocrine,Lung secretory cells
+276,Stroma,Endothelial,Lymphatic endothelial cells
+277,Haematopoietic,Progenitor,MEMP
+278,Haematopoietic,Progenitor,MEP
+279,Stroma,Fibroblast,MFAP5+ fibroblast
+280,Neural,Neural,MFNG+ DBH+ neuron
+281,Haematopoietic,Progenitor,MOP
+282,Stroma,Epithelial,MUC16+ ciliated cells
+283,Stroma,Epithelial,MUC5AC+ ASCL1+ progenitor
+284,Mesenchymal,Muscle,MYH3+ myocytes
+285,Mesenchymal,Muscle,MYL3+ myocytes
+286,Mesenchymal,Muscle,MYOD1+ MYOG+ myoprogenitors
+287,Haematopoietic,Myeloid,Macrophage
+288,Erythroid,Erythroid,Macrophage phagocytosing erythrocytes
+289,Haematopoietic,Myeloid,Macrophage phagocytosing pericytes
+290,Haematopoietic,Myeloid,Mast
+291,Neural,Neural,Mature sympathetic neurons
+292,Mesenchymal,Chondrocyte,Maturing chondrocytes
+293,Neural,Neural,Medulla glioblast
+294,Haematopoietic,Haematopoietic,Medulla immune cells
+295,Neural,Mesenchymal,Medulla neural crest cells
+296,Neural,Neural,Medulla neuroblast
+297,Neural,Neural,Medulla neuron
+298,Neural,Neural,Medulla neuronal IPC
+299,Neural,Neural,Medulla oligodendrocyte precursor cells
+300,Neural,Neural,Medulla radial glia
+301,Erythroid,Erythroid,Megakaryocyte
+302,Gonadal,Gonadal,Meiotic oogonial cells
+303,Stroma,Epithelial,Melanocytes
+304,Stroma,Fibroblast,Meningeal dural cells
+305,Mesenchymal,Mesenchymal,Mesenchymal cells
+306,Mesenchymal,Mesenchymal,Mesenchymal condensate cells
+307,Stroma,Mesenchymal,Mesenchymal lymphoid tissue organizer cells
+308,Stroma,Epithelial,Mesothelial cells
+309,Haematopoietic,Myeloid,Microglia
+310,Neural,Neural,Mid Schwann cells
+311,Mesenchymal,Muscle,Mid airway SMC
+312,Stroma,Epithelial,Mid airway progenitor
+313,Stroma,Epithelial,Mid basal cells
+314,Stroma,Endothelial,Mid capillary endothelial cells
+315,Erythroid,Erythroid,Mid erythroid
+316,Stroma,Fibroblast,Mid fibroblast
+317,Stroma,Epithelial,Mid mesothelial cells
+318,Stroma,Endothelial,Mid stalk cells
+319,Stroma,Epithelial,Mid tip progenitor
+320,Neural,Neural,Midbrain glioblast
+321,Haematopoietic,Haematopoietic,Midbrain immune cells
+322,Mesenchymal,Mesenchymal,Midbrain neural crest cells
+323,Neural,Neural,Midbrain neuroblast
+324,Neural,Neural,Midbrain neuron
+325,Neural,Neural,Midbrain neuronal IPC
+326,Neural,Neural,Midbrain oligodendrocyte precursor cells
+327,Neural,Neural,Midbrain radial glia
+328,Gonadal,Gonadal,Mitotic germ cells
+329,Haematopoietic,Myeloid,Monocytes
+330,Mesenchymal,Muscle,Muscle satellite cells
+331,Stroma,Epithelial,Myelocyte
+332,Haematopoietic,Myeloid,Myoblasts 1
+333,Haematopoietic,Myeloid,Myoblasts 2
+334,Stroma,Fibroblast,Myocardial fibroblast
+335,Mesenchymal,Muscle,Myocytes
+336,Mesenchymal,Muscle,Myocytes 1
+337,Mesenchymal,Muscle,Myocytes 2
+338,Stroma,Fibroblast,Myofibroblast
+339,Neural,Neural,Müller glia
+340,Haematopoietic,Lymphoid,NK
+341,Haematopoietic,Lymphoid,NKT
+342,Haematopoietic,Lymphoid,NKT1
+343,Haematopoietic,Lymphoid,NKT2
+344,Haematopoietic,Progenitor,NMP
+345,Neural,Neural,Neurons
+346,Haematopoietic,Myeloid,Neutrophil
+347,Haematopoietic,Myeloid,Non-classical monocytes
+348,Mesenchymal,Mesenchymal,Notochordal cells
+349,Stroma,Endothelial,OMD+ endothelial cells
+350,Stroma,Epithelial,Oesophagus ciliated cells
+351,Stroma,Epithelial,Oesophagus epithelial cells
+352,Stroma,Endocrine,Oesophagus secretory progenitor
+353,Gonadal,Gonadal,Oocyte
+354,Gonadal,Gonadal,Oogonial cells
+355,Mesenchymal,Mesenchymal,Osteoblasts
+356,Haematopoietic,Myeloid,Osteoclast
+357,Mesenchymal,Mesenchymal,Outer progress zone cells
+358,Gonadal,Gonadal,Ovarian interstitial cells
+359,Stroma,Epithelial,Ovarian surface epithelial cells
+360,Mesenchymal,Muscle,PAX3+ skeletal muscle progenitors
+361,Mesenchymal,Chondrocyte,PAX7+ chondrocytes
+362,Mesenchymal,Muscle,PAX7+ skeletal muscle progenitors
+363,Stroma,Mesenchymal,PAX9+ mesenchymal cells
+364,Neural,Neural,PCP4+ neuron
+365,Mesenchymal,Chondrocyte,POMC+ osteochondral progenitors
+366,Stroma,Endocrine,PP cells
+367,Stroma,Endocrine,Pancreas endocrine cells
+368,Mesenchymal,Mesenchymal,Pancreas mesenchymal cells
+369,Stroma,Endothelial,Pancreatic tip progenitors
+370,Neural,Neural,Parasympathetic fetal neuronal cells
+371,Mesenchymal,Mesenchymal,Perichondrium cells
+372,Stroma,Stroma,Pericytes
+373,Stroma,Epithelial,Periderm cells
+374,Mesenchymal,Mesenchymal,Perimysium Cells
+375,Stroma,Fibroblast,Perineural fibroblast
+376,Stroma,Fibroblast,Periosteal dura cells
+377,Mesenchymal,Mesenchymal,Perisuture cels
+378,Neural,Neural,Photoreceptor
+379,Neural,Neural,Photoreceptor progenitor
+380,Stroma,Fibroblast,Pial cells
+381,Mesenchymal,Mesenchymal,Pituitary mesenchymal cells
+382,Stroma,Endocrine,Pituitary stem cells
+383,Haematopoietic,Lymphoid,Plasma B cells
+384,Erythroid,Erythroid,Platelet
+385,Neural,Neural,Pons glioblast
+386,Haematopoietic,Haematopoietic,Pons immune cells
+387,Mesenchymal,Mesenchymal,Pons neural crest cells
+388,Neural,Neural,Pons neuroblast
+389,Neural,Neural,Pons neuron
+390,Neural,Neural,Pons neuronal IPC
+391,Neural,Neural,Pons oligodendrocyte precursor cells
+392,Neural,Neural,Pons radial glia
+393,Haematopoietic,Haematopoietic,Posterior pituitary pituicyte cells
+394,Gonadal,Gonadal,Pre-oocyte
+395,Haematopoietic,Myeloid,Pre-pDC
+396,Haematopoietic,Lymphoid,Pre-pro-B cells
+397,Gonadal,Gonadal,Precursors of gonadotropes
+398,Gonadal,Gonadal,Pregranulosa cells
+399,Mesenchymal,Chondrocyte,Prehypertrophic chondrocytes
+400,Gonadal,Gonadal,Prespermatogonia
+401,Erythroid,Erythroid,Primitive erythrocyte
+402,Gonadal,Gonadal,Primordial germ cells
+403,Haematopoietic,Lymphoid,Pro-B
+404,Haematopoietic,Lymphoid,Pro-B/Pre-B transitional cells
+405,Stroma,Endocrine,Progenitors of the PIT-1 lineage
+406,Neural,Neural,Proliferating Schwann cells
+407,Stroma,Chondrocyte,Proliferating chondrocytes
+408,Haematopoietic,Haematopoietic,Proliferating double-negative thymocytes
+409,Haematopoietic,Haematopoietic,Proliferating double-positive thymocytes
+410,Stroma,Epithelial,Proliferating epithelial progenitors
+411,Haematopoietic,Myeloid,Proliferating macrophage
+412,Mesenchymal,Mesenchymal,Proliferating stomach mesenchymal cells
+413,Mesenchymal,Mesenchymal,Proliferating trunk progenitors
+414,Haematopoietic,Myeloid,Promonocyte
+415,Haematopoietic,Myeloid,Promyelocyte-like
+416,Stroma,Epithelial,Proximal basal cells
+417,Mesenchymal,Mesenchymal,Proximal mesenchymal cells
+418,Stroma,Endocrine,Proximal secretory progenitors
+419,Stroma,Endocrine,Pulmonary neuroendocrine cells
+420,Stroma,Endocrine,Pulmonary neuroendocrine precursor
+421,Haematopoietic,Lymphoid,Quiescent double-negative thymocytes
+422,Haematopoietic,Lymphoid,Quiescent double-positive thymocytes
+423,Haematopoietic,Lymphoid,Regulatory T cells
+424,Mesenchymal,Chondrocyte,Resting chondrocytes
+425,Neural,Neural,Retinal ganglion cells
+426,Neural,Neural,Retinal glia
+427,Neural,Neural,Retinal immature glia
+428,Stroma,Epithelial,Retinal pigment epithelial cells
+429,Neural,Neural,Retinal progenitor cells
+430,Haematopoietic,Myeloid,SIGLEC15+ fetal testicular macrophage
+431,Neural,Neural,SST+ neuron
+432,Stroma,Fibroblast,STMN2+ fibroblast
+433,Neural,Neural,Satellite glia-like fetal neuronal cells
+434,Neural,Neural,Schwann cell precursors
+435,Neural,Neural,Schwann cells
+436,Gonadal,Gonadal,Sertoli cells
+437,Mesenchymal,Muscle,Skeletal muscle cells
+438,Erythroid,Erythroid,Skull erythroid cells
+439,Haematopoietic,Lymphoid,Small pre-B
+440,Mesenchymal,Muscle,Smooth muscle cells
+441,Mesenchymal,Muscle,Smooth muscle progenitors
+442,Stroma,Endocrine,Somatotropic cells
+443,Stroma,Fibroblast,Spinal dura cells
+444,Stroma,Epithelial,Spine ependymal cells
+445,Stroma,Fibroblast,Spine fibroblasts
+446,Mesenchymal,Mesenchymal,Spine mesenchymal cells
+447,Neural,Neural,Spine oligodendrocytes
+448,Stroma,Epithelial,Squamous epithelial cells
+449,Stroma,Endocrine,Steroidogenic cells
+450,Neural,Neural,Stomach PNS glia
+451,Neural,Neural,Stomach PNS neuron
+452,Mesenchymal,Mesenchymal,Stomach mesenchymal cells
+453,Mesenchymal,Muscle,Stress-related fetal atrial cardiomyocyte
+454,Neural,Neural,Stress-related fetal neuronal cells
+455,Neural,Neural,Striatum glioblast
+456,Haematopoietic,Haematopoietic,Striatum immune cells
+457,Neural,Neural,Striatum neuroblast
+458,Neural,Neural,Striatum neuron
+459,Neural,Neural,Striatum neuronal IPC
+460,Neural,Neural,Striatum radial glia
+461,Neural,Neural,Subcortex glioblast
+462,Haematopoietic,Haematopoietic,Subcortex immune cells
+463,Mesenchymal,Mesenchymal,Subcortex neural crest cells
+464,Neural,Neural,Subcortex neuroblast
+465,Neural,Neural,Subcortex neuron
+466,Neural,Neural,Subcortex neuronal IPC
+467,Neural,Neural,Subcortex oligodendrocyte precursor cells
+468,Neural,Neural,Subcortex radial glia
+469,Stroma,Epithelial,Submucosal gland basal cells
+470,Stroma,Epithelial,Submucosal gland cells
+471,Neural,Neural,Sympathetic fetal neuronal cells
+472,Neural,Neural,Sympathoblasts
+473,Stroma,Fibroblast,Synovial fibroblast
+474,Neural,Neural,TM4SF4+ CHODL+ neuron
+475,Neural,Neural,TM4SF4+ PENK+ neuron
+476,Haematopoietic,Myeloid,TREM2+ fetal testicular macrophage
+477,Stroma,Epithelial,Tab(entry)
+478,Neural,Neural,Telencephalon glioblast
+479,Neural,Neural,Telencephalon neuroblast
+480,Neural,Neural,Telencephalon neuron
+481,Neural,Neural,Telencephalon neuronal IPC
+482,Neural,Neural,Telencephalon radial glia
+483,Mesenchymal,Mesenchymal,Tendon progenitors
+484,Stroma,Fibroblast,Tenocytes
+485,Stroma,Fibroblast,Tenoprogenitors
+486,Gonadal,Gonadal,Testicular interstitial cells
+487,Haematopoietic,Lymphoid,Th17
+488,Neural,Neural,Thalamus glioblast
+489,Haematopoietic,Haematopoietic,Thalamus immune cells
+490,Neural,Neural,Thalamus neuroblast
+491,Neural,Neural,Thalamus neuron
+492,Neural,Neural,Thalamus neuronal IPC
+493,Neural,Neural,Thalamus oligodendrocyte precursor cells
+494,Neural,Neural,Thalamus radial glia
+495,Stroma,Endocrine,Thyrotropic cells
+496,Haematopoietic,Myeloid,Tissue-repair macrophage
+497,Stroma,Epithelial,Transition cell population 1
+498,Neural,Neural,Transition cell population 1/Retinal ganglion cells
+499,Stroma,Epithelial,Transition cell population 2
+500,Stroma,Epithelial,Transition cell population 2/3
+501,Stroma,Epithelial,Transition cell population 3
+502,Mesenchymal,Mesenchymal,Trunk progenitors
+503,Stroma,Epithelial,Umbilical cord epithelial-like cells
+504,Stroma,Stroma,Umbilical cord pericytes
+505,Stroma,Stroma,Umbilical cord stromal cells 1
+506,Stroma,Stroma,Umbilical cord stromal cells 2
+507,Stroma,Stroma,Umbilical cord stromal cells 3
+508,Stroma,Stroma,Umbilical cord stromal cells 4
+509,Stroma,Stroma,Umbilical cord stromal cells 5
+510,Stroma,Epithelial,Urothelial cells
+511,Stroma,Endothelial,Valve endothelial cells
+512,Mesenchymal,Mesenchymal,Valve interstitial cells
+513,Mesenchymal,Muscle,Vascular SMC
+514,Stroma,Endothelial,Vein endothelial cells
+515,Stroma,Endothelial,Venous coronary endothelial cells
+516,Neural,Neural,Ventral midbrain glioblast
+517,Haematopoietic,Haematopoietic,Ventral midbrain immune cells
+518,Neural,Neural,Ventral midbrain neuroblast
+519,Neural,Neural,Ventral midbrain neuron
+520,Neural,Neural,Ventral midbrain neuronal IPC
+521,Neural,Neural,Ventral midbrain oligodendrocyte precursor cells
+522,Neural,Neural,Ventral midbrain radial glia
+523,Mesenchymal,Muscle,Ventricular conduction system distal cardiomyocyte
+524,Mesenchymal,Muscle,Ventricular conduction system proximal cardiomyocyte
+525,Stroma,Stroma,Yolk sac stromal cells
+526,Haematopoietic,Myeloid,aDC
+527,Mesenchymal,Mesenchymal,neural crest
+528,Haematopoietic,Myeloid,pDC
+529,Stroma,Endocrine,α cells
+530,Stroma,Endocrine,α/PP-progenitor
+531,Stroma,Endocrine,β cells
+532,Stroma,Endocrine,δ cells
+533,Stroma,Endocrine,ε cells
+534,Haematopoietic,Lymphoid,κ small pre-B
+535,Haematopoietic,Lymphoid,λ small pre-B

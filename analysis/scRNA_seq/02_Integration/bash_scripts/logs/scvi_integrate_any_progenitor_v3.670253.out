@@ -1,0 +1,45 @@
+** Using custom python for this environment
+python=3.10.12 scvi=1.1.2 torch=2.3.0+cu121
+Traceback (most recent call last):
+  File "/nfs/team298/sm54/BoneAtlasProject/src/integration/13_standard_reintegation_script.py", line 126, in <module>
+    sys.exit(main())
+  File "/nfs/team298/sm54/BoneAtlasProject/src/integration/13_standard_reintegation_script.py", line 43, in main
+    raise FileNotFoundError(f"Input not found: {in_h5ad}")
+FileNotFoundError: Input not found: /nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_immune_subsets/progenitor_v3.h5ad
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@qpg-gpu-02>
+Subject: Job 670253: <module load cellgen/conda; module load cellgen/scvi;       python -u "/nfs/team298/sm54/BoneAtlasProject/src/integration/13_standard_reintegation_script.py"         --input "/nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_immune_subsets/progenitor_v3.h5ad"         --out_dir "/nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_immune_subsets/progenitor/prog_v2/"> in cluster <farm22> Exited
+
+Job <module load cellgen/conda; module load cellgen/scvi;       python -u "/nfs/team298/sm54/BoneAtlasProject/src/integration/13_standard_reintegation_script.py"         --input "/nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_immune_subsets/progenitor_v3.h5ad"         --out_dir "/nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_immune_subsets/progenitor/prog_v2/"> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Thu Oct  9 21:42:57 2025
+Job was executed on host(s) <4*qpg-gpu-02>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Thu Oct  9 21:42:59 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Thu Oct  9 21:42:59 2025
+Terminated at Thu Oct  9 21:43:28 2025
+Results reported at Thu Oct  9 21:43:28 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; module load cellgen/scvi;       python -u "/nfs/team298/sm54/BoneAtlasProject/src/integration/13_standard_reintegation_script.py"         --input "/nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_immune_subsets/progenitor_v3.h5ad"         --out_dir "/nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_immune_subsets/progenitor/prog_v2/"
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   17.00 sec.
+    Max Memory :                                 344 MB
+    Average Memory :                             259.25 MB
+    Total Requested Memory :                     50000.00 MB
+    Delta Memory :                               49656.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                22
+    Run time :                                   16 sec.
+    Turnaround time :                            31 sec.
+
+The output (if any) is above this job summary.
+

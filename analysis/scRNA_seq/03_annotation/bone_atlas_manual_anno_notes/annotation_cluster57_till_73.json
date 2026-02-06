@@ -1,0 +1,293 @@
+{
+  "clusters": [
+    {
+      "cluster": 54,
+      "provisional_label": "Synovial fibroblast (user-specified) / chondrocyte-like ECM-high",
+      "top_genes": [
+        "COL2A1",
+        "COL9A3",
+        "COL9A2",
+        "COL9A1",
+        "CNMD",
+        "HAPLN1",
+        "COL11A2",
+        "SNORC",
+        "EPYC",
+        "MATN3"
+      ],
+      "notes": "Strong cartilage ECM signature; user indicated 'synovial fibroblast actually'."
+    },
+    {
+      "cluster": 55,
+      "provisional_label": "Cycling neuroectodermal progenitor (Notch+/cell-cycle+)",
+      "top_genes": [
+        "FTH1",
+        "FTL",
+        "TMSB15A",
+        "PCLAF",
+        "UBE2C",
+        "PTTG1",
+        "TYMS",
+        "BIRC5",
+        "TOP2A",
+        "CCNB1"
+      ],
+      "notes": "Cell-cycle and Notch/neuronal programs co-expressed; progenitor-like."
+    },
+    {
+      "cluster": 56,
+      "provisional_label": "Interzone-like synovial fibroblast (CREB5+/PRG4+)",
+      "top_genes": [
+        "CREB5",
+        "PLAC9",
+        "S100A6",
+        "ANXA1",
+        "ABI3BP",
+        "BGN",
+        "ELN",
+        "MGP",
+        "NDUFA4L2",
+        "MECOM"
+      ],
+      "notes": "PRG4/CREB5/ELN with fibro-chondral features; resembles joint interzone/lining SFs."
+    },
+    {
+      "cluster": 57,
+      "provisional_label": "PHOX2B+ sensory/autonomic neuron-like (immature)",
+      "top_genes": [
+        "STMN2",
+        "CTNNA2",
+        "SYT1",
+        "ELAVL4",
+        "RBFOX1",
+        "MYT1L",
+        "RIMS2",
+        "NRG1",
+        "GAP43",
+        "SCN9A"
+      ],
+      "notes": "Neurodevelopmental markers with neuroendocrine granule genes (CHGA/B)."
+    },
+    {
+      "cluster": 58,
+      "provisional_label": "DCX+ immature neuron / neuroblast",
+      "top_genes": [
+        "CTNNA2",
+        "MAP2",
+        "DCC",
+        "CTNND2",
+        "RIMS2",
+        "SYT1",
+        "KIF5C",
+        "MYT1L",
+        "RMST",
+        "PTPRN2"
+      ],
+      "notes": "Strong neuronal development program (DCX, SRRM4, RMST)."
+    },
+    {
+      "cluster": 59,
+      "provisional_label": "Neutrophil / granulocyte",
+      "top_genes": [
+        "RETN",
+        "LYZ",
+        "S100A8",
+        "S100A9",
+        "MNDA",
+        "ATP8B4",
+        "S100P",
+        "NKG7",
+        "LTF",
+        "BPI"
+      ],
+      "notes": "Defensin-, azurophil granule-, and neutrophil activation genes."
+    },
+    {
+      "cluster": 60,
+      "provisional_label": "Tissue macrophage (MRC1+/CD163+; LYVE1+ subset)",
+      "top_genes": [
+        "NEAT1",
+        "RBM47",
+        "SLC9A9",
+        "LRMDA",
+        "DOCK4",
+        "RUNX1",
+        "ITPR2",
+        "ABCA1",
+        "LGMN",
+        "SPP1"
+      ],
+      "notes": "MRC1/CD163/LYVE1/CSF1R with scavenger and lipid handling genes."
+    },
+    {
+      "cluster": 61,
+      "provisional_label": "Schwann cell / peripheral glia",
+      "top_genes": [
+        "SLC35F1",
+        "PTPRZ1",
+        "CDH19",
+        "MDGA2",
+        "EDNRB",
+        "CDH6",
+        "MOXD1",
+        "XKR4",
+        "S100B",
+        "GRID2"
+      ],
+      "notes": "MPZ/PLP1, adhesion molecules, and Schwann-associated markers."
+    },
+    {
+      "cluster": 62,
+      "provisional_label": "Erythroid (reticulocyte/late)",
+      "top_genes": [
+        "SLC25A37",
+        "HBB",
+        "ALAS2",
+        "AHSP",
+        "SLC4A1",
+        "BLVRB",
+        "HBM",
+        "SNCA",
+        "GYPB",
+        "HMBS"
+      ],
+      "notes": "High heme synthesis/hemoglobin genes; late/reticulocyte-leaning profile."
+    },
+    {
+      "cluster": 63,
+      "provisional_label": "Doublets/multiplets (chondrocyte + neuron + others) \u2014 needs splitting",
+      "top_genes": [
+        "COL2A1",
+        "FOSB",
+        "MGP",
+        "COL9A3",
+        "COL1A1",
+        "STMN2",
+        "ALB",
+        "PRPH",
+        "TUBB3",
+        "RBFOX1"
+      ],
+      "notes": "Mixed lineage markers; user proceeded to split into refined clusters."
+    },
+    {
+      "cluster": 64,
+      "provisional_label": "Chondrocyte (immature, COL2A1+/ACAN+/HAPLN1+)",
+      "top_genes": [
+        "COL2A1",
+        "FP236383.3",
+        "COL9A1",
+        "MATN1",
+        "HAPLN1",
+        "EPYC",
+        "PTGDS",
+        "HBG2",
+        "ACAN",
+        "COL9A3"
+      ],
+      "notes": "Classical cartilage ECM; some otic/inner ear genes also present."
+    },
+    {
+      "cluster": 65,
+      "provisional_label": "Arachnoid fibroblast / barrier-like meningeal cell",
+      "top_genes": [
+        "SLC1A3",
+        "LAMA2",
+        "TMEM132C",
+        "ATP1A2",
+        "NR2F1",
+        "SLC6A1",
+        "CLDN11",
+        "MDGA2",
+        "FRZB",
+        "ITGA8"
+      ],
+      "notes": "User context: from arachnoid; junction/ECM/neuro-guidance repertoire."
+    },
+    {
+      "cluster": 66,
+      "provisional_label": "Classical/inflammatory monocyte",
+      "top_genes": [
+        "S100A9",
+        "S100A8",
+        "SRGN",
+        "LYZ",
+        "LCP1",
+        "MNDA",
+        "TYROBP",
+        "PTPRC",
+        "RETN",
+        "FCN1"
+      ],
+      "notes": "FCN1hi, S100A8/A9, HLA class II and chemokine/inflammation genes."
+    },
+    {
+      "cluster": 67,
+      "provisional_label": "Erythroid (early\u2013mid maturation)",
+      "top_genes": [
+        "HBA2",
+        "HBA1",
+        "HBG2",
+        "HBG1",
+        "SLC4A1",
+        "SLC25A37",
+        "ANK1",
+        "HBB",
+        "HBM",
+        "ALAS2"
+      ],
+      "notes": "Globin + heme biogenesis (KLF1/TAL1 present); slightly earlier than cluster 62."
+    },
+    {
+      "cluster": 69,
+      "provisional_label": "Meningeal/arachnoid fibroblast (axon-guidance rich)",
+      "top_genes": [
+        "ZFHX3",
+        "NAV3",
+        "DCLK1",
+        "SFRP2",
+        "NLGN1",
+        "ROBO2",
+        "SEMA3A",
+        "ADAMTSL1",
+        "CNTNAP2",
+        "PRR16"
+      ],
+      "notes": "Not dermal: enriched for axon guidance/neuronal adhesion with fibroblast ECM."
+    },
+    {
+      "cluster": 70,
+      "provisional_label": "Pre-/naive B cell (IGHM+/IGLL1+, cycling fraction)",
+      "top_genes": [
+        "IGLL1",
+        "IGHM",
+        "CD79B",
+        "CD74",
+        "VPREB3",
+        "HLA-DRA",
+        "TCL1A",
+        "CD79A",
+        "CD38",
+        "PAX5"
+      ],
+      "notes": "Pre-B/immature B with proliferation genes (MKI67/TOP2A)."
+    },
+    {
+      "cluster": 73,
+      "provisional_label": "Meningeal/arachnoid fibroblast (neuro-regulatory, MEIS2+/SFRP1+)",
+      "top_genes": [
+        "MEIS2",
+        "SFRP1",
+        "TUBB2B",
+        "FTH1",
+        "SPOCK3",
+        "RBP1",
+        "HMGA2",
+        "NNAT",
+        "KIF26B",
+        "IGFBP5"
+      ],
+      "notes": "Neuro-regulatory fibroblast flavor; added previously to annotation_v2."
+    }
+  ]
+}

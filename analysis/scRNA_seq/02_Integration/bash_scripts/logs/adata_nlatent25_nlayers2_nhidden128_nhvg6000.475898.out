@@ -1,0 +1,38 @@
+/env/bin/python: can't open file '/nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts/09_evaluate_batch_correction_scvi_haem.py': [Errno 2] No such file or directory
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-14-22>
+Subject: Job 475898: <module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python -u 09_evaluate_batch_correction_scvi_haem.py --adata_uninteg /nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/haematopoeitic_compartment_celltypist.h5ad                          --adata_int /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/haem_compartment/bone_atlas_scvi_runs/processed_adata/adata_nlatent25_nlayers2_nhidden128_nhvg6000.h5ad                          --output_csv haem_scib_/lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/haem_compartment/bone_atlas_scvi_runs/scib_output/adata_nlatent25_nlayers2_nhidden128_nhvg6000_evaluation_metrics.csv                          --batch_key Technology                          --label_key majority_voting_Level2> in cluster <farm22> Exited
+
+Job <module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python -u 09_evaluate_batch_correction_scvi_haem.py --adata_uninteg /nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/haematopoeitic_compartment_celltypist.h5ad                          --adata_int /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/haem_compartment/bone_atlas_scvi_runs/processed_adata/adata_nlatent25_nlayers2_nhidden128_nhvg6000.h5ad                          --output_csv haem_scib_/lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/haem_compartment/bone_atlas_scvi_runs/scib_output/adata_nlatent25_nlayers2_nhidden128_nhvg6000_evaluation_metrics.csv                          --batch_key Technology                          --label_key majority_voting_Level2> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Wed Jul 16 10:46:05 2025
+Job was executed on host(s) <8*node-14-22>, in queue <long>, as user <sm54> in cluster <farm22> at Wed Jul 16 10:46:06 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Wed Jul 16 10:46:06 2025
+Terminated at Wed Jul 16 10:46:14 2025
+Results reported at Wed Jul 16 10:46:14 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python -u 09_evaluate_batch_correction_scvi_haem.py --adata_uninteg /nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/haematopoeitic_compartment_celltypist.h5ad                          --adata_int /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/haem_compartment/bone_atlas_scvi_runs/processed_adata/adata_nlatent25_nlayers2_nhidden128_nhvg6000.h5ad                          --output_csv haem_scib_/lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/haem_compartment/bone_atlas_scvi_runs/scib_output/adata_nlatent25_nlayers2_nhidden128_nhvg6000_evaluation_metrics.csv                          --batch_key Technology                          --label_key majority_voting_Level2
+------------------------------------------------------------
+
+Exited with exit code 2.
+
+Resource usage summary:
+
+    CPU time :                                   0.42 sec.
+    Max Memory :                                 16 MB
+    Average Memory :                             16.00 MB
+    Total Requested Memory :                     650000.00 MB
+    Delta Memory :                               649984.00 MB
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                10
+    Run time :                                   4 sec.
+    Turnaround time :                            9 sec.
+
+The output (if any) is above this job summary.
+

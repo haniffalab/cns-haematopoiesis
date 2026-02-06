@@ -1,0 +1,17 @@
+{
+  "cluster": 65,
+  "provisional_label": "Arachnoid fibroblast / barrier-like meningeal cell",
+  "top_genes": [
+    "SLC1A3",
+    "LAMA2",
+    "TMEM132C",
+    "ATP1A2",
+    "NR2F1",
+    "SLC6A1",
+    "CLDN11",
+    "MDGA2",
+    "FRZB",
+    "ITGA8"
+  ],
+  "notes": "User context: from arachnoid; junction/ECM/neuro-guidance repertoire."
+}

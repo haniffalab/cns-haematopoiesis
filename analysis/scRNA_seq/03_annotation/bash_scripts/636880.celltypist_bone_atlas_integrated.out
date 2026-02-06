@@ -1,0 +1,58 @@
+Loading model from /nfs/team298/sm54/BoneAtlasProject/metadata/celltypist_models/Human_WholeEmbryo_Public.pkl...
+Reading data from /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/best_integration/processed_adata/Best_Integration_bone_atlas_nlatent30_nlayers3_nhidden128_nhvg3000.h5ad...
+WARNING: adata.X seems to be already log-transformed.
+✔ Normalization check passed: all cells sum to 1e4.
+✔ scVI embedding graph registered for CellTypist.
+Running CellTypist annotation...
+🔬 Input data has 1566871 cells and 3000 genes
+🔗 Matching reference genes in the model
+🧬 1712 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Detected a neighborhood graph in the input object, will run over-clustering on the basis of it
+⛓️ Over-clustering input data with resolution set to 30
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+Saving predicted labels to /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/best_integration/celltypist_results/Best_Integration_bone_atlas_nlatent30_nlayers3_nhidden128_nhvg3000_predicted_labels.csv
+Saving probability matrix to /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/best_integration/celltypist_results/Best_Integration_bone_atlas_nlatent30_nlayers3_nhidden128_nhvg3000_probability_matrix.csv
+Saving decision matrix to /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/best_integration/celltypist_results/Best_Integration_bone_atlas_nlatent30_nlayers3_nhidden128_nhvg3000_decision_matrix_Human_WholeEmbryo_Public.csv
+✅ All done.
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-12-3-1>
+Subject: Job 636880: <module load cellgen/conda;  conda activate boneatlas;  mkdir -p /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/best_integration/celltypist_results;  python -u /nfs/team298/sm54/BoneAtlasProject/src/annotation/celltypist_bone_atlas.py     --input_h5ad  /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/best_integration/processed_adata/Best_Integration_bone_atlas_nlatent30_nlayers3_nhidden128_nhvg3000.h5ad     --model_pkl   /nfs/team298/sm54/BoneAtlasProject/metadata/celltypist_models/Human_WholeEmbryo_Public.pkl     --output_dir  /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/best_integration/celltypist_results> in cluster <farm22> Done
+
+Job <module load cellgen/conda;  conda activate boneatlas;  mkdir -p /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/best_integration/celltypist_results;  python -u /nfs/team298/sm54/BoneAtlasProject/src/annotation/celltypist_bone_atlas.py     --input_h5ad  /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/best_integration/processed_adata/Best_Integration_bone_atlas_nlatent30_nlayers3_nhidden128_nhvg3000.h5ad     --model_pkl   /nfs/team298/sm54/BoneAtlasProject/metadata/celltypist_models/Human_WholeEmbryo_Public.pkl     --output_dir  /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/best_integration/celltypist_results> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Thu Jul 17 03:04:28 2025
+Job was executed on host(s) <node-12-3-1>, in queue <normal>, as user <sm54> in cluster <farm22> at Thu Jul 17 03:04:29 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/annotation/bash_scripts> was used as the working directory.
+Started at Thu Jul 17 03:04:29 2025
+Terminated at Thu Jul 17 04:02:34 2025
+Results reported at Thu Jul 17 04:02:34 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda;  conda activate boneatlas;  mkdir -p /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/best_integration/celltypist_results;  python -u /nfs/team298/sm54/BoneAtlasProject/src/annotation/celltypist_bone_atlas.py     --input_h5ad  /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/best_integration/processed_adata/Best_Integration_bone_atlas_nlatent30_nlayers3_nhidden128_nhvg3000.h5ad     --model_pkl   /nfs/team298/sm54/BoneAtlasProject/metadata/celltypist_models/Human_WholeEmbryo_Public.pkl     --output_dir  /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/best_integration/celltypist_results
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   3476.18 sec.
+    Max Memory :                                 46147 MB
+    Average Memory :                             21453.71 MB
+    Total Requested Memory :                     350000.00 MB
+    Delta Memory :                               303853.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   3484 sec.
+    Turnaround time :                            3486 sec.
+
+The output (if any) is above this job summary.
+

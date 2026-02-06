@@ -1,0 +1,17 @@
+{
+  "cluster": 59,
+  "provisional_label": "Neutrophil / granulocyte",
+  "top_genes": [
+    "RETN",
+    "LYZ",
+    "S100A8",
+    "S100A9",
+    "MNDA",
+    "ATP8B4",
+    "S100P",
+    "NKG7",
+    "LTF",
+    "BPI"
+  ],
+  "notes": "Defensin-, azurophil granule-, and neutrophil activation genes."
+}

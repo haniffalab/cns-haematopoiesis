@@ -1,0 +1,49 @@
+Warning: Could not plot histogram for HCA_BN_F12627473: 'Scrublet' object has no attribute 'threshold_'
+Warning: Could not plot UMAP for HCA_BN_F12627473: 'NoneType' object is not subscriptable
+Warning: Could not plot histogram for SB_200532_10032964: 'Scrublet' object has no attribute 'threshold_'
+Warning: Could not plot UMAP for SB_200532_10032964: 'NoneType' object is not subscriptable
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-10-5-4>
+Subject: Job 906293: <doublet_bulk_bone_atlas> in cluster <farm22> Done
+
+Job <doublet_bulk_bone_atlas> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Thu Jul 10 19:04:33 2025
+Job was executed on host(s) <2*node-10-5-4>, in queue <long>, as user <sm54> in cluster <farm22> at Thu Jul 10 19:04:43 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Thu Jul 10 19:04:43 2025
+Terminated at Thu Jul 10 20:58:54 2025
+Results reported at Thu Jul 10 20:58:54 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; conda activate boneatlas;
+   cd /nfs/team298/sm54/BoneAtlasProject/src/processing;
+   python 03_scrublet_doublet_detection.py      --merged_h5ad /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/bone_atlas_filtered_with_metadata.h5ad      --adata_status filtered_bone_atlas      --output_dir /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/      --log_level INFO      --log_dir /nfs/team298/sm54/BoneAtlasProject/processing/logs
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   7655.27 sec.
+    Max Memory :                                 67432 MB
+    Average Memory :                             61434.39 MB
+    Total Requested Memory :                     250000.00 MB
+    Delta Memory :                               182568.00 MB
+    Max Swap :                                   2 MB
+    Max Processes :                              5
+    Max Threads :                                13
+    Run time :                                   6851 sec.
+    Turnaround time :                            6861 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <906293.doublet_bulk_bone_atlas.err> for stderr output of this job.
+
