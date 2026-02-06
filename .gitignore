@@ -4,6 +4,11 @@
 metadata/old_annotations/*.csv
 metadata/cell_metadata/*.csv
 metadata/supercell_results/*.csv
+metadata/published_annotations/
+metadata/annotation_groups/
+metadata/old_annotations/
+metadata/cell_metadata/
+metadata/supercell_results/
 
 # -----------------------------
 # Single-cell / spatial outputs
@@ -21,4 +26,6 @@ spatial/
 # Python / notebooks
 # -----------------------------
 __pycache__/
-.ipynb_checkpoints/
+.ipynb_checkpoints
+
+

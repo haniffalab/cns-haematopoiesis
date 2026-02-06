@@ -48,13 +48,11 @@ Wellcome Sanger Institute
 - **metadata/**  
   Sample metadata, marker gene tables, legacy annotations, and demultiplexing (souporcell) results.
 
-- **raw/**  
-  Reference scripts, quality control outputs (e.g. CellBender plots), and legacy processing files.
 
 - **analysis/**  
   Core data processing, integration, and analysis pipelines for single-cell and spatial datasets.
 
-- **reports/**  
+- **figures/**  
   Figure generation code and analysis summaries.
 
 - **environment/**  
