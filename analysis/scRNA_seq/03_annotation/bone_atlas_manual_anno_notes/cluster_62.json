@@ -1,0 +1,17 @@
+{
+  "cluster": 62,
+  "provisional_label": "Erythroid (reticulocyte/late)",
+  "top_genes": [
+    "SLC25A37",
+    "HBB",
+    "ALAS2",
+    "AHSP",
+    "SLC4A1",
+    "BLVRB",
+    "HBM",
+    "SNCA",
+    "GYPB",
+    "HMBS"
+  ],
+  "notes": "High heme synthesis/hemoglobin genes; late/reticulocyte-leaning profile."
+}

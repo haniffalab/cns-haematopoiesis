@@ -1,0 +1,238 @@
+[
+  {
+    "cluster": 31,
+    "annotation": "Chondrocytes (SOX9+, COL2A1+, ACAN+, HAPLN1+)",
+    "triad_markers": [
+      "SOX9",
+      "COL2A1",
+      "ACAN"
+    ],
+    "secondary_markers": [
+      "HAPLN1",
+      "COL9A1",
+      "COL9A2",
+      "COL9A3",
+      "COMP",
+      "POSTN",
+      "NDUFA4L2"
+    ],
+    "notes": "Maturing articular/chondrocyte program with hypoxia signature (NDUFA4L2).",
+    "updated_at_utc": "2025-08-28T16:08:39Z"
+  },
+  {
+    "cluster": 32,
+    "annotation": "Fibroblast (perivascular/peri-endothelial niche)",
+    "triad_markers": [
+      "IGFBP7",
+      "CXCL12",
+      "MGP"
+    ],
+    "secondary_markers": [
+      "COL1A1",
+      "COL3A1",
+      "NRP1",
+      "ABCC9",
+      "ANGPT2",
+      "TAGLN",
+      "ACTA2"
+    ],
+    "notes": "Perivascular fibroblast program; stromal niche signals and mild smooth muscle features.",
+    "updated_at_utc": "2025-08-28T16:08:39Z"
+  },
+  {
+    "cluster": 33,
+    "annotation": "Pericyte / VSMC (contractile)",
+    "triad_markers": [
+      "RGS5",
+      "ACTA2",
+      "MYH11"
+    ],
+    "secondary_markers": [
+      "TAGLN",
+      "KCNJ8",
+      "ABCC9",
+      "GUCY1A1",
+      "GUCY1A2",
+      "COL4A1",
+      "TFPI"
+    ],
+    "notes": "Canonical mural cell signature; strong contractile program.",
+    "updated_at_utc": "2025-08-28T16:08:39Z"
+  },
+  {
+    "cluster": 34,
+    "annotation": "Low-quality cycling neuro-mesenchyme",
+    "triad_markers": [
+      "MT-ND1",
+      "MT-ND3",
+      "MT-CO2"
+    ],
+    "secondary_markers": [
+      "HMGA2",
+      "MEIS2",
+      "TSHZ2"
+    ],
+    "notes": "High mitochondrial/ribosomal signal; likely mixed or degraded cells.",
+    "updated_at_utc": "2025-08-28T16:08:39Z"
+  },
+  {
+    "cluster": 35,
+    "annotation": "Skeletal muscle progenitors / myoblasts (PAX7+)",
+    "triad_markers": [
+      "PAX7",
+      "MEGF10",
+      "LAMA2"
+    ],
+    "secondary_markers": [
+      "NEB",
+      "TNNT1",
+      "PDLIM3",
+      "ACTC1",
+      "RYR3",
+      "BMPR1B"
+    ],
+    "notes": "Non-cycling / early-differentiating myogenic state.",
+    "updated_at_utc": "2025-08-28T16:08:39Z"
+  },
+  {
+    "cluster": 36,
+    "annotation": "Fetal myofiber / myotendinous program",
+    "triad_markers": [
+      "MYH3",
+      "TTN",
+      "MYL1"
+    ],
+    "secondary_markers": [
+      "POSTN",
+      "ACTC1",
+      "TNNC2",
+      "TNNI1",
+      "KCNMB2"
+    ],
+    "notes": "Embryonic myofiber features with peri-tendon cues (POSTN).",
+    "updated_at_utc": "2025-08-28T16:08:39Z"
+  },
+  {
+    "cluster": 37,
+    "annotation": "Perichondrial mesenchyme",
+    "triad_markers": [
+      "TWIST2",
+      "CRABP1",
+      "RUNX2"
+    ],
+    "secondary_markers": [
+      "SHOX",
+      "PITX1",
+      "CXCL12",
+      "COL1A1",
+      "MATN4"
+    ],
+    "notes": "Perichondrium/pro-chondrogenic boundary niche.",
+    "updated_at_utc": "2025-08-28T16:08:39Z"
+  },
+  {
+    "cluster": 38,
+    "annotation": "Neutrophils",
+    "triad_markers": [
+      "S100A8",
+      "S100A9",
+      "MPO"
+    ],
+    "secondary_markers": [
+      "S100A12",
+      "AZU1",
+      "PRTN3",
+      "DEFA3",
+      "CAMP",
+      "LYZ",
+      "SRGN",
+      "CXCL8"
+    ],
+    "notes": "Strong granulocyte effector program; moderate PTPRC noted.",
+    "updated_at_utc": "2025-08-28T16:08:39Z"
+  },
+  {
+    "cluster": 39,
+    "annotation": "Granulocyte\u2013Monocyte Progenitors (LYZ+, MPO+, PRTN3+)",
+    "triad_markers": [
+      "LYZ",
+      "MPO",
+      "PRTN3"
+    ],
+    "secondary_markers": [
+      "PLAC8",
+      "MS4A3",
+      "CTSG",
+      "PRSS57",
+      "AZU1",
+      "RNASE2",
+      "RNASE3",
+      "RETN",
+      "FCN1",
+      "AIF1",
+      "MNDA"
+    ],
+    "notes": "Early neutrophil/monocyte bias with cell-cycle/myeloperoxidase module.",
+    "updated_at_utc": "2025-08-28T16:08:39Z"
+  },
+  {
+    "cluster": 40,
+    "annotation": "Low-quality mesenchyme (osteoblast/osteocyte program, SOST+)",
+    "triad_markers": [
+      "SOST",
+      "IBSP",
+      "BGLAP"
+    ],
+    "secondary_markers": [
+      "IFITM5",
+      "DMP1",
+      "COL1A1",
+      "COL3A1",
+      "SPP1",
+      "POSTN"
+    ],
+    "notes": "Osteogenic matrix signature but flagged low quality/doublets.",
+    "updated_at_utc": "2025-08-28T16:08:39Z"
+  },
+  {
+    "cluster": 41,
+    "annotation": "Cycling skeletal muscle progenitors (PAX7+, PAX3+, MKI67+)",
+    "triad_markers": [
+      "PAX7",
+      "PAX3",
+      "MKI67"
+    ],
+    "secondary_markers": [
+      "TOP2A",
+      "CCNB1",
+      "CDC20",
+      "CENPF",
+      "TPX2",
+      "NEB",
+      "TNNT1",
+      "TPM2"
+    ],
+    "notes": "Actively proliferating myogenic precursors.",
+    "updated_at_utc": "2025-08-28T16:08:39Z"
+  },
+  {
+    "cluster": 42,
+    "annotation": "Fibroblast (periosteal niche, TWIST2+ CRABP1+ SFRP2+)",
+    "triad_markers": [
+      "TWIST2",
+      "CRABP1",
+      "SFRP2"
+    ],
+    "secondary_markers": [
+      "WIF1",
+      "APCDD1",
+      "DKK2",
+      "CXCL12",
+      "COL1A1",
+      "COL3A1",
+      "CCN2"
+    ],
+    "notes": "Periosteal fibroblast program with WNT antagonists and stromal chemokines.",
+    "updated_at_utc": "2025-08-28T16:08:39Z"
+  }
+]

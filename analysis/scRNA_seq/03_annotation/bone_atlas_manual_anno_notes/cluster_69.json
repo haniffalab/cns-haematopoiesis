@@ -1,0 +1,17 @@
+{
+  "cluster": 69,
+  "provisional_label": "Meningeal/arachnoid fibroblast (axon-guidance rich)",
+  "top_genes": [
+    "ZFHX3",
+    "NAV3",
+    "DCLK1",
+    "SFRP2",
+    "NLGN1",
+    "ROBO2",
+    "SEMA3A",
+    "ADAMTSL1",
+    "CNTNAP2",
+    "PRR16"
+  ],
+  "notes": "Not dermal: enriched for axon guidance/neuronal adhesion with fibroblast ECM."
+}

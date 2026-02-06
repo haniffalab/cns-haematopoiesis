@@ -1,0 +1,17 @@
+{
+  "cluster": 57,
+  "provisional_label": "PHOX2B+ sensory/autonomic neuron-like (immature)",
+  "top_genes": [
+    "STMN2",
+    "CTNNA2",
+    "SYT1",
+    "ELAVL4",
+    "RBFOX1",
+    "MYT1L",
+    "RIMS2",
+    "NRG1",
+    "GAP43",
+    "SCN9A"
+  ],
+  "notes": "Neurodevelopmental markers with neuroendocrine granule genes (CHGA/B)."
+}

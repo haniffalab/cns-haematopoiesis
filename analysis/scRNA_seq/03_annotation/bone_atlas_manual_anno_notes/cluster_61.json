@@ -1,0 +1,17 @@
+{
+  "cluster": 61,
+  "provisional_label": "Schwann cell / peripheral glia",
+  "top_genes": [
+    "SLC35F1",
+    "PTPRZ1",
+    "CDH19",
+    "MDGA2",
+    "EDNRB",
+    "CDH6",
+    "MOXD1",
+    "XKR4",
+    "S100B",
+    "GRID2"
+  ],
+  "notes": "MPZ/PLP1, adhesion molecules, and Schwann-associated markers."
+}

@@ -1,0 +1,17 @@
+{
+  "cluster": 66,
+  "provisional_label": "Classical/inflammatory monocyte",
+  "top_genes": [
+    "S100A9",
+    "S100A8",
+    "SRGN",
+    "LYZ",
+    "LCP1",
+    "MNDA",
+    "TYROBP",
+    "PTPRC",
+    "RETN",
+    "FCN1"
+  ],
+  "notes": "FCN1hi, S100A8/A9, HLA class II and chemokine/inflammation genes."
+}

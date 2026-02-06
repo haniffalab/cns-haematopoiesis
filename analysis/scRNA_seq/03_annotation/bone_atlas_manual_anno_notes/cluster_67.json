@@ -1,0 +1,17 @@
+{
+  "cluster": 67,
+  "provisional_label": "Erythroid (early\u2013mid maturation)",
+  "top_genes": [
+    "HBA2",
+    "HBA1",
+    "HBG2",
+    "HBG1",
+    "SLC4A1",
+    "SLC25A37",
+    "ANK1",
+    "HBB",
+    "HBM",
+    "ALAS2"
+  ],
+  "notes": "Globin + heme biogenesis (KLF1/TAL1 present); slightly earlier than cluster 62."
+}

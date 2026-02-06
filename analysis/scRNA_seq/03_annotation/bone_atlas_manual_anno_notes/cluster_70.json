@@ -1,0 +1,17 @@
+{
+  "cluster": 70,
+  "provisional_label": "Pre-/naive B cell (IGHM+/IGLL1+, cycling fraction)",
+  "top_genes": [
+    "IGLL1",
+    "IGHM",
+    "CD79B",
+    "CD74",
+    "VPREB3",
+    "HLA-DRA",
+    "TCL1A",
+    "CD79A",
+    "CD38",
+    "PAX5"
+  ],
+  "notes": "Pre-B/immature B with proliferation genes (MKI67/TOP2A)."
+}

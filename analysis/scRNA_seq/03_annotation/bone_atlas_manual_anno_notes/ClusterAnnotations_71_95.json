@@ -1,0 +1,378 @@
+{
+  "71": {
+    "annotation": "Neural crest-derived Schwann cell precursor / immature Schwann cell",
+    "marker_genes": [
+      "COL3A1",
+      "EBF2",
+      "NR2F1",
+      "APOD",
+      "NTRK3",
+      "TENM2",
+      "SLC2A3",
+      "ABCA10"
+    ],
+    "notes": "Neural crest/Schwann precursor program with EBF2, NR2F1, APOD, NTRK3."
+  },
+  "72": {
+    "annotation": "Mesenchymal progenitor / fibroblast-like",
+    "marker_genes": [
+      "COL1A1",
+      "COL1A2",
+      "FN1",
+      "DCN",
+      "LUM",
+      "PDGFRA",
+      "FBN1"
+    ],
+    "notes": "Mesenchymal/fibroblast identity with strong ECM expression."
+  },
+  "73": {
+    "annotation": "Osteoblast lineage (early osteoprogenitors)",
+    "marker_genes": [
+      "MEIS2",
+      "SFRP1",
+      "TUBB2B",
+      "FTH1",
+      "SPOCK3",
+      "RBP1",
+      "HMGA2",
+      "NNAT"
+    ],
+    "notes": "Osteoblast program with MEIS2, SFRP1; ECM remodeling."
+  },
+  "74": {
+    "annotation": "Chondrocyte lineage (osteochondral/periosteal niche-active)",
+    "marker_genes": [
+      "SOX9",
+      "SOX6",
+      "COL2A1",
+      "COL9A1",
+      "COL9A2",
+      "COL9A3",
+      "COL27A1",
+      "MATN4",
+      "HAPLN1",
+      "RUNX2",
+      "COL1A1",
+      "COL24A1",
+      "ASPN",
+      "POSTN",
+      "THBS2",
+      "BMP5",
+      "MEIS2",
+      "MEOX2",
+      "EYA1",
+      "CLEC11A"
+    ],
+    "notes": "SOX9+ chondrocytes with osteochondral/periosteal regulators."
+  },
+  "75": {
+    "annotation": "Fibroblast / dermal-like mesenchyme",
+    "marker_genes": [
+      "TWIST2",
+      "CRABP1",
+      "TMEM132C",
+      "KIF26B",
+      "HMGA2",
+      "COL24A1",
+      "COL25A1",
+      "CCBE1",
+      "ADAMTS19",
+      "ABI3BP"
+    ],
+    "notes": "Fibroblast-like program with TWIST2, CRABP1, dermal identity genes."
+  },
+  "76": {
+    "annotation": "Muscle progenitors (myogenic, satellite-like)",
+    "marker_genes": [
+      "PAX7",
+      "MYF5",
+      "MYOD1",
+      "MYOG",
+      "MYF6",
+      "TTN",
+      "MYH3",
+      "ACTA1",
+      "DES",
+      "MYLPF"
+    ],
+    "notes": "Muscle satellite/progenitor cells with strong PAX7, MYF5."
+  },
+  "77": {
+    "annotation": "Neural/glial lineage (immature neuron-like)",
+    "marker_genes": [
+      "STMN2",
+      "TUBB3",
+      "MAP1B",
+      "ELAVL4",
+      "DCX",
+      "GAP43",
+      "UCHL1",
+      "INA"
+    ],
+    "notes": "Immature neuron program with STMN2, TUBB3, DCX."
+  },
+  "78": {
+    "annotation": "Myeloid / macrophage-like",
+    "marker_genes": [
+      "PTPRC",
+      "MRC1",
+      "C1QA",
+      "CD163",
+      "LYVE1",
+      "CD14",
+      "LYZ",
+      "FCGR3A"
+    ],
+    "notes": "Myeloid lineage with macrophage signature."
+  },
+  "79": {
+    "annotation": "B cell progenitors",
+    "marker_genes": [
+      "MS4A1",
+      "VPREB1",
+      "VPREB3",
+      "CD79A",
+      "CD79B",
+      "IGLL1",
+      "PAX5",
+      "EBF1"
+    ],
+    "notes": "Developing B cells with VPREB, IGLL1, MS4A1."
+  },
+  "80": {
+    "annotation": "T cell / thymocyte-like",
+    "marker_genes": [
+      "CD3D",
+      "CD3E",
+      "CD3G",
+      "TRAC",
+      "TRBC1",
+      "LEF1",
+      "RAG1",
+      "RAG2"
+    ],
+    "notes": "Immature T cells with CD3, RAG, LEF1."
+  },
+  "81": {
+    "annotation": "Erythroid progenitors",
+    "marker_genes": [
+      "HBA1",
+      "HBA2",
+      "HBB",
+      "HBG1",
+      "HBG2",
+      "ALAS2",
+      "AHSP"
+    ],
+    "notes": "Definitive erythroid program with globins, AHSP."
+  },
+  "82": {
+    "annotation": "Primitive erythroblasts",
+    "marker_genes": [
+      "HBE1",
+      "HBZ",
+      "HBG1",
+      "HBG2",
+      "AHSP",
+      "ALAS2"
+    ],
+    "notes": "Primitive erythroid lineage expressing embryonic/fetal globins."
+  },
+  "83": {
+    "annotation": "Mesenchymal / muscle-mixed (subclustered)",
+    "marker_genes": [
+      "COL1A1",
+      "COL3A1",
+      "POSTN",
+      "ACTC1",
+      "MYH3",
+      "TTN",
+      "MYL1",
+      "TNNC2",
+      "ACTA1"
+    ],
+    "notes": "Mesenchyme with partial muscle program."
+  },
+  "84": {
+    "annotation": "Neural crest / mesenchymal hybrid",
+    "marker_genes": [
+      "MEIS2",
+      "MECOM",
+      "TSHZ2",
+      "SFRP1",
+      "FRZB",
+      "SOX9",
+      "COL9A1",
+      "ADAMTS19"
+    ],
+    "notes": "Mesenchymal primed to chondrocyte, but not yet chondrocyte."
+  },
+  "85": {
+    "annotation": "Muscle satellite progenitors (PAX7+)",
+    "marker_genes": [
+      "PAX7",
+      "MYF5",
+      "TTN",
+      "MYOD1",
+      "MYOG"
+    ],
+    "notes": "Muscle satellite cells with PAX7 program."
+  },
+  "86": {
+    "annotation": "Perichondrial mesenchyme",
+    "marker_genes": [
+      "SOX9",
+      "MEIS2",
+      "MECOM",
+      "GDF5",
+      "COL9A1",
+      "COL9A2"
+    ],
+    "notes": "Perichondrial mesenchyme adjacent to cartilage anlagen."
+  },
+  "87": {
+    "annotation": "Myoblasts / fetal muscle fibers",
+    "marker_genes": [
+      "MYH3",
+      "TTN",
+      "ACTC1",
+      "MYL1",
+      "TNNC2",
+      "NEB",
+      "MYLPF",
+      "ACTA1"
+    ],
+    "notes": "Differentiating muscle cells."
+  },
+  "88": {
+    "annotation": "Muscle + fibro-matrix program (mixed identity)",
+    "marker_genes": [
+      "TTN",
+      "MYH3",
+      "COL3A1",
+      "POSTN",
+      "COL1A1",
+      "ACTC1",
+      "MYLPF",
+      "MYL1",
+      "TNNC2",
+      "ACTA1"
+    ],
+    "notes": "Fibro-matrix and myogenic features intermixed."
+  },
+  "89": {
+    "annotation": "Pre-chondrocytic mesenchyme",
+    "marker_genes": [
+      "MECOM",
+      "MEIS2",
+      "TSHZ2",
+      "CREB5",
+      "ROBO1",
+      "ROBO2",
+      "SOX9",
+      "COL9A2",
+      "COL9A3",
+      "GDF5"
+    ],
+    "notes": "Mesenchyme primed for chondrocytes but not yet differentiated."
+  },
+  "90": {
+    "annotation": "Myogenic progenitors (PAX7+, PAX3+)",
+    "marker_genes": [
+      "PAX7",
+      "PAX3",
+      "RYR1",
+      "RYR3",
+      "TTN",
+      "MEGF10",
+      "DLG2"
+    ],
+    "notes": "Myogenic precursors with satellite cell markers and RyR receptors."
+  },
+  "91": {
+    "annotation": "Immature neurons",
+    "marker_genes": [
+      "STMN2",
+      "TUBB3",
+      "MAP1B",
+      "DCX",
+      "GAP43",
+      "ELAVL4",
+      "NEFM",
+      "NEFL",
+      "TAGLN3",
+      "BEX1"
+    ],
+    "notes": "Developing neurons with axonal growth programs."
+  },
+  "92": {
+    "annotation": "Megakaryocyte / platelet lineage",
+    "marker_genes": [
+      "ITGA2B",
+      "GP9",
+      "GP1BA",
+      "GP1BB",
+      "PF4",
+      "PPBP",
+      "MPIG6B",
+      "GATA1",
+      "NFE2",
+      "TAL1"
+    ],
+    "notes": "Strong megakaryocyte signature with platelet glycoproteins and TFs."
+  },
+  "93": {
+    "annotation": "Schwann cells",
+    "marker_genes": [
+      "PLP1",
+      "MPZ",
+      "MBP",
+      "PMP2",
+      "MAL",
+      "S100B",
+      "CRYAB"
+    ],
+    "notes": "Schwann cells; apparent PAX7 signal is ambient contamination."
+  },
+  "94": {
+    "annotation": "Definitive erythroblasts (late erythroid)",
+    "marker_genes": [
+      "HBB",
+      "HBA1",
+      "HBA2",
+      "HBG1",
+      "HBG2",
+      "ALAS2",
+      "AHSP",
+      "SLC25A37",
+      "EPB42",
+      "GYPC"
+    ],
+    "notes": "Definitive erythroid lineage, PCW15+."
+  },
+  "95": {
+    "annotation": "Mast cell lineage (immature mast cells / progenitors)",
+    "marker_genes": [
+      "CPA3",
+      "TPSAB1",
+      "TPSB2",
+      "HDC",
+      "CLC",
+      "PRG2",
+      "HPGDS",
+      "MS4A2",
+      "FCER1G",
+      "KIT",
+      "SRGN",
+      "SLC24A3",
+      "GATA2",
+      "RUNX1",
+      "NFE2",
+      "ARHGAP15",
+      "ANXA1",
+      "LAPTM5"
+    ],
+    "notes": "Strong mast cell program with granule proteases, histamine synthesis, PGD synthase. KIT+MS4A2+FCER1G confirms mast lineage."
+  }
+}
