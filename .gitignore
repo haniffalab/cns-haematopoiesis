@@ -9,6 +9,7 @@ metadata/annotation_groups/
 metadata/old_annotations/
 metadata/cell_metadata/
 metadata/supercell_results/
+analysis/scRNA_seq/01_preprocessing/
 
 # -----------------------------
 # Single-cell / spatial outputs
