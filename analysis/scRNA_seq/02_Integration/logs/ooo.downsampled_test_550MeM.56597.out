@@ -1,0 +1,73 @@
+Reading unintegrated AnnData...
+Unintegrated data loaded.
+Reading integrated AnnData...
+Traceback (most recent call last):
+  File "/nfs/team298/sm54/BoneAtlasProject/src/integration/06_evaluate_batch_correction.py", line 76, in <module>
+    adata_int = sc.read_h5ad(args.adata_int)
+  File "/env/lib/python3.10/site-packages/anndata/_io/h5ad.py", line 260, in read_h5ad
+    adata = read_dispatched(f, callback=callback)
+  File "/env/lib/python3.10/site-packages/anndata/experimental/_dispatch_io.py", line 42, in read_dispatched
+    return reader.read_elem(elem)
+  File "/env/lib/python3.10/site-packages/anndata/_io/utils.py", line 212, in func_wrapper
+    return func(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/anndata/_io/specs/registry.py", line 282, in read_elem
+    return self.callback(read_func, elem.name, elem, iospec=iospec)
+  File "/env/lib/python3.10/site-packages/anndata/_io/h5ad.py", line 241, in callback
+    **{
+  File "/env/lib/python3.10/site-packages/anndata/_io/h5ad.py", line 244, in <dictcomp>
+    k: read_dispatched(elem[k], callback)
+  File "/env/lib/python3.10/site-packages/anndata/experimental/_dispatch_io.py", line 42, in read_dispatched
+    return reader.read_elem(elem)
+  File "/env/lib/python3.10/site-packages/anndata/_io/utils.py", line 212, in func_wrapper
+    return func(*args, **kwargs)
+  File "/env/lib/python3.10/site-packages/anndata/_io/specs/registry.py", line 282, in read_elem
+    return self.callback(read_func, elem.name, elem, iospec=iospec)
+  File "/env/lib/python3.10/site-packages/anndata/_io/h5ad.py", line 258, in callback
+    return func(elem)
+  File "/env/lib/python3.10/site-packages/anndata/_io/specs/methods.py", line 761, in read_sparse
+    return sparse_dataset(elem).to_memory()
+  File "/env/lib/python3.10/site-packages/anndata/_core/sparse_dataset.py", line 581, in to_memory
+    mtx.data = self.group["data"][...]
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "/env/lib/python3.10/site-packages/h5py/_hl/dataset.py", line 781, in __getitem__
+    return self._fast_reader.read(args)
+KeyboardInterrupt
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-14-14>
+Subject: Job 56597: <module load cellgen/singularity;    singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs      /nfs/cellgeni/singularity/images/scib-1.1.5.sif      python -u 06_evaluate_batch_correction.py        --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_unintegrated.h5ad        --adata_int     /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_int.h5ad        --output_csv   /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/scib_test_int_evaluation_metrics.csv        --batch_key    Technology        --label_key    majority_voting_Level2> in cluster <farm22> Exited
+
+Job <module load cellgen/singularity;    singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs      /nfs/cellgeni/singularity/images/scib-1.1.5.sif      python -u 06_evaluate_batch_correction.py        --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_unintegrated.h5ad        --adata_int     /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_int.h5ad        --output_csv   /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/scib_test_int_evaluation_metrics.csv        --batch_key    Technology        --label_key    majority_voting_Level2> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Sat Jul 12 12:53:00 2025
+Job was executed on host(s) <4*node-14-14>, in queue <long>, as user <sm54> in cluster <farm22> at Sat Jul 12 12:53:02 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration> was used as the working directory.
+Started at Sat Jul 12 12:53:02 2025
+Terminated at Sat Jul 12 12:53:38 2025
+Results reported at Sat Jul 12 12:53:38 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/singularity;    singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs      /nfs/cellgeni/singularity/images/scib-1.1.5.sif      python -u 06_evaluate_batch_correction.py        --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_unintegrated.h5ad        --adata_int     /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_int.h5ad        --output_csv   /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/scib_test_int_evaluation_metrics.csv        --batch_key    Technology        --label_key    majority_voting_Level2
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 130.
+
+Resource usage summary:
+
+    CPU time :                                   28.45 sec.
+    Max Memory :                                 6675 MB
+    Average Memory :                             4222.50 MB
+    Total Requested Memory :                     550000.00 MB
+    Delta Memory :                               543325.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                18
+    Run time :                                   33 sec.
+    Turnaround time :                            38 sec.
+
+The output (if any) is above this job summary.
+

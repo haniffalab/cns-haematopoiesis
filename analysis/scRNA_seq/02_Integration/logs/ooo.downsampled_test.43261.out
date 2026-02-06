@@ -1,0 +1,186 @@
+Reading unintegrated AnnData...
+Unintegrated data loaded.
+Reading integrated AnnData...
+Integrated data loaded.
+Starting evaluation...
+Transferred Technology and majority_voting_Level2 to integrated AnnData.
+Aliased SCVI graph to neighbors/distances/connectivities.
+/env/lib/python3.10/site-packages/scib/metrics/metrics.py:293: DeprecationWarning: Call to deprecated function (or staticmethod) opt_louvain.
+  res_max, nmi_max, nmi_all = opt_louvain(
+Clustering...
+resolution: 0.1, nmi: 0.44381139671734204
+resolution: 0.2, nmi: 0.43500735677492475
+resolution: 0.3, nmi: 0.44163430807447834
+resolution: 0.4, nmi: 0.440673397691674
+resolution: 0.5, nmi: 0.43557775849591196
+resolution: 0.6, nmi: 0.4278477939532847
+resolution: 0.7, nmi: 0.4247862041621351
+resolution: 0.8, nmi: 0.4207548904639163
+resolution: 0.9, nmi: 0.41795903490138375
+resolution: 1.0, nmi: 0.41708155452623824
+resolution: 1.1, nmi: 0.4172210704460817
+resolution: 1.2, nmi: 0.416100262034319
+resolution: 1.3, nmi: 0.41383079958604735
+resolution: 1.4, nmi: 0.41169066042159863
+resolution: 1.5, nmi: 0.40983575155786134
+resolution: 1.6, nmi: 0.40904268569562613
+resolution: 1.7, nmi: 0.4082624527411822
+resolution: 1.8, nmi: 0.4073113554801897
+resolution: 1.9, nmi: 0.40540503982104403
+resolution: 2.0, nmi: 0.4045673393315084
+optimised clustering against majority_voting_Level2
+optimal cluster resolution: 0.1
+optimal score: 0.44381139671734204
+NMI...
+ARI...
+Silhouette score...
+Graph connectivity...
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+kBET...
+batch: Technology
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+Adding diffusion to step 5
+Adding diffusion to step 6
+Adding diffusion to step 7
+Adding diffusion to step 8
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 4066.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+Adding diffusion to step 5
+Adding diffusion to step 6
+Adding diffusion to step 7
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 1351.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+Adding diffusion to step 5
+Adding diffusion to step 6
+Adding diffusion to step 7
+Adding diffusion to step 8
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 647.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+Adding diffusion to step 5
+Adding diffusion to step 6
+Adding diffusion to step 7
+Adding diffusion to step 8
+Adding diffusion to step 9
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 1536.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+Adding diffusion to step 5
+Adding diffusion to step 6
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 3500.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+Adding diffusion to step 5
+Adding diffusion to step 6
+Adding diffusion to step 7
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 1214.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+Adding diffusion to step 5
+Terminated
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-13-18>
+Subject: Job 43261: <module load cellgen/singularity;    singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs      /nfs/cellgeni/singularity/images/scib-1.1.5.sif      python -u 06_evaluate_batch_correction.py        --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_unintegrated.h5ad        --adata_int     /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_int.h5ad        --output_csv   /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/scib_test_int_evaluation_metrics.csv        --batch_key    Technology        --label_key    majority_voting_Level2> in cluster <farm22> Exited
+
+Job <module load cellgen/singularity;    singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs      /nfs/cellgeni/singularity/images/scib-1.1.5.sif      python -u 06_evaluate_batch_correction.py        --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_unintegrated.h5ad        --adata_int     /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_int.h5ad        --output_csv   /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/scib_test_int_evaluation_metrics.csv        --batch_key    Technology        --label_key    majority_voting_Level2> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Sat Jul 12 04:20:10 2025
+Job was executed on host(s) <4*node-13-18>, in queue <long>, as user <sm54> in cluster <farm22> at Sat Jul 12 04:20:11 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration> was used as the working directory.
+Started at Sat Jul 12 04:20:11 2025
+Terminated at Sat Jul 12 06:01:32 2025
+Results reported at Sat Jul 12 06:01:32 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/singularity;    singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs      /nfs/cellgeni/singularity/images/scib-1.1.5.sif      python -u 06_evaluate_batch_correction.py        --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_unintegrated.h5ad        --adata_int     /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_int.h5ad        --output_csv   /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/scib_test_int_evaluation_metrics.csv        --batch_key    Technology        --label_key    majority_voting_Level2
+------------------------------------------------------------
+
+TERM_MEMLIMIT: job killed after reaching LSF memory usage limit.
+Exited with exit code 143.
+
+Resource usage summary:
+
+    CPU time :                                   7583.46 sec.
+    Max Memory :                                 159332 MB
+    Average Memory :                             32330.57 MB
+    Total Requested Memory :                     150000.00 MB
+    Delta Memory :                               -9332.00 MB
+    Max Swap :                                   2 MB
+    Max Processes :                              4
+    Max Threads :                                22
+    Run time :                                   6085 sec.
+    Turnaround time :                            6082 sec.
+
+The output (if any) is above this job summary.
+

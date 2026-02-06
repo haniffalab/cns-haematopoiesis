@@ -1,0 +1,43 @@
+** Using custom python for this environment
+python=3.10.12 scvi=1.1.2 torch=2.3.0+cu121
+  File "/nfs/team298/sm54/BoneAtlasProject/src/integration/10_3_batch_correction_scvi_haem_best_integration_stroma_filtered_permissive_doublet_removed.py", line 17
+    adata=sc.read_h5ad('/nfs/team298/sm54/BoneAtlasProject/data/bone_haem_compartment/bone_haem_atlas_with_filtered_stroma_PERMISSIVE_DOUBLET_REMOVAL.h5ad'))
+                                                                                                                                                            ^
+SyntaxError: unmatched ')'
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@farm22-gpu0301>
+Subject: Job 122467: <module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/10_3_batch_correction_scvi_haem_best_integration_stroma_filtered_permissive_doublet_removed.py                  --n_latent 20                 --n_layers 3                 --n_hidden 128                 --n_hvg 3000> in cluster <farm22> Exited
+
+Job <module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/10_3_batch_correction_scvi_haem_best_integration_stroma_filtered_permissive_doublet_removed.py                  --n_latent 20                 --n_layers 3                 --n_hidden 128                 --n_hvg 3000> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Sun Sep 21 18:59:22 2025
+Job was executed on host(s) <8*farm22-gpu0301>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Sun Sep 21 18:59:26 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Sun Sep 21 18:59:26 2025
+Terminated at Sun Sep 21 18:59:47 2025
+Results reported at Sun Sep 21 18:59:47 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/10_3_batch_correction_scvi_haem_best_integration_stroma_filtered_permissive_doublet_removed.py                  --n_latent 20                 --n_layers 3                 --n_hidden 128                 --n_hvg 3000
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   1.21 sec.
+    Max Memory :                                 5 MB
+    Average Memory :                             5.00 MB
+    Total Requested Memory :                     100000.00 MB
+    Delta Memory :                               99995.00 MB
+    Max Swap :                                   -
+    Max Processes :                              1
+    Max Threads :                                3
+    Run time :                                   8 sec.
+    Turnaround time :                            25 sec.
+
+The output (if any) is above this job summary.
+

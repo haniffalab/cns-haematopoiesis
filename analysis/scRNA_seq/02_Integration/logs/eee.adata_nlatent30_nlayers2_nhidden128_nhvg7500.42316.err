@@ -1,0 +1,3 @@
+/env/lib/python3.10/site-packages/scib/metrics/metrics.py:293: DeprecationWarning: Call to deprecated function (or staticmethod) opt_louvain.
+  res_max, nmi_max, nmi_all = opt_louvain(
+Terminated

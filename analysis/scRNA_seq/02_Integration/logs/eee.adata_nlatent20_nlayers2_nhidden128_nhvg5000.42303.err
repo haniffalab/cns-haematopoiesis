@@ -1,0 +1,22 @@
+/env/lib/python3.10/site-packages/scib/metrics/metrics.py:293: DeprecationWarning: Call to deprecated function (or staticmethod) opt_louvain.
+  res_max, nmi_max, nmi_all = opt_louvain(
+Traceback (most recent call last):
+  File "/nfs/team298/sm54/BoneAtlasProject/src/integration/06_evaluate_batch_correction.py", line 90, in <module>
+    evaluate_batch_correction(
+  File "/nfs/team298/sm54/BoneAtlasProject/src/integration/06_evaluate_batch_correction.py", line 26, in evaluate_batch_correction
+    metrics = scib.metrics.metrics(
+  File "/env/lib/python3.10/site-packages/scib/metrics/metrics.py", line 293, in metrics
+    res_max, nmi_max, nmi_all = opt_louvain(
+  File "/env/lib/python3.10/site-packages/deprecated/classic.py", line 199, in wrapper_function
+    return wrapped_(*args_, **kwargs_)
+  File "/env/lib/python3.10/site-packages/scib/metrics/clustering.py", line 203, in opt_louvain
+    sc.tl.louvain(adata, resolution=res, key_added=cluster_key)
+  File "/env/lib/python3.10/site-packages/legacy_api_wrap/__init__.py", line 82, in fn_compatible
+    return fn(*args_all, **kw)
+  File "/env/lib/python3.10/site-packages/scanpy/tools/_louvain.py", line 165, in louvain
+    g = _utils.get_igraph_from_adjacency(adjacency, directed=directed)
+  File "/env/lib/python3.10/site-packages/scanpy/_utils/__init__.py", line 279, in get_igraph_from_adjacency
+    g.add_edges(list(zip(sources, targets)))
+  File "/env/lib/python3.10/site-packages/igraph/basic.py", line 42, in _add_edges
+    res = GraphBase.add_edges(graph, es)
+KeyboardInterrupt

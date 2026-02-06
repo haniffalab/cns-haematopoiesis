@@ -1,0 +1,44 @@
+** Using custom python for this environment
+python=3.10.12 scvi=1.1.2 torch=2.3.0+cu121
+usage: 14_bone_atlas_lineage_wise_integration.py [-h] --h5ad H5AD --n_latent
+                                                 N_LATENT --n_layers N_LAYERS
+                                                 --n_hidden N_HIDDEN --n_hvg
+                                                 N_HVG [--data_dir DATA_DIR]
+14_bone_atlas_lineage_wise_integration.py: error: the following arguments are required: --h5ad
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@qpg-gpu-02>
+Subject: Job 559721: <module load cellgen/conda; module load cellgen/scvi;                           python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/14_bone_atlas_lineage_wise_integration.py                             --n_latent 30                             --n_layers 2                             --n_hidden 128                             --n_hvg 3000                             --data_dir /nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_non_immune> in cluster <farm22> Exited
+
+Job <module load cellgen/conda; module load cellgen/scvi;                           python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/14_bone_atlas_lineage_wise_integration.py                             --n_latent 30                             --n_layers 2                             --n_hidden 128                             --n_hvg 3000                             --data_dir /nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_non_immune> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Fri Oct  3 01:08:57 2025
+Job was executed on host(s) <4*qpg-gpu-02>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Fri Oct  3 01:08:58 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Fri Oct  3 01:08:58 2025
+Terminated at Fri Oct  3 01:09:17 2025
+Results reported at Fri Oct  3 01:09:17 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; module load cellgen/scvi;                           python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/14_bone_atlas_lineage_wise_integration.py                             --n_latent 30                             --n_layers 2                             --n_hidden 128                             --n_hvg 3000                             --data_dir /nfs/team298/sm54/BoneAtlasProject/data/bone_atlas_anndatas_non_immune
+------------------------------------------------------------
+
+Exited with exit code 2.
+
+Resource usage summary:
+
+    CPU time :                                   15.00 sec.
+    Max Memory :                                 247 MB
+    Average Memory :                             186.50 MB
+    Total Requested Memory :                     150000.00 MB
+    Delta Memory :                               149753.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                22
+    Run time :                                   19 sec.
+    Turnaround time :                            20 sec.
+
+The output (if any) is above this job summary.
+

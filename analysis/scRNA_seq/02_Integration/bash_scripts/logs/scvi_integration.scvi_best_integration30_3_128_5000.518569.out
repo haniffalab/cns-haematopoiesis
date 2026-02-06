@@ -1,0 +1,50 @@
+** Using custom python for this environment
+python=3.10.12 scvi=1.1.2 torch=2.3.0+cu121
+WARNING: adata.X seems to be already log-transformed.
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+You are using a CUDA device ('NVIDIA H100 80GB HBM3') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+/env/lib/python3.10/site-packages/lightning/pytorch/trainer/connectors/data_connector.py:441: The 'train_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=7` in the `DataLoader` to improve performance.
+Training:   0%|          | 0/5 [00:00<?, ?it/s]Epoch 1/5:   0%|          | 0/5 [00:00<?, ?it/s]Epoch 1/5:  20%|██        | 1/5 [01:20<05:21, 80.48s/it]Epoch 1/5:  20%|██        | 1/5 [01:20<05:21, 80.48s/it, v_num=1, train_loss_step=920, train_loss_epoch=1.05e+3]Epoch 2/5:  20%|██        | 1/5 [01:20<05:21, 80.48s/it, v_num=1, train_loss_step=920, train_loss_epoch=1.05e+3]Epoch 2/5:  40%|████      | 2/5 [02:48<04:14, 84.91s/it, v_num=1, train_loss_step=920, train_loss_epoch=1.05e+3]Epoch 2/5:  40%|████      | 2/5 [02:48<04:14, 84.91s/it, v_num=1, train_loss_step=1.04e+3, train_loss_epoch=957]Epoch 3/5:  40%|████      | 2/5 [02:48<04:14, 84.91s/it, v_num=1, train_loss_step=1.04e+3, train_loss_epoch=957]Epoch 3/5:  60%|██████    | 3/5 [04:13<02:49, 84.93s/it, v_num=1, train_loss_step=1.04e+3, train_loss_epoch=957]Epoch 3/5:  60%|██████    | 3/5 [04:13<02:49, 84.93s/it, v_num=1, train_loss_step=1.38e+3, train_loss_epoch=950]Epoch 4/5:  60%|██████    | 3/5 [04:13<02:49, 84.93s/it, v_num=1, train_loss_step=1.38e+3, train_loss_epoch=950]Epoch 4/5:  80%|████████  | 4/5 [05:33<01:23, 83.16s/it, v_num=1, train_loss_step=1.38e+3, train_loss_epoch=950]Epoch 4/5:  80%|████████  | 4/5 [05:33<01:23, 83.16s/it, v_num=1, train_loss_step=1.23e+3, train_loss_epoch=946]Epoch 5/5:  80%|████████  | 4/5 [05:33<01:23, 83.16s/it, v_num=1, train_loss_step=1.23e+3, train_loss_epoch=946]Epoch 5/5: 100%|██████████| 5/5 [06:56<00:00, 82.82s/it, v_num=1, train_loss_step=1.23e+3, train_loss_epoch=946]Epoch 5/5: 100%|██████████| 5/5 [06:56<00:00, 82.82s/it, v_num=1, train_loss_step=1.07e+3, train_loss_epoch=943]`Trainer.fit` stopped: `max_epochs=5` reached.
+Epoch 5/5: 100%|██████████| 5/5 [06:56<00:00, 83.22s/it, v_num=1, train_loss_step=1.07e+3, train_loss_epoch=943]
+Model, embeddings, and outputs saved for n_latent=30, n_layers=3, n_hidden=128, n_hvg=5000
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@qpg-gpu-02>
+Subject: Job 518569: <module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/08_batch_correction_scvi_bone_atlas_best_integration.py                  --n_latent 30                 --n_layers 3                 --n_hidden 128                 --n_hvg 5000> in cluster <farm22> Done
+
+Job <module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/08_batch_correction_scvi_bone_atlas_best_integration.py                  --n_latent 30                 --n_layers 3                 --n_hidden 128                 --n_hvg 5000> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Wed Jul 16 17:17:19 2025
+Job was executed on host(s) <8*qpg-gpu-02>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Wed Jul 16 19:56:44 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration/bash_scripts> was used as the working directory.
+Started at Wed Jul 16 19:56:44 2025
+Terminated at Wed Jul 16 20:42:27 2025
+Results reported at Wed Jul 16 20:42:27 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda; module load cellgen/scvi;               python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/08_batch_correction_scvi_bone_atlas_best_integration.py                  --n_latent 30                 --n_layers 3                 --n_hidden 128                 --n_hvg 5000
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   7403.00 sec.
+    Max Memory :                                 219007 MB
+    Average Memory :                             108346.84 MB
+    Total Requested Memory :                     300000.00 MB
+    Delta Memory :                               80993.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                71
+    Run time :                                   2753 sec.
+    Turnaround time :                            12308 sec.
+
+The output (if any) is above this job summary.
+

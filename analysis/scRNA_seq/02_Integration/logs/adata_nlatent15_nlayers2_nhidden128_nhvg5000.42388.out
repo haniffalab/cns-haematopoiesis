@@ -1,0 +1,150 @@
+reading in unintegrated adata...
+adata unintegrated read in
+reading in integrated adata...
+ integrated adata read in
+Calling evaluation function with parsed arguments...
+Transferred Technology and majority_voting_Level2 to integrated AnnData.
+/env/lib/python3.10/site-packages/scib/metrics/metrics.py:293: DeprecationWarning: Call to deprecated function (or staticmethod) opt_louvain.
+  res_max, nmi_max, nmi_all = opt_louvain(
+Clustering...
+computing neighbours for opt_cluster
+resolution: 0.1, nmi: 0.4290491240796515
+resolution: 0.2, nmi: 0.44529921989425303
+resolution: 0.3, nmi: 0.46262614615413983
+resolution: 0.4, nmi: 0.4580600328268354
+resolution: 0.5, nmi: 0.462934415067904
+resolution: 0.6, nmi: 0.4578360218854148
+resolution: 0.7, nmi: 0.45892198524554406
+resolution: 0.8, nmi: 0.46108920169608325
+resolution: 0.9, nmi: 0.45788755165809303
+resolution: 1.0, nmi: 0.45196091136954364
+resolution: 1.1, nmi: 0.44715791066299826
+resolution: 1.2, nmi: 0.44565508038056706
+resolution: 1.3, nmi: 0.45085459137435163
+resolution: 1.4, nmi: 0.44393174645000444
+resolution: 1.5, nmi: 0.4453561958902497
+resolution: 1.6, nmi: 0.443724977101864
+resolution: 1.7, nmi: 0.43887383822273074
+resolution: 1.8, nmi: 0.4392428543736199
+resolution: 1.9, nmi: 0.4390892804275155
+resolution: 2.0, nmi: 0.43894303550060193
+optimised clustering against majority_voting_Level2
+optimal cluster resolution: 0.5
+optimal score: 0.462934415067904
+NMI...
+ARI...
+Silhouette score...
+PC regression...
+covariate: Technology
+compute PCA n_comps: 50
+/env/lib/python3.10/site-packages/scanpy/preprocessing/_pca.py:374: FutureWarning: Argument `use_highly_variable` is deprecated, consider using the mask argument. Use_highly_variable=True can be called through mask_var="highly_variable". Use_highly_variable=False can be called through mask_var=None
+  warn(msg, FutureWarning)
+covariate: Technology
+Compute PCR on embedding n_comps: 50
+/env/lib/python3.10/site-packages/scanpy/preprocessing/_pca.py:374: FutureWarning: Argument `use_highly_variable` is deprecated, consider using the mask argument. Use_highly_variable=True can be called through mask_var="highly_variable". Use_highly_variable=False can be called through mask_var=None
+  warn(msg, FutureWarning)
+cell cycle effect...
+/env/lib/python3.10/site-packages/scib/preprocessing.py:689: FutureWarning: The specified parameters ('s_genes', 'g2m_genes') are no longer positional. Please specify them like `s_genes=['MCM5', 'PCNA', 'TYMS', 'FEN1', 'MCM2', 'MCM4', 'RRM1', 'UNG', 'GINS2', 'MCM6', 'CDCA7', 'DTL', 'PRIM1', 'UHRF1', 'HELLS', 'RFC2', 'RPA2', 'NASP', 'RAD51AP1', 'GMNN', 'WDR76', 'SLBP', 'CCNE2', 'UBR7', 'POLD3', 'MSH2', 'ATAD2', 'RAD51', 'RRM2', 'CDC45', 'CDC6', 'EXO1', 'TIPIN', 'DSCC1', 'BLM', 'CASP8AP2', 'USP1', 'CLSPN', 'POLA1', 'CHAF1B', 'BRIP1', 'E2F8']`
+  sc.tl.score_genes_cell_cycle(adata, s_genes, g2m_genes)
+/env/lib/python3.10/site-packages/scanpy/tools/_score_genes.py:169: ImplicitModificationWarning: Trying to modify attribute `.obs` of view, initializing view as actual.
+  adata.obs[score_name] = pd.Series(
+/env/lib/python3.10/site-packages/scanpy/preprocessing/_pca.py:374: FutureWarning: Argument `use_highly_variable` is deprecated, consider using the mask argument. Use_highly_variable=True can be called through mask_var="highly_variable". Use_highly_variable=False can be called through mask_var=None
+  warn(msg, FutureWarning)
+/env/lib/python3.10/site-packages/scanpy/preprocessing/_pca.py:374: FutureWarning: Argument `use_highly_variable` is deprecated, consider using the mask argument. Use_highly_variable=True can be called through mask_var="highly_variable". Use_highly_variable=False can be called through mask_var=None
+  warn(msg, FutureWarning)
+/env/lib/python3.10/site-packages/scib/preprocessing.py:689: FutureWarning: The specified parameters ('s_genes', 'g2m_genes') are no longer positional. Please specify them like `s_genes=['MCM5', 'PCNA', 'TYMS', 'FEN1', 'MCM2', 'MCM4', 'RRM1', 'UNG', 'GINS2', 'MCM6', 'CDCA7', 'DTL', 'PRIM1', 'UHRF1', 'HELLS', 'RFC2', 'RPA2', 'NASP', 'RAD51AP1', 'GMNN', 'WDR76', 'SLBP', 'CCNE2', 'UBR7', 'POLD3', 'MSH2', 'ATAD2', 'RAD51', 'RRM2', 'CDC45', 'CDC6', 'EXO1', 'TIPIN', 'DSCC1', 'BLM', 'CASP8AP2', 'USP1', 'CLSPN', 'POLA1', 'CHAF1B', 'BRIP1', 'E2F8']`
+  sc.tl.score_genes_cell_cycle(adata, s_genes, g2m_genes)
+/env/lib/python3.10/site-packages/scanpy/tools/_score_genes.py:169: ImplicitModificationWarning: Trying to modify attribute `.obs` of view, initializing view as actual.
+  adata.obs[score_name] = pd.Series(
+/env/lib/python3.10/site-packages/scanpy/preprocessing/_pca.py:374: FutureWarning: Argument `use_highly_variable` is deprecated, consider using the mask argument. Use_highly_variable=True can be called through mask_var="highly_variable". Use_highly_variable=False can be called through mask_var=None
+  warn(msg, FutureWarning)
+/env/lib/python3.10/site-packages/scanpy/preprocessing/_pca.py:374: FutureWarning: Argument `use_highly_variable` is deprecated, consider using the mask argument. Use_highly_variable=True can be called through mask_var="highly_variable". Use_highly_variable=False can be called through mask_var=None
+  warn(msg, FutureWarning)
+Graph connectivity...
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+/env/lib/python3.10/site-packages/scib/metrics/graph_connectivity.py:56: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(labels)
+kBET...
+batch: Technology
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+Adding diffusion to step 5
+Adding diffusion to step 6
+Adding diffusion to step 7
+Adding diffusion to step 8
+Adding diffusion to step 9
+Adding diffusion to step 10
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:229: DeprecationWarning: The global conversion available with activate() is deprecated and will be removed in the next major release. Use a local converter.
+  anndata2ri.activate()
+importing expression matrix
+kBET estimation
+Number of kBET tests is set to 8020.
+Use 70 nearest neighbors.
+/env/lib/python3.10/site-packages/scib/metrics/kbet.py:158: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  comp_size = pd.value_counts(labs)
+Adding diffusion to step 4
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-14-12>
+Subject: Job 42388: <module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python -u 06_evaluate_batch_correction.py --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_filtered_with_metadata_scvi.h5ad                          --adata_int /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/processed_adata/adata_nlatent15_nlayers2_nhidden128_nhvg5000.h5ad                          --output_csv /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/adata_nlatent15_nlayers2_nhidden128_nhvg5000_evaluation_metrics.csv                          --batch_key Technology                          --label_key majority_voting_Level2> in cluster <farm22> Exited
+
+Job <module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python -u 06_evaluate_batch_correction.py --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_filtered_with_metadata_scvi.h5ad                          --adata_int /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/processed_adata/adata_nlatent15_nlayers2_nhidden128_nhvg5000.h5ad                          --output_csv /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/adata_nlatent15_nlayers2_nhidden128_nhvg5000_evaluation_metrics.csv                          --batch_key Technology                          --label_key majority_voting_Level2> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Sat Jul 12 02:26:12 2025
+Job was executed on host(s) <8*node-14-12>, in queue <long>, as user <sm54> in cluster <farm22> at Sat Jul 12 02:26:13 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration> was used as the working directory.
+Started at Sat Jul 12 02:26:13 2025
+Terminated at Mon Jul 14 01:48:45 2025
+Results reported at Mon Jul 14 01:48:45 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python -u 06_evaluate_batch_correction.py --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_filtered_with_metadata_scvi.h5ad                          --adata_int /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/processed_adata/adata_nlatent15_nlayers2_nhidden128_nhvg5000.h5ad                          --output_csv /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/adata_nlatent15_nlayers2_nhidden128_nhvg5000_evaluation_metrics.csv                          --batch_key Technology                          --label_key majority_voting_Level2
+------------------------------------------------------------
+
+TERM_MEMLIMIT: job killed after reaching LSF memory usage limit.
+Exited with signal termination: 9.
+
+Resource usage summary:
+
+    CPU time :                                   468274.00 sec.
+    Max Memory :                                 450703 MB
+    Average Memory :                             94555.16 MB
+    Total Requested Memory :                     450000.00 MB
+    Delta Memory :                               -703.00 MB
+    Max Swap :                                   25200 MB
+    Max Processes :                              5
+    Max Threads :                                34
+    Run time :                                   170550 sec.
+    Turnaround time :                            170553 sec.
+
+The output (if any) is above this job summary.
+

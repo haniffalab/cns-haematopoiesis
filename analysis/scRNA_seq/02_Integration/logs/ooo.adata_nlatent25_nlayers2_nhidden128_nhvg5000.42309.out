@@ -1,0 +1,44 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-13-18>
+Subject: Job 42309: <module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python 06_evaluate_batch_correction.py --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_filtered_with_metadata_scvi.h5ad                          --adata_int /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/processed_adata/adata_nlatent25_nlayers2_nhidden128_nhvg5000.h5ad                          --output_csv /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/adata_nlatent25_nlayers2_nhidden128_nhvg5000_evaluation_metrics.csv                          --batch_key Technology                          --label_key majority_voting_Level2> in cluster <farm22> Exited
+
+Job <module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python 06_evaluate_batch_correction.py --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_filtered_with_metadata_scvi.h5ad                          --adata_int /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/processed_adata/adata_nlatent25_nlayers2_nhidden128_nhvg5000.h5ad                          --output_csv /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/adata_nlatent25_nlayers2_nhidden128_nhvg5000_evaluation_metrics.csv                          --batch_key Technology                          --label_key majority_voting_Level2> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Sat Jul 12 02:10:02 2025
+Job was executed on host(s) <8*node-13-18>, in queue <long>, as user <sm54> in cluster <farm22> at Sat Jul 12 02:10:03 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/integration> was used as the working directory.
+Started at Sat Jul 12 02:10:03 2025
+Terminated at Sat Jul 12 02:39:47 2025
+Results reported at Sat Jul 12 02:39:47 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/singularity;      singularity exec --cleanenv --home /tmp/sm54 --bind /lustre,/nfs /nfs/cellgeni/singularity/images/scib-1.1.5.sif           python 06_evaluate_batch_correction.py --adata_uninteg /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_filtered_with_metadata_scvi.h5ad                          --adata_int /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/processed_adata/adata_nlatent25_nlayers2_nhidden128_nhvg5000.h5ad                          --output_csv /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/adata_nlatent25_nlayers2_nhidden128_nhvg5000_evaluation_metrics.csv                          --batch_key Technology                          --label_key majority_voting_Level2
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 143.
+
+Resource usage summary:
+
+    CPU time :                                   1784.78 sec.
+    Max Memory :                                 69535 MB
+    Average Memory :                             61548.69 MB
+    Total Requested Memory :                     450000.00 MB
+    Delta Memory :                               380465.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                33
+    Run time :                                   1784 sec.
+    Turnaround time :                            1785 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <logs/eee.adata_nlatent25_nlayers2_nhidden128_nhvg5000.42309.err> for stderr output of this job.
+

@@ -1,0 +1,38 @@
+bash: line 1: singularity: command not found
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@farm22-gpu0305>
+Subject: Job 373614: <scib_scib_test_int_downsampled_new_method> in cluster <farm22> Exited
+
+Job <scib_scib_test_int_downsampled_new_method> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Tue Jul 15 13:28:45 2025
+Job was executed on host(s) <4*farm22-gpu0305>, in queue <gpu-normal>, as user <sm54> in cluster <farm22> at Tue Jul 15 14:26:49 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/processed_adata> was used as the working directory.
+Started at Tue Jul 15 14:26:49 2025
+Terminated at Tue Jul 15 14:27:33 2025
+Results reported at Tue Jul 15 14:27:33 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+bash -lc "    singularity exec --nv --cleanenv --home /tmp/sm54       --bind /lustre,/nfs       /nfs/cellgeni/singularity/images/scib-1.1.5.sif     python -u /nfs/team298/sm54/BoneAtlasProject/src/integration/07_scib_benchmark_2.py       --input    /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_int.h5ad       --pca      /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_test_unintegrated_pca.parquet       --output   /lustre/scratch126/cellgen/haniffa/sm54/BoneAtlasProject/data/bone_atlas_scvi_runs/scib_output/scib_scib_test_int_downsampled_new_method_scib.csv       --batch-key Technology       --label-key majority_voting_Level2       --neighbors 15       --jobs     4   "
+------------------------------------------------------------
+
+Exited with exit code 127.
+
+Resource usage summary:
+
+    CPU time :                                   0.93 sec.
+    Max Memory :                                 5 MB
+    Average Memory :                             5.00 MB
+    Total Requested Memory :                     200000.00 MB
+    Delta Memory :                               199995.00 MB
+    Max Swap :                                   -
+    Max Processes :                              1
+    Max Threads :                                3
+    Run time :                                   35 sec.
+    Turnaround time :                            3528 sec.
+
+The output (if any) is above this job summary.
+
