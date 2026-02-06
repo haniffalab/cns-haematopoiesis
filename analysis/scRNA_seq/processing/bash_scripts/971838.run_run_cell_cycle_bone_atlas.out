@@ -1,0 +1,46 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-12-2-4>
+Subject: Job 971838: <qc_bone_atlas> in cluster <farm22> Done
+
+Job <qc_bone_atlas> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Fri Jul 11 00:24:08 2025
+Job was executed on host(s) <2*node-12-2-4>, in queue <normal>, as user <sm54> in cluster <farm22> at Fri Jul 11 00:33:15 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Fri Jul 11 00:33:15 2025
+Terminated at Fri Jul 11 00:53:32 2025
+Results reported at Fri Jul 11 00:53:32 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda;
+   conda activate boneatlas;
+   cd /nfs/team298/sm54/BoneAtlasProject/src/processing;
+   python 04_run_cell_cycle.py
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   1212.99 sec.
+    Max Memory :                                 218715 MB
+    Average Memory :                             105643.05 MB
+    Total Requested Memory :                     300000.00 MB
+    Delta Memory :                               81285.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                5
+    Run time :                                   1214 sec.
+    Turnaround time :                            1764 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <971838.qc_bone_atlas.err> for stderr output of this job.
+

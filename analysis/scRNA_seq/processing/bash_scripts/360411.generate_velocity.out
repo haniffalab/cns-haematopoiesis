@@ -1,0 +1,42 @@
+usage: generate_velocity_h5ads.py [-h] --input_dir INPUT_DIR --output_dir
+                                  OUTPUT_DIR [--merged_name MERGED_NAME]
+generate_velocity_h5ads.py: error: unrecognized arguments: --log_dir /nfs/team298/sm54/BoneAtlasProject/src/processing/logs
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-13-10>
+Subject: Job 360411: <generate_velocity> in cluster <farm22> Exited
+
+Job <generate_velocity> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Sat Nov 22 15:50:26 2025
+Job was executed on host(s) <8*node-13-10>, in queue <normal>, as user <sm54> in cluster <farm22> at Sat Nov 22 15:50:27 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Sat Nov 22 15:50:27 2025
+Terminated at Sat Nov 22 15:50:34 2025
+Results reported at Sat Nov 22 15:50:34 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda;
+   conda activate boneatlas;
+   python -u /nfs/team298/sm54/BoneAtlasProject/src/processing/generate_velocity_h5ads.py        --input_dir /nfs/cellgeni/tickets/tic-3721/actions/data/STARsolo        --output_dir /lustre/scratch124/cellgen/haniffa/users/sm54/data/velocity        --merged_name velocity_merged.h5ad        --log_dir /nfs/team298/sm54/BoneAtlasProject/src/processing/logs
+------------------------------------------------------------
+
+Exited with exit code 2.
+
+Resource usage summary:
+
+    CPU time :                                   4.00 sec.
+    Max Memory :                                 11 MB
+    Average Memory :                             11.00 MB
+    Total Requested Memory :                     450000.00 MB
+    Delta Memory :                               449989.00 MB
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   7 sec.
+    Turnaround time :                            8 sec.
+
+The output (if any) is above this job summary.
+

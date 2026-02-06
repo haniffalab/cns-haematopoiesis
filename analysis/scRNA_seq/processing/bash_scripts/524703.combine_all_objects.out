@@ -1,0 +1,44 @@
+  File "/nfs/team298/sm54/BoneAtlasProject/src/processing/07_generate_combined_h5ad_with_gene_names.py", line 93
+    if adata_combined.obs[col].dtype == "object":
+    ^
+IndentationError: expected an indented block
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-5-10-4>
+Subject: Job 524703: <combine_all_objects> in cluster <gen22> Exited
+
+Job <combine_all_objects> was submitted from host <node-5-10-4> by user <sm54> in cluster <gen22> at Sun Nov  2 01:43:10 2025
+Job was executed on host(s) <2*node-5-10-4>, in queue <normal>, as user <sm54> in cluster <gen22> at Sun Nov  2 01:49:58 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Sun Nov  2 01:49:58 2025
+Terminated at Sun Nov  2 01:50:00 2025
+Results reported at Sun Nov  2 01:50:00 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda;
+   conda activate boneatlas;
+   cd /nfs/team298/sm54/BoneAtlasProject/src/processing;
+   python 07_generate_combined_h5ad_with_gene_names.py --adata1 /lustre/scratch124/cellgen/haniffa/users/sm54/data/combined_adata_for_scvi.h5ad --adata2 /lustre/scratch124/cellgen/haniffa/users/sm54/data/Linnarson/Linnarson_filtered_with_metadata.h5ad --output /lustre/scratch124/cellgen/haniffa/users/sm54/data/combined_adata_bone_cross_organ_brain_for_scvi_with_gene_names.h5ad
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   1.00 sec.
+    Max Memory :                                 7 MB
+    Average Memory :                             7.00 MB
+    Total Requested Memory :                     450000.00 MB
+    Delta Memory :                               449993.00 MB
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   2 sec.
+    Turnaround time :                            410 sec.
+
+The output (if any) is above this job summary.
+

@@ -1,0 +1,1672 @@
+Writing logs to /nfs/team298/sm54/BoneAtlasProject/raw/logs/generate_h5ad.log
+Found 279 unique samples
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S7985393/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S7985394/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S7985395/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S7985391/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S7985389/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S7985390/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S7985392/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S8159187/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S8159189/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S8159188/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S8159190/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S8159185/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S8159183/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S8159182/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S8159184/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCA_gut8015060/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCA_gut8015059/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCA_gut8015058/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCA_gut8015057/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S7985396/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/Human_colon_16S7985397/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579225/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528293/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528292/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579215/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579214/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7555859/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7555850/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7555849/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7462242/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7462243/cellbender_out_filtered.h5
+ (0:00:04)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7002875/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7002876/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7002881/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7002885/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7002886/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7862084/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7862085/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7862086/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7862087/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7241242/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7241243/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7198630/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7198631/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579210/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579211/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579222/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579223/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579226/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579227/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528286/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528287/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528288/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528289/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528295/cellbender_out_filtered.h5
+ (0:00:04)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7277560/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7277561/cellbender_out_filtered.h5
+ (0:00:04)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7292032/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7179363/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7179364/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7555846/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7555847/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7555856/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7555857/cellbender_out_filtered.h5
+ (0:00:04)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7277552/cellbender_out_filtered.h5
+ (0:00:04)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7277553/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7292028/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316894/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316895/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316901/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7462237/cellbender_out_filtered.h5
+ (0:00:04)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7462238/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7462239/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7002877/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7002878/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7352192/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7352193/cellbender_out_filtered.h5
+ (0:00:04)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7352194/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7352195/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7352196/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7002882/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7038750/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7038751/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7198434/cellbender_out_filtered.h5
+ (0:00:04)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7198628/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7198629/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316889/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316890/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316891/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316892/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316893/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7862095/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7862094/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7862096/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7964502/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7964503/cellbender_out_filtered.h5
+ (0:00:04)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7964504/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7964505/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528290/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528291/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528296/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579212/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579213/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579224/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14539490/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14539491/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14539492/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14539493/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14539494/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14539495/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14539496/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14539497/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14539498/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14539499/cellbender_out_filtered.h5
+ (0:00:04)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14539500/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14539501/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803034/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803035/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803042/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803043/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7964506/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7964507/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7964508/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7964509/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7964510/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803024/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803025/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803026/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803027/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7555848/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7555858/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14449635/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14449636/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14449637/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14449638/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14449639/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14449640/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14449641/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_rFSKI14449642/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942138/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942139/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942141/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942142/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942143/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942144/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942145/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942146/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942147/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942148/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942149/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942150/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942151/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942152/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB13942153/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7241240/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7241241/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316896/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316897/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7462240/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7462241/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7002879/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7002880/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7352189/cellbender_out_filtered.h5
+ (0:00:05)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7352190/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7352191/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7002883/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7038752/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/4834STDY7038753/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316886/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316887/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316888/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7198433/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7198632/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7198633/cellbender_out_filtered.h5
+ (0:00:04)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7964499/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7964500/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7964501/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528279/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528280/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579216/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579217/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579228/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579229/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7277562/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7277563/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7292033/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803036/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803037/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803038/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803039/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803040/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803041/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803020/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803021/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803022/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7803023/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7179365/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7179366/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7277554/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7277555/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7292029/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316898/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316899/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7198432/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7198634/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7198635/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7851890/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7851891/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579218/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579219/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579230/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7579231/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7851892/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7851893/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7851894/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7851895/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7851896/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7851897/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528283/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528284/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528285/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7528294/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7277564/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7277565/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7292034/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7179369/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7179370/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7555851/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7555852/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7555860/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7555861/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7277556/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7277557/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7292030/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7862088/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7862089/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7862090/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7862091/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7862092/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7862093/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7198435/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7504909/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7504910/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7504911/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7504912/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7504913/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7316900/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP7462244/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB12142156/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB12142157/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB12142158/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB12142159/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP8096686/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP8096687/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP8096688/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP8096689/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP8096690/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP8096691/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP8096692/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP8096693/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP8096694/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP8096695/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP8096696/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/FCAImmP8102304/cellbender_out_filtered.h5
+ (0:00:02)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB12142160/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/WS_wEMB12142161/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_BRA_F13168988/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_BRA_F13168989/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_BRA_F13168990/cellbender_out_filtered.h5
+ (0:00:04)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_BRA_F13168991/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_BRA_F13168992/cellbender_out_filtered.h5
+ (0:00:05)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_BRA_F13168993/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_BRA_F13774551/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_BRA_F13774552/cellbender_out_filtered.h5
+ (0:00:03)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_BRA_F13774553/cellbender_out_filtered.h5
+ (0:00:00)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_BRA_F13774554/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_BRA_F13774555/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+reading /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/HCA_BRA_F13774556/cellbender_out_filtered.h5
+ (0:00:01)
+... storing 'Sanger_ID' as categorical
+... storing 'feature_types' as categorical
+... storing 'genome' as categorical
+... storing 'SYMBOL' as categorical
+... storing 'barcode_raw' as categorical
+Finished processing 279 samples

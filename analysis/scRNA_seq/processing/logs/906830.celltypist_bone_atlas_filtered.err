@@ -1,0 +1,5135 @@
+Bulk CellTypist on /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/bone_atlas_filtered_with_metadata.h5ad
+[CellTypist] Processing HCA_BN_F12482363 (122 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 122 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 34809 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:11)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12482365 (28 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 28 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+⚠️ Warning: the input number of cells (28) is too few to conduct proper over-clustering; no majority voting is performed
+[CellTypist] Processing HCA_BN_F12482366 (5479 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5479 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12107 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12966455 (18927 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 18927 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 7870 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:31)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12966457 (19178 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 19178 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 7512 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12966458 (10170 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 10170 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8558 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F13109710 (20302 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 20302 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 7082 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:04)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F13109711 (18494 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 18494 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 7407 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F13109712 (16372 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 16372 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 6800 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:04)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F13109713 (34761 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 34761 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 6194 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:08)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:04)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:01)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F13177434 (10439 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 10439 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8133 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F13177435 (11981 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 11981 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 7250 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F13177436 (11801 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 11801 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 7862 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12808058 (9676 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 9676 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8093 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12808059 (77 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 77 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 35306 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12808060 (306 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 306 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 28114 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12922481 (12007 cells)
+normalizing counts per cell
+    finished (0:00:01)
+🔬 Input data has 12007 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8007 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12922486 (20879 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 20879 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 7682 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:01)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:04)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12874040 (24235 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 24235 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14816 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:10)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:04)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12863837 (11597 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 11597 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8428 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12874043 (10885 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 10885 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8047 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12627471 (551 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 551 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 25829 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12922485 (15901 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 15901 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 6993 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12627472 (9802 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 9802 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8840 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12922482 (8325 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 8325 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10230 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12922484 (8594 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 8594 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9693 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12874047 (24771 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 24771 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13535 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:10)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:04)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:01)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12874041 (20463 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 20463 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15692 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:09)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:04)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12874046 (16667 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 16667 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14598 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:08)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12863835 (17711 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 17711 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8119 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12874044 (9156 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 9156 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10099 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12627470 (2831 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 2831 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 18488 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12922483 (14182 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 14182 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8098 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12874042 (27765 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 27765 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12495 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:11)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:04)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12863836 (6712 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 6712 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15260 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12874045 (12782 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 12782 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 7763 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12922487 (19285 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 19285 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 6339 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:01)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12627473 (15068 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 15068 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10985 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:05)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12808062 (3362 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3362 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13100 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12808061 (3376 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3376 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13691 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12482359 (5582 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5582 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10975 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12966456 (10681 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 10681 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 16217 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:04)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12966460 (23185 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 23185 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 6393 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:01)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:04)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12966461 (27879 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 27879 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 11441 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:12)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:04)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F13177437 (21842 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 21842 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 6936 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:01)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12482360 (1261 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 1261 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13283 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12482361 (4404 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4404 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13591 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12482362 (249 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 249 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 28888 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F12966459 (22074 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 22074 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 6850 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:01)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:04)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F13109714 (18274 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 18274 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8080 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F13109715 (17256 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 17256 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8239 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:04)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F13109718 (5662 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5662 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12841 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing HCA_BN_F13109719 (5352 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5352 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10531 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10841321 (11175 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 11175 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9192 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10621989 (6123 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 6123 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 11040 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10621992 (5903 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5903 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 11098 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10621990 (7213 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 7213 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9986 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10621991 (9747 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 9747 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9878 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10841322 (6573 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 6573 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9720 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10841323 (8632 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 8632 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9636 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10032965 (9269 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 9269 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8570 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10032967 (9409 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 9409 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8269 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10032966 (8683 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 8683 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15174 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10032968 (5924 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5924 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9338 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10032964 (9628 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 9628 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8613 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10032969 (9743 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 9743 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9101 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10841316 (659 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 659 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 24453 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10841317 (3752 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3752 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 11601 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10841318 (3987 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3987 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10735 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10841319 (795 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 795 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15533 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10841320 (1340 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 1340 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13671 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10297927 (2280 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 2280 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13115 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10297933 (11 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 11 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+⚠️ Warning: the input number of cells (11) is too few to conduct proper over-clustering; no majority voting is performed
+[CellTypist] Processing SB_200532_10297922 (5487 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5487 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10863 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10297928 (3389 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3389 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12055 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10297923 (4887 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4887 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10847 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10297929 (1503 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 1503 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13755 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10297924 (6677 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 6677 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10370 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10297930 (5093 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5093 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 11241 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10297925 (5237 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5237 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10739 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10297931 (5842 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5842 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10989 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10297926 (5208 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5208 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10219 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10297932 (18 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 18 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+⚠️ Warning: the input number of cells (18) is too few to conduct proper over-clustering; no majority voting is performed
+[CellTypist] Processing SB_200532_11254458 (5847 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5847 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8966 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11254463 (26600 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 26600 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8202 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:01)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:04)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11254461 (22 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 22 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+⚠️ Warning: the input number of cells (22) is too few to conduct proper over-clustering; no majority voting is performed
+[CellTypist] Processing SB_200532_11254466 (12850 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 12850 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10765 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11254462 (1297 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 1297 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13080 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11254467 (5754 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5754 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 17073 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11254459 (3824 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3824 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10096 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11254464 (5542 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5542 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 19067 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11254460 (350 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 350 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 30043 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11254465 (2954 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 2954 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 19339 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10863985 (4 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+⚠️ Warning: the input number of cells (4) is too few to conduct proper over-clustering; no majority voting is performed
+[CellTypist] Processing SB_200532_10863991 (110 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 110 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 34766 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10863988 (1645 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 1645 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13310 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10863994 (36 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 36 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+⚠️ Warning: the input number of cells (36) is too few to conduct proper over-clustering; no majority voting is performed
+[CellTypist] Processing SB_200532_10863989 (68 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 68 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 34924 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10863995 (43 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 43 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+⚠️ Warning: the input number of cells (43) is too few to conduct proper over-clustering; no majority voting is performed
+[CellTypist] Processing SB_200532_10863986 (200 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 200 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 32028 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10863992 (52 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 52 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 35805 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10863987 (51 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 51 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 35482 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_10863993 (49 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 49 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+⚠️ Warning: the input number of cells (49) is too few to conduct proper over-clustering; no majority voting is performed
+[CellTypist] Processing SB_200532_11018313 (9694 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 9694 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9268 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11018314 (12659 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 12659 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9034 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11018315 (26922 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 26922 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8287 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:01)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:04)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11018316 (15403 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 15403 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9519 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11018317 (18800 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 18800 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8090 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11018318 (42577 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 42577 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9367 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:01)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:08)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:05)
+⛓️ Over-clustering input data with resolution set to 20
+running Leiden clustering
+    finished (0:00:01)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11018319 (16309 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 16309 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9111 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11018320 (20404 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 20404 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8307 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11018321 (38420 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 38420 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8084 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:01)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:05)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:05)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:01)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11018322 (18565 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 18565 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8965 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:04)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11018323 (12572 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 12572 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 9956 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing SB_200532_11018324 (32132 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 32132 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 8787 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:01)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:05)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 15
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing GSM4274188 (5501 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5501 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13117 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing GSM4274189 (8256 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 8256 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12579 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing GSM4274190 (11128 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 11128 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 10737 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing GSM4274191 (4611 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4611 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13683 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing GSM4274192 (6851 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 6851 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12987 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing GSM4274193 (7019 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 7019 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13863 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:01)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing GSM4274194 (4399 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4399 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14262 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing GSM4609136 (6143 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 6143 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 11602 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5386STDY7537944 (4967 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4967 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13917 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7717491 (6332 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 6332 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 11670 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7717492 (6221 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 6221 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 11696 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7652318 (5036 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5036 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 11735 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5386STDY7557336 (4221 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4221 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14998 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5386STDY7557337 (4417 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4417 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14949 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5386STDY7557335 (3626 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3626 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15305 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7536758 (5074 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5074 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12436 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7536759 (5400 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5400 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12327 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7980348 (4488 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4488 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12268 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7980349 (5075 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5075 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12083 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7935101 (10536 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 10536 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 11476 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7935102 (8359 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 8359 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12960 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:03)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_THYst9384953 (5257 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5257 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14558 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_THYst9384954 (4286 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4286 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14329 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_THYst9384955 (4495 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4495 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13374 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_THYst9384956 (5227 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5227 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13652 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_THYst9384957 (3961 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3961 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14414 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_THYst9384958 (3040 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3040 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14677 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_THYst8796437 (9353 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 9353 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12038 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_THYst8796438 (4139 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4139 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13857 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_THYst8796439 (7097 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 7097 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13268 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_THYst8796440 (2622 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 2622 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15130 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_THYst8796441 (3982 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3982 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13866 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_THYst8796442 (9219 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 9219 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12571 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:03)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:02)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_F_BON8710636 (3298 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3298 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13126 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_F_BON8710637 (2578 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 2578 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13652 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_F_BON8710638 (3514 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3514 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12278 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_F_BON8710639 (2839 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 2839 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13549 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_F_BON8710640 (3272 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3272 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13179 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_F_BON8710641 (1102 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 1102 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15618 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_F_BON8710642 (3350 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3350 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12853 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing WSSS_F_BON8710643 (2073 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 2073 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14225 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7803028 (6424 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 6424 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 16688 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7803029 (5818 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5818 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 16889 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7803030 (5863 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5863 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 17096 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7803031 (4285 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4285 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 19285 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7803032 (4095 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4095 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 19767 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7803033 (4316 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4316 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 19778 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7803016 (5206 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5206 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 16179 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7803017 (5235 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5235 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 16054 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7803018 (3709 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3709 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 21937 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7803019 (3841 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3841 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 21595 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7579220 (4072 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4072 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15666 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7579221 (2907 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 2907 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 16627 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7579232 (5359 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5359 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15980 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7579233 (2887 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 2887 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 17448 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7555853 (5137 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5137 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13097 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7555854 (3339 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3339 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15948 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7555862 (5154 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5154 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15045 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7555855 (2804 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 2804 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 17176 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7528281 (4820 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4820 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 18047 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7528282 (1820 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 1820 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 17037 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7277566 (6742 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 6742 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14375 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7277567 (5144 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5144 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14965 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7292035 (7295 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 7295 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 16289 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7277558 (2462 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 2462 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15987 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7277559 (7094 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 7094 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13763 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7292031 (7898 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 7898 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15005 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:02)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7179367 (3854 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3854 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15237 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing FCAImmP7179368 (2620 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 2620 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 15863 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7819844 (4203 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4203 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12660 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7819845 (3709 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3709 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13185 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7819846 (3168 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3168 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12669 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7819847 (3864 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3864 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12574 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7819848 (3108 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3108 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13529 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7819849 (2691 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 2691 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13828 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7840021 (3972 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3972 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14173 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7840022 (4284 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4284 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14810 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7840023 (3291 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3291 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14641 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7840024 (1214 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 1214 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 17442 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7850142 (4212 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4212 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12303 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7850143 (4226 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 4226 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12357 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7850144 (7515 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 7515 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 11439 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7850145 (851 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 851 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 14604 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7850146 (5413 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 5413 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 12092 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7850147 (6634 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 6634 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 11950 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7850148 (3405 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 3405 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 13062 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:00)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 5
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Processing 5478STDY7850149 (6221 cells)
+normalizing counts per cell
+    finished (0:00:00)
+🔬 Input data has 6221 cells and 36601 genes
+🔗 Matching reference genes in the model
+🧬 7391 features used for prediction
+⚖️ Scaling input data
+🖋️ Predicting labels
+✅ Prediction done!
+👀 Can not detect a neighborhood graph, will construct one before the over-clustering
+filtered out 11716 genes that are detected in less than 5 cells
+extracting highly variable genes
+    finished (0:00:00)
+... as `zero_center=True`, sparse input is densified and may lead to large memory consumption
+computing PCA
+    with n_comps=50
+    finished (0:00:01)
+computing neighbors
+    using 'X_pca' with n_pcs = 50
+    finished (0:00:00)
+⛓️ Over-clustering input data with resolution set to 10
+running Leiden clustering
+    finished (0:00:00)
+🗳️ Majority voting the predictions
+✅ Majority voting done!
+[CellTypist] Done: 202 processed, 0 skipped, out of 202 samples.
+  Sample SB_200532_11018318: 42577 cells
+  Sample SB_200532_11018321: 38420 cells
+  Sample HCA_BN_F13109713: 34761 cells
+  Sample SB_200532_11018324: 32132 cells
+  Sample HCA_BN_F12966461: 27879 cells
+  Sample HCA_BN_F12874042: 27765 cells
+  Sample SB_200532_11018315: 26922 cells
+  Sample SB_200532_11254463: 26600 cells
+  Sample HCA_BN_F12874047: 24771 cells
+  Sample HCA_BN_F12874040: 24235 cells
+  Sample HCA_BN_F12966460: 23185 cells
+  Sample HCA_BN_F12966459: 22074 cells
+  Sample HCA_BN_F13177437: 21842 cells
+  Sample HCA_BN_F12922486: 20879 cells
+  Sample HCA_BN_F12874041: 20463 cells
+  Sample SB_200532_11018320: 20404 cells
+  Sample HCA_BN_F13109710: 20302 cells
+  Sample HCA_BN_F12922487: 19285 cells
+  Sample HCA_BN_F12966457: 19178 cells
+  Sample HCA_BN_F12966455: 18927 cells
+  Sample SB_200532_11018317: 18800 cells
+  Sample SB_200532_11018322: 18565 cells
+  Sample HCA_BN_F13109711: 18494 cells
+  Sample HCA_BN_F13109714: 18274 cells
+  Sample HCA_BN_F12863835: 17711 cells
+  Sample HCA_BN_F13109715: 17256 cells
+  Sample HCA_BN_F12874046: 16667 cells
+  Sample HCA_BN_F13109712: 16372 cells
+  Sample SB_200532_11018319: 16309 cells
+  Sample HCA_BN_F12922485: 15901 cells
+  Sample SB_200532_11018316: 15403 cells
+  Sample HCA_BN_F12627473: 15068 cells
+  Sample HCA_BN_F12922483: 14182 cells
+  Sample SB_200532_11254466: 12850 cells
+  Sample HCA_BN_F12874045: 12782 cells
+  Sample SB_200532_11018314: 12659 cells
+  Sample SB_200532_11018323: 12572 cells
+  Sample HCA_BN_F12922481: 12007 cells
+  Sample HCA_BN_F13177435: 11981 cells
+  Sample HCA_BN_F13177436: 11801 cells
+  Sample HCA_BN_F12863837: 11597 cells
+  Sample SB_200532_10841321: 11175 cells
+  Sample GSM4274190: 11128 cells
+  Sample HCA_BN_F12874043: 10885 cells
+  Sample HCA_BN_F12966456: 10681 cells
+  Sample 5478STDY7935101: 10536 cells
+  Sample HCA_BN_F13177434: 10439 cells
+  Sample HCA_BN_F12966458: 10170 cells
+  Sample HCA_BN_F12627472: 9802 cells
+  Sample SB_200532_10621991: 9747 cells
+  Sample SB_200532_10032969: 9743 cells
+  Sample SB_200532_11018313: 9694 cells
+  Sample HCA_BN_F12808058: 9676 cells
+  Sample SB_200532_10032964: 9628 cells
+  Sample SB_200532_10032967: 9409 cells
+  Sample WSSS_THYst8796437: 9353 cells
+  Sample SB_200532_10032965: 9269 cells
+  Sample WSSS_THYst8796442: 9219 cells
+  Sample HCA_BN_F12874044: 9156 cells
+  Sample SB_200532_10032966: 8683 cells
+  Sample SB_200532_10841323: 8632 cells
+  Sample HCA_BN_F12922484: 8594 cells
+  Sample 5478STDY7935102: 8359 cells
+  Sample HCA_BN_F12922482: 8325 cells
+  Sample GSM4274189: 8256 cells
+  Sample FCAImmP7292031: 7898 cells
+  Sample 5478STDY7850144: 7515 cells
+  Sample FCAImmP7292035: 7295 cells
+  Sample SB_200532_10621990: 7213 cells
+  Sample WSSS_THYst8796439: 7097 cells
+  Sample FCAImmP7277559: 7094 cells
+  Sample GSM4274193: 7019 cells
+  Sample GSM4274192: 6851 cells
+  Sample FCAImmP7277566: 6742 cells
+  Sample HCA_BN_F12863836: 6712 cells
+  Sample SB_200532_10297924: 6677 cells
+  Sample 5478STDY7850147: 6634 cells
+  Sample SB_200532_10841322: 6573 cells
+  Sample FCAImmP7803028: 6424 cells
+  Sample 5478STDY7717491: 6332 cells
+  Sample 5478STDY7717492: 6221 cells
+  Sample 5478STDY7850149: 6221 cells
+  Sample GSM4609136: 6143 cells
+  Sample SB_200532_10621989: 6123 cells
+  Sample SB_200532_10032968: 5924 cells
+  Sample SB_200532_10621992: 5903 cells
+  Sample FCAImmP7803030: 5863 cells
+  Sample SB_200532_11254458: 5847 cells
+  Sample SB_200532_10297931: 5842 cells
+  Sample FCAImmP7803029: 5818 cells
+  Sample SB_200532_11254467: 5754 cells
+  Sample HCA_BN_F13109718: 5662 cells
+  Sample HCA_BN_F12482359: 5582 cells
+  Sample SB_200532_11254464: 5542 cells
+  Sample GSM4274188: 5501 cells
+  Sample SB_200532_10297922: 5487 cells
+  Sample HCA_BN_F12482366: 5479 cells
+  Sample 5478STDY7850146: 5413 cells
+  Sample FCAImmP7536759: 5400 cells
+  Sample FCAImmP7579232: 5359 cells
+  Sample HCA_BN_F13109719: 5352 cells
+  Sample WSSS_THYst9384953: 5257 cells
+  Sample SB_200532_10297925: 5237 cells
+  Sample FCAImmP7803017: 5235 cells
+  Sample WSSS_THYst9384956: 5227 cells
+  Sample SB_200532_10297926: 5208 cells
+  Sample FCAImmP7803016: 5206 cells
+  Sample FCAImmP7555862: 5154 cells
+  Sample FCAImmP7277567: 5144 cells
+  Sample FCAImmP7555853: 5137 cells
+  Sample SB_200532_10297930: 5093 cells
+  Sample 5478STDY7980349: 5075 cells
+  Sample FCAImmP7536758: 5074 cells
+  Sample 5478STDY7652318: 5036 cells
+  Sample 5386STDY7537944: 4967 cells
+  Sample SB_200532_10297923: 4887 cells
+  Sample FCAImmP7528281: 4820 cells
+  Sample GSM4274191: 4611 cells
+  Sample WSSS_THYst9384955: 4495 cells
+  Sample 5478STDY7980348: 4488 cells
+  Sample 5386STDY7557337: 4417 cells
+  Sample HCA_BN_F12482361: 4404 cells
+  Sample GSM4274194: 4399 cells
+  Sample FCAImmP7803033: 4316 cells
+  Sample WSSS_THYst9384954: 4286 cells
+  Sample FCAImmP7803031: 4285 cells
+  Sample 5478STDY7840022: 4284 cells
+  Sample 5478STDY7850143: 4226 cells
+  Sample 5386STDY7557336: 4221 cells
+  Sample 5478STDY7850142: 4212 cells
+  Sample 5478STDY7819844: 4203 cells
+  Sample WSSS_THYst8796438: 4139 cells
+  Sample FCAImmP7803032: 4095 cells
+  Sample FCAImmP7579220: 4072 cells
+  Sample SB_200532_10841318: 3987 cells
+  Sample WSSS_THYst8796441: 3982 cells
+  Sample 5478STDY7840021: 3972 cells
+  Sample WSSS_THYst9384957: 3961 cells
+  Sample 5478STDY7819847: 3864 cells
+  Sample FCAImmP7179367: 3854 cells
+  Sample FCAImmP7803019: 3841 cells
+  Sample SB_200532_11254459: 3824 cells
+  Sample SB_200532_10841317: 3752 cells
+  Sample FCAImmP7803018: 3709 cells
+  Sample 5478STDY7819845: 3709 cells
+  Sample 5386STDY7557335: 3626 cells
+  Sample WSSS_F_BON8710638: 3514 cells
+  Sample 5478STDY7850148: 3405 cells
+  Sample SB_200532_10297928: 3389 cells
+  Sample HCA_BN_F12808061: 3376 cells
+  Sample HCA_BN_F12808062: 3362 cells
+  Sample WSSS_F_BON8710642: 3350 cells
+  Sample FCAImmP7555854: 3339 cells
+  Sample WSSS_F_BON8710636: 3298 cells
+  Sample 5478STDY7840023: 3291 cells
+  Sample WSSS_F_BON8710640: 3272 cells
+  Sample 5478STDY7819846: 3168 cells
+  Sample 5478STDY7819848: 3108 cells
+  Sample WSSS_THYst9384958: 3040 cells
+  Sample SB_200532_11254465: 2954 cells
+  Sample FCAImmP7579221: 2907 cells
+  Sample FCAImmP7579233: 2887 cells
+  Sample WSSS_F_BON8710639: 2839 cells
+  Sample HCA_BN_F12627470: 2831 cells
+  Sample FCAImmP7555855: 2804 cells
+  Sample 5478STDY7819849: 2691 cells
+  Sample WSSS_THYst8796440: 2622 cells
+  Sample FCAImmP7179368: 2620 cells
+  Sample WSSS_F_BON8710637: 2578 cells
+  Sample FCAImmP7277558: 2462 cells
+  Sample SB_200532_10297927: 2280 cells
+  Sample WSSS_F_BON8710643: 2073 cells
+  Sample FCAImmP7528282: 1820 cells
+  Sample SB_200532_10863988: 1645 cells
+  Sample SB_200532_10297929: 1503 cells
+  Sample SB_200532_10841320: 1340 cells
+  Sample SB_200532_11254462: 1297 cells
+  Sample HCA_BN_F12482360: 1261 cells
+  Sample 5478STDY7840024: 1214 cells
+  Sample WSSS_F_BON8710641: 1102 cells
+  Sample 5478STDY7850145: 851 cells
+  Sample SB_200532_10841319: 795 cells
+  Sample SB_200532_10841316: 659 cells
+  Sample HCA_BN_F12627471: 551 cells
+  Sample SB_200532_11254460: 350 cells
+  Sample HCA_BN_F12808060: 306 cells
+  Sample HCA_BN_F12482362: 249 cells
+  Sample SB_200532_10863986: 200 cells
+  Sample HCA_BN_F12482363: 122 cells
+  Sample SB_200532_10863991: 110 cells
+  Sample HCA_BN_F12808059: 77 cells
+  Sample SB_200532_10863989: 68 cells
+  Sample SB_200532_10863992: 52 cells
+  Sample SB_200532_10863987: 51 cells
+  Sample SB_200532_10863993: 49 cells
+  Sample SB_200532_10863995: 43 cells
+  Sample SB_200532_10863994: 36 cells
+  Sample HCA_BN_F12482365: 28 cells
+  Sample SB_200532_11254461: 22 cells
+  Sample SB_200532_10297932: 18 cells
+  Sample SB_200532_10297933: 11 cells
+  Sample SB_200532_10863985: 4 cells
+Bulk CellTypist complete

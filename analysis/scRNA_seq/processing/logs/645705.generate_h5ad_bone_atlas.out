@@ -1,0 +1,46 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-13-24>
+Subject: Job 645705: <generate_h5ad_bone_atlas> in cluster <farm22> Done
+
+Job <generate_h5ad_bone_atlas> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Wed Jul  9 14:53:31 2025
+Job was executed on host(s) <8*node-13-24>, in queue <normal>, as user <sm54> in cluster <farm22> at Wed Jul  9 18:45:48 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Wed Jul  9 18:45:48 2025
+Terminated at Wed Jul  9 20:20:17 2025
+Results reported at Wed Jul  9 20:20:17 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda;
+   conda activate boneatlas;
+   cd /nfs/team298/sm54/BoneAtlasProject/src/processing;
+   python 01_generate_h5ad.py      --metadata /nfs/team298/sm54/BoneAtlasProject/metadata/sample_metadata/COMBINED_BONE_CROSS_ORGAN_METADATA.csv      --dataset Bone_Atlas      --raw_dir /nfs/cellgeni/tickets/tic-3721/Cellbender/cellbender-results/      --output_dir /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/      --merged_name bone_atlas_unfiltered.h5ad      --log_level INFO      --log_dir /nfs/team298/sm54/BoneAtlasProject/raw/logs
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   5455.00 sec.
+    Max Memory :                                 143004 MB
+    Average Memory :                             72013.18 MB
+    Total Requested Memory :                     300000.00 MB
+    Delta Memory :                               156996.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                11
+    Run time :                                   5668 sec.
+    Turnaround time :                            19606 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <645705.generate_h5ad_bone_atlas.err> for stderr output of this job.
+

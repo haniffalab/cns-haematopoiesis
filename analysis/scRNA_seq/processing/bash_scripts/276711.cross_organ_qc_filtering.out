@@ -1,0 +1,70 @@
+⚠️  2111543 cells did not get full metadata from `Sample_ID` join
+... storing 'Organ' as categorical
+... storing '10X_Chemistry' as categorical
+... storing 'Accession_ID' as categorical
+... storing 'Age' as categorical
+... storing 'Age(PCW)' as categorical
+... storing 'Dataset' as categorical
+... storing 'Donor_ID' as categorical
+... storing 'FACS_Sorting' as categorical
+... storing 'Anatomical_Site' as categorical
+... storing 'Method' as categorical
+... storing 'Multiplexed' as categorical
+... storing 'Organism' as categorical
+... storing 'Study' as categorical
+... storing 'Technology' as categorical
+... storing 'Anatomical_region_pf' as categorical
+... storing 'BCR_library_id' as categorical
+... storing 'Comment[library construction]' as categorical
+... storing 'Comment[technical replicate group]' as categorical
+... storing 'Donor_pf' as categorical
+... storing 'End_Bias' as categorical
+... storing 'Factor Value[facs sorting]' as categorical
+... storing 'File_pf' as categorical
+... storing 'Method_pf' as categorical
+... storing 'Organ_Orig' as categorical
+... storing 'Organ_pf' as categorical
+... storing 'Processing_method' as categorical
+... storing 'Processing_method_pf' as categorical
+Terminated
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-13-22>
+Subject: Job 276711: <cross_organ_qc_filtering> in cluster <farm22> Exited
+
+Job <cross_organ_qc_filtering> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Mon Jul 14 21:41:44 2025
+Job was executed on host(s) <8*node-13-22>, in queue <normal>, as user <sm54> in cluster <farm22> at Mon Jul 14 21:41:51 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Mon Jul 14 21:41:51 2025
+Terminated at Mon Jul 14 22:17:29 2025
+Results reported at Mon Jul 14 22:17:29 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda;
+   conda activate boneatlas;
+   cd /nfs/team298/sm54/BoneAtlasProject/src/processing;
+   python -u 05_basic_qc_filtering_add_metadata.py     --adata-file /lustre/scratch124/cellgen/haniffa/users/sm54/data/Cross_Organ/cross_organ_unfiltered.h5ad      --metadata-file /nfs/team298/sm54/BoneAtlasProject/metadata/sample_metadata/COMBINED_BONE_CROSS_ORGAN_METADATA.csv      --output-file /lustre/scratch124/cellgen/haniffa/users/sm54/data/Cross_Organ/cross_organ_filtered_with_metadata.h5ad 
+------------------------------------------------------------
+
+TERM_MEMLIMIT: job killed after reaching LSF memory usage limit.
+Exited with exit code 143.
+
+Resource usage summary:
+
+    CPU time :                                   2050.34 sec.
+    Max Memory :                                 452147 MB
+    Average Memory :                             322144.78 MB
+    Total Requested Memory :                     450000.00 MB
+    Delta Memory :                               -2147.00 MB
+    Max Swap :                                   2 MB
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   2137 sec.
+    Turnaround time :                            2145 sec.
+
+The output (if any) is above this job summary.
+

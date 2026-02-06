@@ -1,0 +1,83 @@
+🔹 Reading AnnData var indices only (light mode)...
+✅ Gene names and order are identical between both AnnData files.
+🔹 Reloading full objects for concatenation...
+🔹 Merging...
+💾 Saving combined file...
+Traceback (most recent call last):
+  File "/nfs/team298/sm54/BoneAtlasProject/src/processing/07_generate_combined_h5ad_with_gene_names.py", line 92, in <module>
+    # Only convert problematic columns
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/anndata/_core/anndata.py", line 1929, in write_h5ad
+    write_h5ad(
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/anndata/_io/h5ad.py", line 104, in write_h5ad
+    write_elem(f, "obs", adata.obs, dataset_kwargs=dataset_kwargs)
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/anndata/_io/specs/registry.py", line 359, in write_elem
+    Writer(_REGISTRY).write_elem(store, k, elem, dataset_kwargs=dataset_kwargs)
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/anndata/_io/utils.py", line 243, in func_wrapper
+    return func(*args, **kwargs)
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/anndata/_io/specs/registry.py", line 309, in write_elem
+    return write_func(store, k, elem, dataset_kwargs=dataset_kwargs)
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/anndata/_io/specs/registry.py", line 57, in wrapper
+    result = func(g, k, *args, **kwargs)
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/anndata/_io/specs/methods.py", line 709, in write_dataframe
+    _writer.write_elem(
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/anndata/_io/utils.py", line 243, in func_wrapper
+    return func(*args, **kwargs)
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/anndata/_io/specs/registry.py", line 309, in write_elem
+    return write_func(store, k, elem, dataset_kwargs=dataset_kwargs)
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/anndata/_io/specs/registry.py", line 57, in wrapper
+    result = func(g, k, *args, **kwargs)
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/anndata/_io/specs/methods.py", line 414, in write_vlen_string_array
+    f.create_dataset(k, data=elem.astype(str_dtype), dtype=str_dtype, **dataset_kwargs)
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/h5py/_hl/group.py", line 186, in create_dataset
+    dsid = dataset.make_new_dset(group, shape, dtype, data, name, **kwds)
+  File "/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/h5py/_hl/dataset.py", line 178, in make_new_dset
+    dset_id.write(h5s.ALL, h5s.ALL, data)
+  File "h5py/_objects.pyx", line 56, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 57, in h5py._objects.with_phil.wrapper
+  File "h5py/h5d.pyx", line 307, in h5py.h5d.DatasetID.write
+  File "h5py/_proxy.pyx", line 155, in h5py._proxy.dset_rw
+  File "h5py/_conv.pyx", line 442, in h5py._conv.str2vlen
+  File "h5py/_conv.pyx", line 96, in h5py._conv.generic_converter
+  File "h5py/_conv.pyx", line 247, in h5py._conv.conv_str2vlen
+TypeError: Can't implicitly convert non-string objects to strings
+Error raised while writing key 'Age' of <class 'h5py._hl.group.Group'> to /obs
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-5-10-4>
+Subject: Job 524633: <combine_all_objects> in cluster <gen22> Exited
+
+Job <combine_all_objects> was submitted from host <node-5-10-4> by user <sm54> in cluster <gen22> at Sat Nov  1 22:54:53 2025
+Job was executed on host(s) <2*node-5-10-4>, in queue <normal>, as user <sm54> in cluster <gen22> at Sun Nov  2 01:32:19 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Sun Nov  2 01:32:19 2025
+Terminated at Sun Nov  2 01:49:23 2025
+Results reported at Sun Nov  2 01:49:23 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda;
+   conda activate boneatlas;
+   cd /nfs/team298/sm54/BoneAtlasProject/src/processing;
+   python 07_generate_combined_h5ad_with_gene_names.py --adata1 /lustre/scratch124/cellgen/haniffa/users/sm54/data/combined_adata_for_scvi.h5ad --adata2 /lustre/scratch124/cellgen/haniffa/users/sm54/data/Linnarson/Linnarson_filtered_with_metadata.h5ad --output /lustre/scratch124/cellgen/haniffa/users/sm54/data/combined_adata_bone_cross_organ_brain_for_scvi_with_gene_names.h5ad
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   954.29 sec.
+    Max Memory :                                 449674 MB
+    Average Memory :                             306182.56 MB
+    Total Requested Memory :                     550000.00 MB
+    Delta Memory :                               100326.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   1024 sec.
+    Turnaround time :                            10470 sec.
+
+The output (if any) is above this job summary.
+

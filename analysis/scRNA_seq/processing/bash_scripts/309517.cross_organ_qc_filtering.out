@@ -1,0 +1,80 @@
+⚠️  2111543 cells did not get full metadata from `Sample_ID` join
+... storing 'Organ' as categorical
+... storing '10X_Chemistry' as categorical
+... storing 'Accession_ID' as categorical
+... storing 'Age' as categorical
+... storing 'Age(PCW)' as categorical
+... storing 'Dataset' as categorical
+... storing 'Donor_ID' as categorical
+... storing 'FACS_Sorting' as categorical
+... storing 'Anatomical_Site' as categorical
+... storing 'Method' as categorical
+... storing 'Multiplexed' as categorical
+... storing 'Organism' as categorical
+... storing 'Study' as categorical
+... storing 'Technology' as categorical
+... storing 'Anatomical_region_pf' as categorical
+... storing 'BCR_library_id' as categorical
+... storing 'Comment[library construction]' as categorical
+... storing 'Comment[technical replicate group]' as categorical
+... storing 'Donor_pf' as categorical
+... storing 'End_Bias' as categorical
+... storing 'Factor Value[facs sorting]' as categorical
+... storing 'File_pf' as categorical
+... storing 'Method_pf' as categorical
+... storing 'Organ_Orig' as categorical
+... storing 'Organ_pf' as categorical
+... storing 'Processing_method' as categorical
+... storing 'Processing_method_pf' as categorical
+... storing 'Sample' as categorical
+... storing 'Sample_pf' as categorical
+... storing 'Sampling_Site' as categorical
+... storing 'Sex' as categorical
+... storing 'Sex_pf' as categorical
+... storing 'Sort_id_pf' as categorical
+... storing 'Termination_method_pf' as categorical
+... storing 'abTCR_library_id_pf' as categorical
+... storing 'gdTCR_library_id_pf' as categorical
+... storing 'Organ.1' as categorical
+... storing 'QC' as categorical
+Filtered AnnData written to /lustre/scratch124/cellgen/haniffa/users/sm54/data/Cross_Organ/cross_organ_filtered_with_metadata.h5ad
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-12-2-1>
+Subject: Job 309517: <cross_organ_qc_filtering> in cluster <farm22> Done
+
+Job <cross_organ_qc_filtering> was submitted from host <farm22-head1> by user <sm54> in cluster <farm22> at Tue Jul 15 02:25:20 2025
+Job was executed on host(s) <8*node-12-2-1>, in queue <normal>, as user <sm54> in cluster <farm22> at Tue Jul 15 02:44:29 2025
+</nfs/users/nfs_s/sm54> was used as the home directory.
+</nfs/team298/sm54/BoneAtlasProject/src/processing/bash_scripts> was used as the working directory.
+Started at Tue Jul 15 02:44:29 2025
+Terminated at Tue Jul 15 03:22:33 2025
+Results reported at Tue Jul 15 03:22:33 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+module load cellgen/conda;
+   conda activate boneatlas;
+   cd /nfs/team298/sm54/BoneAtlasProject/src/processing;
+   python -u 05_basic_qc_filtering_add_metadata.py     --adata-file /lustre/scratch124/cellgen/haniffa/users/sm54/data/Cross_Organ/cross_organ_unfiltered.h5ad      --metadata-file /nfs/team298/sm54/BoneAtlasProject/metadata/sample_metadata/COMBINED_BONE_CROSS_ORGAN_METADATA.csv      --output-file /lustre/scratch124/cellgen/haniffa/users/sm54/data/Cross_Organ/cross_organ_filtered_with_metadata.h5ad 
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   2274.00 sec.
+    Max Memory :                                 516293 MB
+    Average Memory :                             314084.44 MB
+    Total Requested Memory :                     650000.00 MB
+    Delta Memory :                               133707.00 MB
+    Max Swap :                                   2 MB
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   2282 sec.
+    Turnaround time :                            3433 sec.
+
+The output (if any) is above this job summary.
+

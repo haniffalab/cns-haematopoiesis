@@ -1,0 +1,661 @@
+Bulk Scrublet on /lustre/scratch124/cellgen/haniffa/users/sm54/data/Bone_Atlas/bone_atlas_unfiltered.h5ad
+[Doublet] Processing HCA_BN_F12482363 (37299 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12482363
+[Doublet] Processing HCA_BN_F12482364 (45048 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12482364
+[Doublet] Processing HCA_BN_F12482365 (40120 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12482365
+[Doublet] Processing HCA_BN_F12482366 (5632 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12482366
+[Doublet] Processing HCA_BN_F12966455 (25594 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12966455
+[Doublet] Processing HCA_BN_F12966457 (24028 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12966457
+[Doublet] Processing HCA_BN_F12966458 (12208 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12966458
+[Doublet] Processing HCA_BN_F13109710 (27933 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F13109710
+[Doublet] Processing HCA_BN_F13109711 (26230 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F13109711
+[Doublet] Processing HCA_BN_F13109712 (26062 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F13109712
+[Doublet] Processing HCA_BN_F13109713 (43263 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F13109713
+[Doublet] Processing HCA_BN_F13177434 (13068 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F13177434
+[Doublet] Processing HCA_BN_F13177435 (14771 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F13177435
+[Doublet] Processing HCA_BN_F13177436 (14899 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F13177436
+[Doublet] Processing HCA_BN_F12808058 (11303 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12808058
+[Doublet] Processing HCA_BN_F12808059 (34082 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12808059
+[Doublet] Processing HCA_BN_F12808060 (29986 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12808060
+[Doublet] Processing HCA_BN_F12922481 (13804 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12922481
+[Doublet] Processing HCA_BN_F12922486 (27278 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12922486
+[Doublet] Processing HCA_BN_F12874040 (48752 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12874040
+[Doublet] Processing HCA_BN_F12863837 (14721 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12863837
+[Doublet] Processing HCA_BN_F12874043 (33759 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12874043
+[Doublet] Processing HCA_BN_F12627471 (28425 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12627471
+[Doublet] Processing HCA_BN_F12922485 (19011 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12922485
+[Doublet] Processing HCA_BN_F12627472 (22034 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12627472
+[Doublet] Processing HCA_BN_F12922482 (15807 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12922482
+[Doublet] Processing HCA_BN_F12922484 (18714 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12922484
+[Doublet] Processing HCA_BN_F12874047 (42179 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12874047
+[Doublet] Processing HCA_BN_F12874041 (41706 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12874041
+[Doublet] Processing HCA_BN_F12874046 (30213 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12874046
+[Doublet] Processing HCA_BN_F12863835 (17759 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12863835
+[Doublet] Processing HCA_BN_F12874044 (38999 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12874044
+[Doublet] Processing HCA_BN_F12627470 (48304 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12627470
+[Doublet] Processing HCA_BN_F12922483 (15793 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12922483
+[Doublet] Processing HCA_BN_F12874042 (40143 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12874042
+[Doublet] Processing HCA_BN_F12863836 (58057 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12863836
+[Doublet] Processing HCA_BN_F12874045 (32157 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12874045
+[Doublet] Processing HCA_BN_F12922487 (22900 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12922487
+[Doublet] Processing HCA_BN_F12627473 (27244 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12627473
+[Doublet] Processing HCA_BN_F12808062 (36576 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12808062
+[Doublet] Processing HCA_BN_F12808061 (41797 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12808061
+[Doublet] Processing HCA_BN_F12482359 (9385 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12482359
+[Doublet] Processing HCA_BN_F12966456 (63600 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12966456
+[Doublet] Processing HCA_BN_F12966460 (25856 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12966460
+[Doublet] Processing HCA_BN_F12966461 (58628 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12966461
+[Doublet] Processing HCA_BN_F13177437 (45655 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F13177437
+[Doublet] Processing HCA_BN_F12482360 (1436 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12482360
+[Doublet] Processing HCA_BN_F12482361 (31719 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12482361
+[Doublet] Processing HCA_BN_F12482362 (8583 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12482362
+[Doublet] Processing HCA_BN_F12966459 (26501 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F12966459
+[Doublet] Processing HCA_BN_F13109714 (21175 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F13109714
+[Doublet] Processing HCA_BN_F13109715 (18876 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F13109715
+[Doublet] Processing HCA_BN_F13109718 (8707 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F13109718
+[Doublet] Processing HCA_BN_F13109719 (6358 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished HCA_BN_F13109719
+[Doublet] Processing SB_200532_10841321 (18431 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10841321
+[Doublet] Processing SB_200532_10621989 (8722 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10621989
+[Doublet] Processing SB_200532_10621992 (11251 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10621992
+[Doublet] Processing SB_200532_10621990 (10499 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10621990
+[Doublet] Processing SB_200532_10621991 (14026 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10621991
+[Doublet] Processing SB_200532_10841322 (10026 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10841322
+[Doublet] Processing SB_200532_10841323 (12743 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10841323
+[Doublet] Processing SB_200532_10032965 (12301 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10032965
+[Doublet] Processing SB_200532_10032967 (12008 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10032967
+[Doublet] Processing SB_200532_10032966 (52328 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10032966
+[Doublet] Processing SB_200532_10032968 (7453 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10032968
+[Doublet] Processing SB_200532_10032964 (12321 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10032964
+[Doublet] Processing SB_200532_10032969 (13673 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10032969
+[Doublet] Processing SB_200532_10841316 (3539 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10841316
+[Doublet] Processing SB_200532_10841317 (7408 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished SB_200532_10841317
+[Doublet] Processing SB_200532_10841318 (8611 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished SB_200532_10841318
+[Doublet] Processing SB_200532_10841319 (1866 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10841319
+[Doublet] Processing SB_200532_10841320 (3077 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10841320
+[Doublet] Processing SB_200532_10297927 (2691 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10297927
+[Doublet] Processing SB_200532_10297933 (23518 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10297933
+[Doublet] Processing SB_200532_10297922 (6426 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10297922
+[Doublet] Processing SB_200532_10297928 (3736 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10297928
+[Doublet] Processing SB_200532_10297923 (5819 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished SB_200532_10297923
+[Doublet] Processing SB_200532_10297929 (1687 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10297929
+[Doublet] Processing SB_200532_10297924 (7941 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10297924
+[Doublet] Processing SB_200532_10297930 (5702 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10297930
+[Doublet] Processing SB_200532_10297925 (6737 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished SB_200532_10297925
+[Doublet] Processing SB_200532_10297931 (6901 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10297931
+[Doublet] Processing SB_200532_10297926 (6486 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10297926
+[Doublet] Processing SB_200532_10297932 (11927 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10297932
+[Doublet] Processing SB_200532_11254458 (8689 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11254458
+[Doublet] Processing SB_200532_11254463 (44865 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11254463
+[Doublet] Processing SB_200532_11254461 (26875 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11254461
+[Doublet] Processing SB_200532_11254466 (46542 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11254466
+[Doublet] Processing SB_200532_11254462 (2232 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11254462
+[Doublet] Processing SB_200532_11254467 (32873 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11254467
+[Doublet] Processing SB_200532_11254459 (5619 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11254459
+[Doublet] Processing SB_200532_11254464 (18570 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11254464
+[Doublet] Processing SB_200532_11254460 (18597 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11254460
+[Doublet] Processing SB_200532_11254465 (27228 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11254465
+[Doublet] Processing SB_200532_10863985 (7270 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10863985
+[Doublet] Processing SB_200532_10863991 (8977 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10863991
+[Doublet] Processing SB_200532_10863988 (2218 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10863988
+[Doublet] Processing SB_200532_10863994 (6708 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10863994
+[Doublet] Processing SB_200532_10863989 (6652 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10863989
+[Doublet] Processing SB_200532_10863995 (9022 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10863995
+[Doublet] Processing SB_200532_10863986 (9027 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10863986
+[Doublet] Processing SB_200532_10863992 (7928 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10863992
+[Doublet] Processing SB_200532_10863987 (11474 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10863987
+[Doublet] Processing SB_200532_10863993 (10040 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_10863993
+[Doublet] Processing SB_200532_11018313 (18515 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11018313
+[Doublet] Processing SB_200532_11018314 (15533 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11018314
+[Doublet] Processing SB_200532_11018315 (35047 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11018315
+[Doublet] Processing SB_200532_11018316 (21349 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11018316
+[Doublet] Processing SB_200532_11018317 (30832 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11018317
+[Doublet] Processing SB_200532_11018318 (51539 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11018318
+[Doublet] Processing SB_200532_11018319 (22749 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11018319
+[Doublet] Processing SB_200532_11018320 (29504 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11018320
+[Doublet] Processing SB_200532_11018321 (46137 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11018321
+[Doublet] Processing SB_200532_11018322 (20427 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11018322
+[Doublet] Processing SB_200532_11018323 (14048 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11018323
+[Doublet] Processing SB_200532_11018324 (39821 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished SB_200532_11018324
+[Doublet] Processing GSM4274188 (7142 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished GSM4274188
+[Doublet] Processing GSM4274189 (10970 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished GSM4274189
+[Doublet] Processing GSM4274190 (13643 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished GSM4274190
+[Doublet] Processing GSM4274191 (5466 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished GSM4274191
+[Doublet] Processing GSM4274192 (9450 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished GSM4274192
+[Doublet] Processing GSM4274193 (10200 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished GSM4274193
+[Doublet] Processing GSM4274194 (7138 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished GSM4274194
+[Doublet] Processing GSM4609136 (9080 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished GSM4609136
+[Doublet] Processing 5386STDY7537944 (6249 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5386STDY7537944
+[Doublet] Processing 5478STDY7717491 (12876 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7717491
+[Doublet] Processing 5478STDY7717492 (10778 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7717492
+[Doublet] Processing 5478STDY7652318 (6755 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished 5478STDY7652318
+[Doublet] Processing 5386STDY7557336 (5150 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5386STDY7557336
+[Doublet] Processing 5386STDY7557337 (5307 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished 5386STDY7557337
+[Doublet] Processing 5386STDY7557335 (6862 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished 5386STDY7557335
+[Doublet] Processing FCAImmP7536758 (7773 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished FCAImmP7536758
+[Doublet] Processing FCAImmP7536759 (7996 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished FCAImmP7536759
+[Doublet] Processing 5478STDY7980348 (5369 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7980348
+[Doublet] Processing 5478STDY7980349 (6255 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished 5478STDY7980349
+[Doublet] Processing 5478STDY7935101 (15161 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7935101
+[Doublet] Processing 5478STDY7935102 (10763 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7935102
+[Doublet] Processing WSSS_THYst9384953 (6426 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_THYst9384953
+[Doublet] Processing WSSS_THYst9384954 (5317 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_THYst9384954
+[Doublet] Processing WSSS_THYst9384955 (5736 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished WSSS_THYst9384955
+[Doublet] Processing WSSS_THYst9384956 (6222 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_THYst9384956
+[Doublet] Processing WSSS_THYst9384957 (4863 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_THYst9384957
+[Doublet] Processing WSSS_THYst9384958 (3773 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_THYst9384958
+[Doublet] Processing WSSS_THYst8796437 (10555 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_THYst8796437
+[Doublet] Processing WSSS_THYst8796438 (4784 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_THYst8796438
+[Doublet] Processing WSSS_THYst8796439 (7852 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_THYst8796439
+[Doublet] Processing WSSS_THYst8796440 (2950 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_THYst8796440
+[Doublet] Processing WSSS_THYst8796441 (4465 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_THYst8796441
+[Doublet] Processing WSSS_THYst8796442 (10304 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_THYst8796442
+[Doublet] Processing WSSS_F_BON8710636 (6775 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_F_BON8710636
+[Doublet] Processing WSSS_F_BON8710637 (4134 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_F_BON8710637
+[Doublet] Processing WSSS_F_BON8710638 (8324 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished WSSS_F_BON8710638
+[Doublet] Processing WSSS_F_BON8710639 (4513 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_F_BON8710639
+[Doublet] Processing WSSS_F_BON8710640 (4442 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_F_BON8710640
+[Doublet] Processing WSSS_F_BON8710641 (2309 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_F_BON8710641
+[Doublet] Processing WSSS_F_BON8710642 (7363 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished WSSS_F_BON8710642
+[Doublet] Processing WSSS_F_BON8710643 (3259 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished WSSS_F_BON8710643
+[Doublet] Processing FCAImmP7803028 (8500 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803028
+[Doublet] Processing FCAImmP7803029 (7919 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803029
+[Doublet] Processing FCAImmP7803030 (8028 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished FCAImmP7803030
+[Doublet] Processing FCAImmP7803031 (6317 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished FCAImmP7803031
+[Doublet] Processing FCAImmP7803032 (6426 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished FCAImmP7803032
+[Doublet] Processing FCAImmP7803033 (6562 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished FCAImmP7803033
+[Doublet] Processing FCAImmP7803016 (6470 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803016
+[Doublet] Processing FCAImmP7803017 (6407 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7803017
+[Doublet] Processing FCAImmP7803018 (5523 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished FCAImmP7803018
+[Doublet] Processing FCAImmP7803019 (5824 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished FCAImmP7803019
+[Doublet] Processing FCAImmP7579220 (4868 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579220
+[Doublet] Processing FCAImmP7579221 (3672 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579221
+[Doublet] Processing FCAImmP7579232 (6343 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579232
+[Doublet] Processing FCAImmP7579233 (3495 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7579233
+[Doublet] Processing FCAImmP7555853 (6370 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555853
+[Doublet] Processing FCAImmP7555854 (4617 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555854
+[Doublet] Processing FCAImmP7555862 (6681 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555862
+[Doublet] Processing FCAImmP7555855 (3753 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7555855
+[Doublet] Processing FCAImmP7528281 (5959 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528281
+[Doublet] Processing FCAImmP7528282 (3087 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7528282
+[Doublet] Processing FCAImmP7277566 (7272 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277566
+[Doublet] Processing FCAImmP7277567 (7267 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished FCAImmP7277567
+[Doublet] Processing FCAImmP7292035 (8191 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7292035
+[Doublet] Processing FCAImmP7277558 (2793 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277558
+[Doublet] Processing FCAImmP7277559 (9093 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7277559
+[Doublet] Processing FCAImmP7292031 (8411 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7292031
+[Doublet] Processing FCAImmP7179367 (4207 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7179367
+[Doublet] Processing FCAImmP7179368 (3235 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished FCAImmP7179368
+[Doublet] Processing 5478STDY7819844 (6228 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished 5478STDY7819844
+[Doublet] Processing 5478STDY7819845 (5316 cells)
+WARNING: adata.X seems to be already log-transformed.
+/software/cellgen/team298/sm54/envs/boneatlas/lib/python3.9/site-packages/scipy/sparse/_index.py:151: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+[Doublet] Finished 5478STDY7819845
+[Doublet] Processing 5478STDY7819846 (3906 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7819846
+[Doublet] Processing 5478STDY7819847 (5453 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7819847
+[Doublet] Processing 5478STDY7819848 (3821 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7819848
+[Doublet] Processing 5478STDY7819849 (3467 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7819849
+[Doublet] Processing 5478STDY7840021 (4420 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7840021
+[Doublet] Processing 5478STDY7840022 (4646 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7840022
+[Doublet] Processing 5478STDY7840023 (3647 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7840023
+[Doublet] Processing 5478STDY7840024 (1475 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7840024
+[Doublet] Processing 5478STDY7850142 (5303 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7850142
+[Doublet] Processing 5478STDY7850143 (5234 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7850143
+[Doublet] Processing 5478STDY7850144 (8561 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7850144
+[Doublet] Processing 5478STDY7850145 (1060 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7850145
+[Doublet] Processing 5478STDY7850146 (6617 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7850146
+[Doublet] Processing 5478STDY7850147 (8002 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7850147
+[Doublet] Processing 5478STDY7850148 (4230 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7850148
+[Doublet] Processing 5478STDY7850149 (7734 cells)
+WARNING: adata.X seems to be already log-transformed.
+[Doublet] Finished 5478STDY7850149
+Bulk Scrublet complete
